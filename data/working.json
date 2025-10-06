@@ -1,0 +1,156 @@
+[
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Veg Pakoda (8Pc)", "hi": "वेज पकोड़ा (8 पीस)" },
+    "price": 180,
+    "image": "",
+    "description": "Crispy and spicy vegetable fritters made with gram flour batter.",
+    "about": { "en": "Fresh vegetables coated with seasoned gram flour and deep-fried till golden.", "hi": "ताज़ी सब्जियों को बेसन के मसालेदार घोल में लपेटकर सुनहरा तला गया।" },
+    "ingredients": { "en": ["Gram Flour", "Onion", "Potato", "Spices", "Oil"], "hi": ["बेसन", "प्याज़", "आलू", "मसाले", "तेल"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Onion Chita Pakoda", "hi": "प्याज़ चीता पकोड़ा" },
+    "price": 150,
+    "image": "",
+    "description": "Crispy onion fritters with a spicy twist.",
+    "about": { "en": "Sliced onions dipped in spiced batter and fried crisp.", "hi": "प्याज़ के टुकड़ों को मसालेदार घोल में डुबोकर कुरकुरा तला गया।" },
+    "ingredients": { "en": ["Onion", "Gram Flour", "Chili", "Spices"], "hi": ["प्याज़", "बेसन", "मिर्च", "मसाले"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Paneer Pakoda (8Pc)", "hi": "पनीर पकोड़ा (8 पीस)" },
+    "price": 240,
+    "image": "",
+    "description": "Soft cottage cheese cubes dipped in seasoned batter and fried.",
+    "about": { "en": "Fresh paneer pieces coated in spiced batter, deep-fried to perfection.", "hi": "ताज़े पनीर के टुकड़े मसालेदार घोल में लपेटकर सुनहरे तले गए।" },
+    "ingredients": { "en": ["Paneer", "Gram Flour", "Spices", "Oil"], "hi": ["पनीर", "बेसन", "मसाले", "तेल"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Paneer Finger (8Pc)", "hi": "पनीर फिंगर (8 पीस)" },
+    "price": 240,
+    "image": "",
+    "description": "Crispy paneer fingers coated with breadcrumbs and spices.",
+    "about": { "en": "Paneer sticks coated with breadcrumbs and fried until crisp.", "hi": "पनीर की स्टिक को ब्रेडक्रम्स में लपेटकर कुरकुरा तला गया।" },
+    "ingredients": { "en": ["Paneer", "Breadcrumbs", "Spices", "Oil"], "hi": ["पनीर", "ब्रेडक्रम्स", "मसाले", "तेल"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Finger Chips", "hi": "फिंगर चिप्स" },
+    "price": 130,
+    "image": "",
+    "description": "Golden fried potato fries served with ketchup.",
+    "about": { "en": "Crispy potato fries seasoned lightly with salt.", "hi": "कुरकुरी आलू फ्राई को हल्के नमक के साथ परोसा गया।" },
+    "ingredients": { "en": ["Potato", "Oil", "Salt"], "hi": ["आलू", "तेल", "नमक"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Chicken Pakoda (B/L) (8Pc)", "hi": "चिकन पकोड़ा (8 पीस)" },
+    "price": 250,
+    "image": "",
+    "description": "Boneless chicken pieces fried with Indian spices.",
+    "about": { "en": "Tender chicken coated with spiced batter and fried golden.", "hi": "मसालेदार घोल में लिपटा नरम चिकन सुनहरा तला गया।" },
+    "ingredients": { "en": ["Chicken", "Gram Flour", "Spices", "Oil"], "hi": ["चिकन", "बेसन", "मसाले", "तेल"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Egg Pakoda (8Pc)", "hi": "अंडा पकोड़ा (8 पीस)" },
+    "price": 180,
+    "image": "",
+    "description": "Boiled egg slices coated in spicy batter and fried.",
+    "about": { "en": "Egg halves dipped in seasoned batter and deep-fried.", "hi": "उबले अंडे के टुकड़ों को मसालेदार घोल में डुबोकर तला गया।" },
+    "ingredients": { "en": ["Egg", "Gram Flour", "Spices", "Oil"], "hi": ["अंडा", "बेसन", "मसाले", "तेल"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Fish Finger (8Pc)", "hi": "फिश फिंगर (8 पीस)" },
+    "price": 270,
+    "image": "",
+    "description": "Crispy fish fingers with a tangy dip.",
+    "about": { "en": "Fish strips seasoned, breaded, and fried to perfection.", "hi": "मसालेदार मछली की स्टिक को ब्रेडक्रम्स में लपेटकर तला गया।" },
+    "ingredients": { "en": ["Fish", "Breadcrumbs", "Spices", "Oil"], "hi": ["मछली", "ब्रेडक्रम्स", "मसाले", "तेल"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Chicken Lollypop (6Pc)", "hi": "चिकन लॉलिपॉप (6 पीस)" },
+    "price": 290,
+    "image": "",
+    "description": "Spicy Indo-Chinese chicken wings fried crisp.",
+    "about": { "en": "Marinated chicken wings deep-fried and served with spicy sauce.", "hi": "मसालेदार चिकन विंग्स को कुरकुरा तला गया और सॉस के साथ परोसा गया।" },
+    "ingredients": { "en": ["Chicken", "Soy Sauce", "Spices", "Oil"], "hi": ["चिकन", "सोया सॉस", "मसाले", "तेल"] }
+  },
+  {
+    "type": "Chat Patta Snacks",
+    "name": { "en": "Veg Lollypop (6Pc)", "hi": "वेज लॉलिपॉप (6 पीस)" },
+    "price": 230,
+    "image": "",
+    "description": "Crunchy vegetable balls served with spicy sauce.",
+    "about": { "en": "Mixed vegetables shaped into balls, coated and fried.", "hi": "मिश्रित सब्जियों से बने बॉल्स को मसालेदार घोल में लपेटकर तला गया।" },
+    "ingredients": { "en": ["Mixed Vegetables", "Flour", "Spices", "Oil"], "hi": ["मिश्रित सब्जियां", "मैदा", "मसाले", "तेल"] }
+  },
+
+  {
+    "type": "Veg Soup",
+    "name": { "en": "Tomato Soup", "hi": "टमाटर सूप" },
+    "price": 70,
+    "image": "",
+    "description": "Smooth and tangy tomato soup, a classic favorite.",
+    "about": { "en": "Pureed tomatoes cooked with mild spices for a rich flavor.", "hi": "मसालेदार टमाटर का प्यूरी सूप स्वादिष्ट और हल्का।" },
+    "ingredients": { "en": ["Tomato", "Onion", "Spices", "Cream"], "hi": ["टमाटर", "प्याज़", "मसाले", "क्रीम"] }
+  },
+  {
+    "type": "Veg Soup",
+    "name": { "en": "Veg Sweet Corn Soup", "hi": "स्वीट कॉर्न सूप" },
+    "price": 70,
+    "image": "",
+    "description": "Sweet corn cooked in a flavorful broth with mild spices.",
+    "about": { "en": "Corn kernels simmered with vegetables in a light spiced soup.", "hi": "मसालेदार हल्की सूप में सब्जियों के साथ मक्के के दाने।" },
+    "ingredients": { "en": ["Sweet Corn", "Carrot", "Cabbage", "Capsicum", "Spices", "Corn Flour"], "hi": ["मक्के", "गाजर", "पत्ता गोभी", "शिमला मिर्च", "मसाले", "कॉर्न फ्लोर"] }
+  },
+  {
+    "type": "Veg Soup",
+    "name": { "en": "Veg Hot & Sour Soup", "hi": "हॉट एंड सॉर सूप" },
+    "price": 70,
+    "image": "",
+    "description": "Spicy and tangy soup with mixed vegetables.",
+    "about": { "en": "A flavorful combination of spice and tang in a vegetable broth.", "hi": "मसालेदार और खट्टे स्वाद वाला सब्जियों का सूप।" },
+    "ingredients": { "en": ["Carrot", "Cabbage", "Capsicum", "Soy Sauce", "Vinegar", "Spices"], "hi": ["गाजर", "पत्ता गोभी", "शिमला मिर्च", "सोया सॉस", "सिरका", "मसाले"] }
+  },
+  {
+    "type": "Veg Soup",
+    "name": { "en": "Veg Noodle Soup", "hi": "वेज नूडल सूप" },
+    "price": 80,
+    "image": "",
+    "description": "Warm soup with vegetables and noodles.",
+    "about": { "en": "Soft noodles and vegetables cooked in flavorful broth.", "hi": "स्वादिष्ट शोरबे में पकाए गए नूडल्स और सब्जियां।" },
+    "ingredients": { "en": ["Noodles", "Carrot", "Beans", "Capsicum", "Spices"], "hi": ["नूडल्स", "गाजर", "बीन्स", "शिमला मिर्च", "मसाले"] }
+  },
+  {
+    "type": "Veg Soup",
+    "name": { "en": "Veg Manchow Soup", "hi": "मंचो सूप" },
+    "price": 90,
+    "image": "",
+    "description": "Spicy Indo-Chinese soup with vegetables and crispy noodles.",
+    "about": { "en": "Mixed vegetables cooked in hot and tangy Manchow sauce.", "hi": "मसालेदार मंचो सॉस में पकाई गई सब्जियों की मिश्रित सूप।" },
+    "ingredients": { "en": ["Carrot", "Cabbage", "Capsicum", "Beans", "Soy Sauce", "Noodles"], "hi": ["गाजर", "पत्ता गोभी", "शिमला मिर्च", "बीन्स", "सोया सॉस", "नूडल्स"] }
+  },
+  {
+    "type": "Veg Soup",
+    "name": { "en": "Lemon Coriander Veg Soup", "hi": "लेमन कोरियन्टर सूप" },
+    "price": 70,
+    "image": "",
+    "description": "Refreshing soup with lemon and coriander flavor.",
+    "about": { "en": "A light broth flavored with lemon juice and fresh coriander.", "hi": "नींबू के रस और ताज़ी धनिया के स्वाद वाला हल्का शोरबा।" },
+    "ingredients": { "en": ["Carrot", "Cabbage", "Capsicum", "Lemon Juice", "Coriander", "Spices"], "hi": ["गाजर", "पत्ता गोभी", "शिमला मिर्च", "नींबू का रस", "धनिया", "मसाले"] }
+  },
+  {
+    "type": "Veg Soup",
+    "name": { "en": "Veg Mushroom Soup", "hi": "वेज मशरूम सूप" },
+    "price": 90,
+    "image": "",
+    "description": "Rich and creamy mushroom soup with a velvety texture.",
+    "about": { "en": "Mushrooms cooked in a creamy broth with herbs.", "hi": "क्रीमी शोरबे में पकाए गए स्वादिष्ट मशरूम।" },
+    "ingredients": { "en": ["Mushroom", "Cream", "Onion", "Garlic", "Spices"], "hi": ["मशरूम", "क्रीम", "प्याज़", "लहसुन", "मसाले"] }
+  }
+]

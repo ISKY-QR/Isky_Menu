@@ -361,6 +361,27 @@ body {
   transform: scale(0.98);
 }
 
+.landing-description, .landing-highlights {
+  max-width: 600px;
+  margin: 16px auto;
+  font-size: 1.1rem;
+  color: #444;
+  line-height: 1.6;
+}
+
+.landing-highlights {
+  font-weight: 500;
+  color: #5a3d1e;
+  margin-top: 10px;
+}
+
+.landing-footer {
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+
 
 #landingTitle {
   font-family: 'Playfair Display', 'Georgia', serif; /* Elegant font */
