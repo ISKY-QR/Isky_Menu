@@ -434,3 +434,23 @@ body {
     font-size: 1.6rem;
   }
 }
+
+/* Menu header ad spacing */
+.menu-book header ins.adsbygoogle {
+  margin: 10px 0;           /* space above and below the ad */
+  max-width: 100%;           /* ensure it fits the header */
+}
+
+/* Optional: keep header content visually tight */
+.menu-book header h1,
+.menu-book header p,
+.menu-book header button {
+  margin: 5px 0;             /* reduce extra spacing */
+}
+
+/* Make ad responsive on mobile */
+@media (max-width: 600px) {
+  .menu-book header ins.adsbygoogle {
+    margin: 8px 0;
+  }
+}
