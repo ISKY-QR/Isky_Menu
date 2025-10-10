@@ -61,150 +61,148 @@
     {
       "key": "Veg Sabzi",
       "titleEn": "Veg Sabzi",
-      "titleHi": "Veg Sabzi"
+      "titleHi": "वेज सब्ज़ी"
     },
     {
       "key": "Egg Dishes",
       "titleEn": "Egg Dishes",
-      "titleHi": "Egg Dishes"
+      "titleHi": "अंडे के व्यंजन"
     },
     {
       "key": "Fish & Prawn Dishes",
       "titleEn": "Fish & Prawn Dishes",
-      "titleHi": "Fish & Prawn Dishes"
+      "titleHi": "मछली और झींगा व्यंजन"
     },
     {
       "key": "Salad & Raita",
       "titleEn": "Salad & Raita",
-      "titleHi": "Salad & Raita"
+      "titleHi": "सलाद और रायता"
     },
     {
       "key": "Basmati Rice",
       "titleEn": "Basmati Rice",
-      "titleHi": "Basmati Rice"
+      "titleHi": "बासमती चावल"
     },
     {
       "key": "BIDAI",
       "titleEn": "BIDAI",
-      "titleHi": "BIDAI"
+      "titleHi": "विदाई"
     },
     {
       "key": "GARAM GARAM ROTI NAN KULCHA",
       "titleEn": "GARAM GARAM ROTI NAN KULCHA",
-      "titleHi": "GARAM GARAM ROTI NAN KULCHA"
+      "titleHi": "गरम गरम रोटी नान कुलचा"
     },
     {
       "key": "Mutton Special",
       "titleEn": "Mutton Special",
-      "titleHi": "Mutton Special"
+      "titleHi": "मटन स्पेशल"
     },
     {
       "key": "BEVERAGE",
       "titleEn": "BEVERAGE",
-      "titleHi": "BEVERAGE"
+      "titleHi": "पेय पदार्थ"
     },
     {
       "key": "MAST MURGA",
       "titleEn": "MAST MURGA",
-      "titleHi": "MAST MURGA"
+      "titleHi": "मस्त मुर्गा"
     },
     {
       "key": "Breakfast",
       "titleEn": "Breakfast",
-      "titleHi": "Breakfast"
+      "titleHi": "नाश्ता"
     },
     {
       "key": "Breakfasdt",
       "titleEn": "Breadkfast",
-      "titleHi": "Breakfast"
+      "titleHi": "नाश्ता"
     },
     {
       "key": "SWEET DISH",
       "titleEn": "SWEET DISH",
-      "titleHi": "SWEET DISH"
+      "titleHi": "मिठाई"
     },
     {
       "key": "Dosa",
       "titleEn": "Dosa",
-      "titleHi": "Dosa"
+      "titleHi": "डोसा"
     },
     {
       "key": "UTTAPAM",
       "titleEn": "UTTAPAM",
-      "titleHi": "UTTAPAM"
+      "titleHi": "उत्तपम"
     }
   ],
   "items": [
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Veg Pakoda (8Pc)",
         "hi": "वेज पकोड़ा (8 पीस)"
       },
       "price": 180,
       "image": "",
-      "description": "Crispy and spicy vegetable fritters made with gram flour batter.",
+      "description": "Crispy mixed vegetable fritters.",
       "about": {
-        "en": "Fresh vegetables coated with seasoned gram flour and deep-fried till golden.",
-        "hi": "ताज़ी सब्जियों को बेसन के मसालेदार घोल में लपेटकर सुनहरा तला गया।"
+        "en": "Deep-fried fritters made with assorted vegetables and gram flour batter.",
+        "hi": "मिली-जुली सब्ज़ियों और बेसन के घोल से बने कुरकुरे पकौड़े।"
       },
       "ingredients": {
         "en": [
+          "Mixed Vegetables",
           "Gram Flour",
-          "Onion",
-          "Potato",
           "Spices",
           "Oil"
         ],
         "hi": [
+          "मिली-जुली सब्ज़ियाँ",
           "बेसन",
-          "प्याज़",
-          "आलू",
           "मसाले",
           "तेल"
         ]
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Onion Chita Pakoda",
-        "hi": "प्याज़ चीता पकोड़ा"
+        "hi": "प्याज चीटा पकोड़ा"
       },
       "price": 150,
       "image": "",
-      "description": "Crispy onion fritters with a spicy twist.",
+      "description": "Crispy and thin onion fritters.",
       "about": {
-        "en": "Sliced onions dipped in spiced batter and fried crisp.",
-        "hi": "प्याज़ के टुकड़ों को मसालेदार घोल में डुबोकर कुरकुरा तला गया।"
+        "en": "Thinly sliced onions coated in a spiced gram flour batter and deep-fried.",
+        "hi": "पतले कटे प्याज को मसालेदार बेसन के घोल में लपेटकर तला गया।"
       },
       "ingredients": {
         "en": [
           "Onion",
           "Gram Flour",
-          "Chili",
-          "Spices"
+          "Spices",
+          "Oil"
         ],
         "hi": [
-          "प्याज़",
+          "प्याज",
           "बेसन",
-          "मिर्च",
-          "मसाले"
+          "मसाले",
+          "तेल"
         ]
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Paneer Pakoda (8Pc)",
         "hi": "पनीर पकोड़ा (8 पीस)"
       },
       "price": 240,
       "image": "",
-      "description": "Soft cottage cheese cubes dipped in seasoned batter and fried.",
+      "description": "Cubes of Indian cheese deep-fried in a spiced batter.",
       "about": {
-        "en": "Fresh paneer pieces coated in spiced batter, deep-fried to perfection.",
-        "hi": "ताज़े पनीर के टुकड़े मसालेदार घोल में लपेटकर सुनहरे तले गए।"
+        "en": "Soft cottage cheese pieces dipped in a gram flour batter and fried until golden.",
+        "hi": "मुलायम पनीर के टुकड़ों को बेसन के घोल में डुबो कर सुनहरा होने तक तला गया।"
       },
       "ingredients": {
         "en": [
@@ -222,81 +220,81 @@
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Paneer Finger (8Pc)",
         "hi": "पनीर फिंगर (8 पीस)"
       },
       "price": 240,
       "image": "",
-      "description": "Crispy paneer fingers coated with breadcrumbs and spices.",
+      "description": "Long strips of paneer coated and fried to a crisp.",
       "about": {
-        "en": "Paneer sticks coated with breadcrumbs and fried until crisp.",
-        "hi": "पनीर की स्टिक को ब्रेडक्रम्स में लपेटकर कुरकुरा तला गया।"
+        "en": "Finger-sized pieces of paneer, seasoned, coated, and deep-fried.",
+        "hi": "पनीर के फिंगर-आकार के टुकड़े, मसालेदार कोटिंग में तले हुए।"
       },
       "ingredients": {
         "en": [
           "Paneer",
-          "Breadcrumbs",
+          "Bread Crumbs",
           "Spices",
           "Oil"
         ],
         "hi": [
           "पनीर",
-          "ब्रेडक्रम्स",
+          "ब्रेड क्रम्ब्स",
           "मसाले",
           "तेल"
         ]
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Finger Chips",
         "hi": "फिंगर चिप्स"
       },
       "price": 130,
       "image": "",
-      "description": "Golden fried potato fries served with ketchup.",
+      "description": "Classic salted potato fries.",
       "about": {
-        "en": "Crispy potato fries seasoned lightly with salt.",
-        "hi": "कुरकुरी आलू फ्राई को हल्के नमक के साथ परोसा गया।"
+        "en": "Thinly cut potato strips, deep-fried until crisp and lightly salted.",
+        "hi": "पतले कटे आलू के स्ट्रिप्स, कुरकुरा होने तक तले हुए और हल्के नमक वाले।"
       },
       "ingredients": {
         "en": [
           "Potato",
-          "Oil",
-          "Salt"
+          "Salt",
+          "Oil"
         ],
         "hi": [
           "आलू",
-          "तेल",
-          "नमक"
+          "नमक",
+          "तेल"
         ]
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Chicken Pakoda (B/L) (8Pc)",
-        "hi": "चिकन पकोड़ा (8 पीस)"
+        "hi": "चिकन पकोड़ा (बोनलेस) (8 पीस)"
       },
       "price": 250,
       "image": "",
-      "description": "Boneless chicken pieces fried with Indian spices.",
+      "description": "Tender boneless chicken fritters.",
       "about": {
-        "en": "Tender chicken coated with spiced batter and fried golden.",
-        "hi": "मसालेदार घोल में लिपटा नरम चिकन सुनहरा तला गया।"
+        "en": "Boneless chicken pieces marinated, coated in batter, and deep-fried.",
+        "hi": "बोनलेस चिकन के टुकड़े मैरीनेट किए हुए, घोल में लपेटकर तले हुए।"
       },
       "ingredients": {
         "en": [
-          "Chicken",
+          "Boneless Chicken",
           "Gram Flour",
           "Spices",
           "Oil"
         ],
         "hi": [
-          "चिकन",
+          "बोनलेस चिकन",
           "बेसन",
           "मसाले",
           "तेल"
@@ -304,17 +302,17 @@
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Egg Pakoda (8Pc)",
         "hi": "अंडा पकोड़ा (8 पीस)"
       },
       "price": 180,
       "image": "",
-      "description": "Boiled egg slices coated in spicy batter and fried.",
+      "description": "Boiled eggs coated in a spiced batter and fried.",
       "about": {
-        "en": "Egg halves dipped in seasoned batter and deep-fried.",
-        "hi": "उबले अंडे के टुकड़ों को मसालेदार घोल में डुबोकर तला गया।"
+        "en": "Hard-boiled eggs dipped in a spiced batter and deep-fried to a crisp.",
+        "hi": "उबले हुए अंडे को मसालेदार घोल में लपेटकर कुरकुरा तला गया।"
       },
       "ingredients": {
         "en": [
@@ -332,86 +330,280 @@
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
+      "name": {
+        "en": "Fish Cutlet (2Pc)",
+        "hi": "फिश कटलेट (2 पीस)"
+      },
+      "price": 230,
+      "image": "",
+      "description": "Spiced fish patties, crispy on the outside.",
+      "about": {
+        "en": "Flaky fish mixed with mashed potatoes and spices, then shallow-fried.",
+        "hi": "मछली को आलू और मसालों के साथ मिलाकर बनाया गया, फिर तला गया।"
+      },
+      "ingredients": {
+        "en": [
+          "Fish",
+          "Potato",
+          "Bread Crumbs",
+          "Spices"
+        ],
+        "hi": [
+          "मछली",
+          "आलू",
+          "ब्रेड क्रम्ब्स",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Fish Finger (8Pc)",
         "hi": "फिश फिंगर (8 पीस)"
       },
       "price": 270,
       "image": "",
-      "description": "Crispy fish fingers with a tangy dip.",
+      "description": "Crispy crumb-coated fish strips.",
       "about": {
-        "en": "Fish strips seasoned, breaded, and fried to perfection.",
-        "hi": "मसालेदार मछली की स्टिक को ब्रेडक्रम्स में लपेटकर तला गया।"
+        "en": "Strips of fish coated in breadcrumbs and deep-fried until golden.",
+        "hi": "मछली के टुकड़ों को ब्रेडक्रम्ब्स में लपेटकर सुनहरा होने तक तला गया।"
       },
       "ingredients": {
         "en": [
           "Fish",
-          "Breadcrumbs",
+          "Bread Crumbs",
           "Spices",
           "Oil"
         ],
         "hi": [
           "मछली",
-          "ब्रेडक्रम्स",
+          "ब्रेड क्रम्ब्स",
           "मसाले",
           "तेल"
         ]
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Chicken Lollypop (6Pc)",
-        "hi": "चिकन लॉलिपॉप (6 पीस)"
+        "hi": "चिकन लॉलीपॉप (6 पीस)"
       },
       "price": 290,
       "image": "",
-      "description": "Spicy Indo-Chinese chicken wings fried crisp.",
+      "description": "Spicy, deep-fried chicken wings served as a lollipop.",
       "about": {
-        "en": "Marinated chicken wings deep-fried and served with spicy sauce.",
-        "hi": "मसालेदार चिकन विंग्स को कुरकुरा तला गया और सॉस के साथ परोसा गया।"
+        "en": "Frenched chicken winglets marinated and deep-fried, a popular Indo-Chinese starter.",
+        "hi": "मैरीनेट किए हुए चिकन विंगलेट्स, तला हुआ, एक लोकप्रिय इंडो-चाइनीज स्टार्टर।"
       },
       "ingredients": {
         "en": [
-          "Chicken",
+          "Chicken Wings",
+          "Flour",
           "Soy Sauce",
-          "Spices",
-          "Oil"
+          "Spices"
         ],
         "hi": [
-          "चिकन",
+          "चिकन विंग्स",
+          "आटा",
           "सोया सॉस",
-          "मसाले",
-          "तेल"
+          "मसाले"
         ]
       }
     },
     {
-      "type": "Chat Patta Snacks",
+      "type": "CHAT PATTA SNACKS",
       "name": {
         "en": "Veg Lollypop (6Pc)",
-        "hi": "वेज लॉलिपॉप (6 पीस)"
+        "hi": "वेज लॉलीपॉप (6 पीस)"
       },
       "price": 230,
       "image": "",
-      "description": "Crunchy vegetable balls served with spicy sauce.",
+      "description": "Vegetable-based fritters shaped like lollipops.",
       "about": {
-        "en": "Mixed vegetables shaped into balls, coated and fried.",
-        "hi": "मिश्रित सब्जियों से बने बॉल्स को मसालेदार घोल में लपेटकर तला गया।"
+        "en": "Minced vegetables and spices formed into balls, coated and fried.",
+        "hi": "कटी हुई सब्जियाँ और मसाले, बॉल्स के आकार में बनाकर तले हुए।"
       },
       "ingredients": {
         "en": [
           "Mixed Vegetables",
-          "Flour",
+          "Potato",
+          "Bread Crumbs",
+          "Spices"
+        ],
+        "hi": [
+          "मिली-जुली सब्ज़ियाँ",
+          "आलू",
+          "ब्रेड क्रम्ब्स",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "CHAT PATTA SNACKS",
+      "name": {
+        "en": "Papad Masala",
+        "hi": "पापड़ मसाला"
+      },
+      "price": 100,
+      "image": "",
+      "description": "Roasted papad topped with a spicy vegetable mix.",
+      "about": {
+        "en": "Roasted papad served with a topping of chopped onion, tomato, coriander, and spices.",
+        "hi": "भुने हुए पापड़ को कटे प्याज, टमाटर, धनिया और मसालों के साथ परोसा गया।"
+      },
+      "ingredients": {
+        "en": [
+          "Papad",
+          "Onion",
+          "Tomato",
+          "Coriander",
+          "Spices"
+        ],
+        "hi": [
+          "पापड़",
+          "प्याज",
+          "टमाटर",
+          "धनिया",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "CHAT PATTA SNACKS",
+      "name": {
+        "en": "Papad Dry",
+        "hi": "पापड़ सूखा"
+      },
+      "price": 20,
+      "image": "",
+      "description": "Plain roasted papad.",
+      "about": {
+        "en": "A thin, crispy lentil cracker, roasted without oil.",
+        "hi": "बिना तेल के भुना हुआ एक पतला, कुरकुरा दाल का पापड़।"
+      },
+      "ingredients": {
+        "en": [
+          "Lentil Flour",
+          "Spices"
+        ],
+        "hi": [
+          "दाल का आटा",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "CHAT PATTA SNACKS",
+      "name": {
+        "en": "Papad Fry",
+        "hi": "पापड़ फ्राई"
+      },
+      "price": 30,
+      "image": "",
+      "description": "Plain deep-fried papad.",
+      "about": {
+        "en": "A thin, crispy lentil cracker, deep-fried.",
+        "hi": "तेल में तला हुआ एक पतला, कुरकुरा दाल का पापड़।"
+      },
+      "ingredients": {
+        "en": [
+          "Lentil Flour",
           "Spices",
           "Oil"
         ],
         "hi": [
-          "मिश्रित सब्जियां",
-          "मैदा",
+          "दाल का आटा",
           "मसाले",
           "तेल"
+        ]
+      }
+    },
+    {
+      "type": "CHAT PATTA SNACKS",
+      "name": {
+        "en": "Chicken Ghee Fry (12Pc)",
+        "hi": "चिकन घी फ्राई (12 पीस)"
+      },
+      "price": 560,
+      "image": "",
+      "description": "Spicy chicken preparation roasted in rich ghee.",
+      "about": {
+        "en": "Chicken pieces cooked in a rich, spicy masala and roasted in clarified butter (ghee).",
+        "hi": "चिकन के टुकड़े मसालेदार घी में भूनकर पकाए गए।"
+      },
+      "ingredients": {
+        "en": [
+          "Chicken",
+          "Ghee",
+          "Spices",
+          "Curry Leaves"
+        ],
+        "hi": [
+          "चिकन",
+          "घी",
+          "मसाले",
+          "करी पत्ता"
+        ]
+      }
+    },
+    {
+      "type": "CHAT PATTA SNACKS",
+      "name": {
+        "en": "American Corn Salted Pepper",
+        "hi": "अमेरिकन कॉर्न सॉल्टेड पेपर"
+      },
+      "price": 320,
+      "image": "",
+      "description": "Sweet corn kernels tossed with salt and pepper.",
+      "about": {
+        "en": "Boiled American sweet corn sautéed with butter, salt, and freshly ground pepper.",
+        "hi": "उबले हुए स्वीट कॉर्न को मक्खन, नमक और काली मिर्च के साथ भूना गया।"
+      },
+      "ingredients": {
+        "en": [
+          "Sweet Corn",
+          "Butter",
+          "Salt",
+          "Pepper"
+        ],
+        "hi": [
+          "स्वीट कॉर्न",
+          "मक्खन",
+          "नमक",
+          "काली मिर्च"
+        ]
+      }
+    },
+    {
+      "type": "CHAT PATTA SNACKS",
+      "name": {
+        "en": "Peanut Masala",
+        "hi": "पीनट मसाला"
+      },
+      "price": 150,
+      "image": "",
+      "description": "Roasted peanuts tossed with a tangy and spicy mix.",
+      "about": {
+        "en": "Peanuts mixed with chopped onion, tomato, coriander, lemon juice, and spices.",
+        "hi": "मूंगफली को कटे प्याज, टमाटर, धनिया, नींबू का रस और मसालों के साथ मिलाया गया।"
+      },
+      "ingredients": {
+        "en": [
+          "Peanuts",
+          "Onion",
+          "Tomato",
+          "Lemon Juice",
+          "Spices"
+        ],
+        "hi": [
+          "मूंगफली",
+          "प्याज",
+          "टमाटर",
+          "नींबू का रस",
+          "मसाले"
         ]
       }
     },
@@ -3341,13 +3533,15 @@
     {
       "type": "Egg Dishes",
       "name": {
-        "en": "Egg Curry (2Pc)"
+        "en": "Egg Curry (2Pc)",
+        "hi": "अंडा करी (2 पीस)"
       },
       "price": 110,
       "image": "",
       "description": "Two eggs cooked in a flavorful, traditional Indian curry.",
       "about": {
-        "en": "Hard-boiled eggs simmered in a rich, spiced tomato and onion gravy."
+        "en": "Hard-boiled eggs simmered in a rich, spiced tomato and onion gravy.",
+        "hi": "उबले हुए अंडे को मसालेदार टमाटर और प्याज की ग्रेवी में पकाया जाता है।"
       },
       "ingredients": {
         "en": [
@@ -3358,19 +3552,30 @@
           "Garlic",
           "Spices",
           "Coriander"
+        ],
+        "hi": [
+          "अंडा",
+          "प्याज",
+          "टमाटर",
+          "अदरक",
+          "लहसुन",
+          "मसाले",
+          "धनिया"
         ]
       }
     },
     {
       "type": "Egg Dishes",
       "name": {
-        "en": "Egg Do Pyaza (2Pc)"
+        "en": "Egg Do Pyaza (2Pc)",
+        "hi": "एग दो प्याज़ा (2 पीस)"
       },
       "price": 150,
       "image": "",
       "description": "Two eggs in a thick, semi-dry gravy with a generous amount of onions.",
       "about": {
-        "en": "A signature dish where onions are added at two stages, giving a distinct texture and flavor to the egg gravy."
+        "en": "A signature dish where onions are added at two stages, giving a distinct texture and flavor to the egg gravy.",
+        "hi": "इस खास डिश में प्याज दो चरणों में डाला जाता है, जिससे ग्रेवी को अलग स्वाद और बनावट मिलती है।"
       },
       "ingredients": {
         "en": [
@@ -3380,19 +3585,29 @@
           "Yogurt",
           "Spices",
           "Cream"
+        ],
+        "hi": [
+          "अंडा",
+          "प्याज",
+          "टमाटर",
+          "दही",
+          "मसाले",
+          "क्रीम"
         ]
       }
     },
     {
       "type": "Egg Dishes",
       "name": {
-        "en": "Egg Masala (2Pc)"
+        "en": "Egg Masala (2Pc)",
+        "hi": "एग मसाला (2 पीस)"
       },
       "price": 160,
       "image": "",
       "description": "Two eggs in a spicy, aromatic masala gravy.",
       "about": {
-        "en": "Hard-boiled eggs tossed in a dry, thick blend of pan-fried aromatic spices and onion-tomato paste."
+        "en": "Hard-boiled eggs tossed in a dry, thick blend of pan-fried aromatic spices and onion-tomato paste.",
+        "hi": "उबले अंडों को प्याज-टमाटर के मसालेदार पेस्ट और सुगंधित मसालों के साथ भूनकर तैयार किया जाता है।"
       },
       "ingredients": {
         "en": [
@@ -3402,19 +3617,29 @@
           "Capsicum",
           "Spices",
           "Garam Masala"
+        ],
+        "hi": [
+          "अंडा",
+          "प्याज",
+          "टमाटर",
+          "शिमला मिर्च",
+          "मसाले",
+          "गरम मसाला"
         ]
       }
     },
     {
       "type": "Egg Dishes",
       "name": {
-        "en": "Omelet Curry"
+        "en": "Omelet Curry",
+        "hi": "ऑमलेट करी"
       },
       "price": 140,
       "image": "",
       "description": "Fluffy omelet pieces served in a traditional Indian curry gravy.",
       "about": {
-        "en": "A savory omelet is cut into pieces and cooked further in a spiced gravy, absorbing the rich curry flavor."
+        "en": "A savory omelet is cut into pieces and cooked further in a spiced gravy, absorbing the rich curry flavor.",
+        "hi": "स्वादिष्ट ऑमलेट के टुकड़ों को मसालेदार ग्रेवी में पकाया जाता है जिससे वह करी का स्वाद सोख लेते हैं।"
       },
       "ingredients": {
         "en": [
@@ -3424,19 +3649,29 @@
           "Chili",
           "Spices",
           "Gravy Base"
+        ],
+        "hi": [
+          "अंडा",
+          "प्याज",
+          "टमाटर",
+          "मिर्च",
+          "मसाले",
+          "ग्रेवी बेस"
         ]
       }
     },
     {
       "type": "Egg Dishes",
       "name": {
-        "en": "Omlet"
+        "en": "Omlet",
+        "hi": "ऑमलेट"
       },
       "price": 70,
       "image": "",
       "description": "Classic fluffy omelet made with choice of onions, chili, and spices.",
       "about": {
-        "en": "Beaten eggs pan-fried with finely chopped onions, green chilies, and a touch of salt and pepper."
+        "en": "Beaten eggs pan-fried with finely chopped onions, green chilies, and a touch of salt and pepper.",
+        "hi": "फेंटे हुए अंडों को बारीक कटी प्याज, हरी मिर्च और नमक-मिर्च के साथ तला जाता है।"
       },
       "ingredients": {
         "en": [
@@ -3446,19 +3681,29 @@
           "Coriander",
           "Salt",
           "Oil"
+        ],
+        "hi": [
+          "अंडा",
+          "प्याज",
+          "मिर्च",
+          "धनिया",
+          "नमक",
+          "तेल"
         ]
       }
     },
     {
       "type": "Egg Dishes",
       "name": {
-        "en": "Egg Bhurji"
+        "en": "Egg Bhurji",
+        "hi": "एग भुर्जी"
       },
       "price": 90,
       "image": "",
       "description": "Indian style scrambled eggs cooked with finely chopped onions and tomatoes.",
       "about": {
-        "en": "A popular dish of scrambled eggs seasoned with Indian spices, served semi-dry."
+        "en": "A popular dish of scrambled eggs seasoned with Indian spices, served semi-dry.",
+        "hi": "भारतीय मसालों के साथ पकाई गई अंडे की भुर्जी, जो अर्ध-शुष्क रूप में परोसी जाती है।"
       },
       "ingredients": {
         "en": [
@@ -3469,19 +3714,30 @@
           "Cumin",
           "Turmeric",
           "Oil"
+        ],
+        "hi": [
+          "अंडा",
+          "प्याज",
+          "टमाटर",
+          "मिर्च",
+          "जीरा",
+          "हल्दी",
+          "तेल"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Fish Fry (2Pc)"
+        "en": "Fish Fry (2Pc)",
+        "hi": "फिश फ्राई (2 पीस)"
       },
       "price": 150,
       "image": "",
       "description": "Two pieces of boneless fish marinated in spices and deep-fried until crisp.",
       "about": {
-        "en": "Boneless fish pieces coated in a spicy batter and fried to perfection."
+        "en": "Boneless fish pieces coated in a spicy batter and fried to perfection.",
+        "hi": "मसालेदार घोल में लिपटी बोनलेस मछली को कुरकुरा होने तक तला जाता है।"
       },
       "ingredients": {
         "en": [
@@ -3491,19 +3747,29 @@
           "Chili Powder",
           "Rice Flour",
           "Oil"
+        ],
+        "hi": [
+          "बोनलेस मछली",
+          "अदरक पेस्ट",
+          "लहसुन पेस्ट",
+          "मिर्च पाउडर",
+          "चावल का आटा",
+          "तेल"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Fish Curry (2Pc)"
+        "en": "Fish Curry (2Pc)",
+        "hi": "फिश करी (2 पीस)"
       },
       "price": 190,
       "image": "",
       "description": "Two pieces of boneless fish simmered in a tangy and aromatic curry.",
       "about": {
-        "en": "Boneless fish cooked in a light, spiced gravy, often with a hint of tanginess from tamarind or tomato."
+        "en": "Boneless fish cooked in a light, spiced gravy, often with a hint of tanginess from tamarind or tomato.",
+        "hi": "बोनलेस मछली को हल्की मसालेदार ग्रेवी में पकाया जाता है जिसमें इमली या टमाटर की हल्की खटास होती है।"
       },
       "ingredients": {
         "en": [
@@ -3513,19 +3779,29 @@
           "Curry Leaves",
           "Mustard Seeds",
           "Spices"
+        ],
+        "hi": [
+          "बोनलेस मछली",
+          "नारियल का दूध",
+          "टमाटर",
+          "करी पत्ता",
+          "सरसों के दाने",
+          "मसाले"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Fish Masala (2Pc)"
+        "en": "Fish Masala (2Pc)",
+        "hi": "फिश मसाला (2 पीस)"
       },
       "price": 210,
       "image": "",
       "description": "Two pieces of boneless fish in a rich, dry, and thick masala coating.",
       "about": {
-        "en": "Boneless fish pieces tossed in a flavorful blend of pan-fried spices and a thick onion-tomato masala."
+        "en": "Boneless fish pieces tossed in a flavorful blend of pan-fried spices and a thick onion-tomato masala.",
+        "hi": "बोनलेस मछली के टुकड़ों को प्याज-टमाटर और मसालों के गाढ़े मिश्रण में पकाया जाता है।"
       },
       "ingredients": {
         "en": [
@@ -3536,19 +3812,30 @@
           "Garlic",
           "Coriander Powder",
           "Spices"
+        ],
+        "hi": [
+          "बोनलेस मछली",
+          "प्याज",
+          "टमाटर",
+          "अदरक",
+          "लहसुन",
+          "धनिया पाउडर",
+          "मसाले"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Fish Do Pyaza (2Pc)"
+        "en": "Fish Do Pyaza (2Pc)",
+        "hi": "फिश दो प्याज़ा (2 पीस)"
       },
       "price": 230,
       "image": "",
       "description": "Two pieces of boneless fish cooked with a double portion of onions in a semi-dry gravy.",
       "about": {
-        "en": "Boneless fish cooked in a flavorful semi-dry gravy featuring chunky pieces of onion added in two stages."
+        "en": "Boneless fish cooked in a flavorful semi-dry gravy featuring chunky pieces of onion added in two stages.",
+        "hi": "बोनलेस मछली को दो बार प्याज डालकर अर्ध-शुष्क मसालेदार ग्रेवी में पकाया जाता है।"
       },
       "ingredients": {
         "en": [
@@ -3559,19 +3846,30 @@
           "Cumin",
           "Garam Masala",
           "Spices"
+        ],
+        "hi": [
+          "बोनलेस मछली",
+          "प्याज",
+          "टमाटर",
+          "दही",
+          "जीरा",
+          "गरम मसाला",
+          "मसाले"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Fish Tikka Butter Masala (B/L) (8 Pc)"
+        "en": "Fish Tikka Butter Masala (B/L) (8 Pc)",
+        "hi": "फिश टिक्का बटर मसाला (बोनलेस) (8 पीस)"
       },
       "price": 370,
       "image": "",
       "description": "Eight pieces of boneless fish tikka in a creamy, buttery tomato-based gravy.",
       "about": {
-        "en": "Tandoor-cooked (or grilled) boneless fish tikka pieces simmered in a rich, mild, and creamy butter masala sauce."
+        "en": "Tandoor-cooked (or grilled) boneless fish tikka pieces simmered in a rich, mild, and creamy butter masala sauce.",
+        "hi": "तंदूर में पकी बोनलेस फिश टिक्का को मलाईदार बटर मसाला सॉस में पकाया जाता है।"
       },
       "ingredients": {
         "en": [
@@ -3582,19 +3880,30 @@
           "Cashews",
           "Fenugreek Leaves",
           "Spices"
+        ],
+        "hi": [
+          "बोनलेस फिश टिक्का",
+          "टमाटर प्यूरी",
+          "क्रीम",
+          "मक्खन",
+          "काजू",
+          "मेथी पत्ते",
+          "मसाले"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Golden Prawn Butter Masala (4 Pc/8 Pc)"
+        "en": "Golden Prawn Butter Masala (4 Pc/8 Pc)",
+        "hi": "गोल्डन प्रॉन बटर मसाला (4 पीस/8 पीस)"
       },
       "price": 640,
       "image": "",
       "description": "Prawns cooked in a luxurious, creamy, and buttery tomato-based gravy.",
       "about": {
-        "en": "Succulent golden prawns simmered in a rich, mild, and creamy butter masala sauce, available in full or half portions."
+        "en": "Succulent golden prawns simmered in a rich, mild, and creamy butter masala sauce, available in full or half portions.",
+        "hi": "रसदार गोल्डन प्रॉन को मलाईदार बटर मसाला सॉस में पकाया जाता है, जो हाफ या फुल सर्विंग में उपलब्ध है।"
       },
       "ingredients": {
         "en": [
@@ -3604,19 +3913,29 @@
           "Butter",
           "Cashews",
           "Spices"
+        ],
+        "hi": [
+          "प्रॉन",
+          "टमाटर प्यूरी",
+          "क्रीम",
+          "मक्खन",
+          "काजू",
+          "मसाले"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Golden Prawn Do Pyaza (4 Pc/8 Pc)"
+        "en": "Golden Prawn Do Pyaza (4 Pc/8 Pc)",
+        "hi": "गोल्डन प्रॉन दो प्याज़ा (4 पीस/8 पीस)"
       },
       "price": 640,
       "image": "",
       "description": "Prawns cooked with a double portion of onions in a semi-dry, flavorful gravy.",
       "about": {
-        "en": "Golden prawns prepared in a signature semi-dry gravy, distinguished by the addition of onions at two stages for depth of flavor, available in full or half portions."
+        "en": "Golden prawns prepared in a signature semi-dry gravy, distinguished by the addition of onions at two stages for depth of flavor, available in full or half portions.",
+        "hi": "गोल्डन प्रॉन को दो बार प्याज डालकर मसालेदार अर्ध-शुष्क ग्रेवी में पकाया जाता है, जो हाफ या फुल सर्विंग में उपलब्ध है।"
       },
       "ingredients": {
         "en": [
@@ -3627,19 +3946,30 @@
           "Ginger",
           "Garlic",
           "Spices"
+        ],
+        "hi": [
+          "प्रॉन",
+          "प्याज",
+          "टमाटर",
+          "दही",
+          "अदरक",
+          "लहसुन",
+          "मसाले"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Golden Prawn Curry (4 Pc/8 Pc)"
+        "en": "Golden Prawn Curry (4 Pc/8 Pc)",
+        "hi": "गोल्डन प्रॉन करी (4 पीस/8 पीस)"
       },
       "price": 640,
       "image": "",
       "description": "Prawns simmered in a traditional, aromatic curry gravy.",
       "about": {
-        "en": "Golden prawns cooked in a traditional, lightly spiced curry base, available in full or half portions."
+        "en": "Golden prawns cooked in a traditional, lightly spiced curry base, available in full or half portions.",
+        "hi": "गोल्डन प्रॉन को हल्के मसालेदार पारंपरिक करी बेस में पकाया जाता है, जो हाफ या फुल सर्विंग में उपलब्ध है।"
       },
       "ingredients": {
         "en": [
@@ -3650,19 +3980,30 @@
           "Chili",
           "Curry Leaves",
           "Spices"
+        ],
+        "hi": [
+          "प्रॉन",
+          "नारियल का दूध",
+          "टमाटर",
+          "इमली",
+          "मिर्च",
+          "करी पत्ता",
+          "मसाले"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Royal Prawn Chilli (4 Pc/8 Pc)"
+        "en": "Royal Prawn Chilli (4 Pc/8 Pc)",
+        "hi": "रॉयल प्रॉन चिली (4 पीस/8 पीस)"
       },
       "price": 650,
       "image": "",
       "description": "Prawns tossed in a spicy and tangy Indo-Chinese chili sauce.",
       "about": {
-        "en": "Royal prawns stir-fried with capsicum, onion, and a fiery chili-soy sauce blend, available in full or half portions."
+        "en": "Royal prawns stir-fried with capsicum, onion, and a fiery chili-soy sauce blend, available in full or half portions.",
+        "hi": "रॉयल प्रॉन को शिमला मिर्च, प्याज और तीखी चिली-सोया सॉस के साथ तला जाता है, जो हाफ या फुल सर्विंग में उपलब्ध है।"
       },
       "ingredients": {
         "en": [
@@ -3673,19 +4014,30 @@
           "Chili Sauce",
           "Garlic",
           "Ginger"
+        ],
+        "hi": [
+          "प्रॉन",
+          "शिमला मिर्च",
+          "प्याज",
+          "सोया सॉस",
+          "चिली सॉस",
+          "लहसुन",
+          "अदरक"
         ]
       }
     },
     {
       "type": "Fish & Prawn Dishes",
       "name": {
-        "en": "Golden Prawn Crispy (4 Pc/8 Pc)"
+        "en": "Golden Prawn Crispy (4 Pc/8 Pc)",
+        "hi": "गोल्डन प्रॉन क्रिस्पी (4 पीस/8 पीस)"
       },
       "price": 650,
       "image": "",
       "description": "Prawns coated and deep-fried until golden and crispy.",
       "about": {
-        "en": "Golden prawns marinated, coated with a crisp batter, and deep-fried for a crunchy exterior and tender interior, available in full or half portions."
+        "en": "Golden prawns marinated, coated with a crisp batter, and deep-fried for a crunchy exterior and tender interior, available in full or half portions.",
+        "hi": "गोल्डन प्रॉन को मसालेदार घोल में लपेटकर सुनहरा और कुरकुरा होने तक तला जाता है, जो हाफ या फुल सर्विंग में उपलब्ध है।"
       },
       "ingredients": {
         "en": [
@@ -3695,19 +4047,29 @@
           "Egg",
           "Spices",
           "Oil"
+        ],
+        "hi": [
+          "प्रॉन",
+          "मैदा",
+          "कॉर्नफ्लोर",
+          "अंडा",
+          "मसाले",
+          "तेल"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Green Salad"
+        "en": "Green Salad",
+        "hi": "ग्रीन सलाद"
       },
       "price": 60,
       "image": "",
       "description": "A mix of fresh, seasonal raw vegetables.",
       "about": {
-        "en": "A healthy assortment of raw vegetables like cucumber, tomato, and carrot, lightly seasoned."
+        "en": "A healthy assortment of raw vegetables like cucumber, tomato, and carrot, lightly seasoned.",
+        "hi": "खीरा, टमाटर और गाजर जैसी ताज़ी सब्ज़ियों का हल्का मसाला लगा मिश्रण।"
       },
       "ingredients": {
         "en": [
@@ -3716,38 +4078,54 @@
           "Carrot",
           "Lemon",
           "Salt"
+        ],
+        "hi": [
+          "खीरा",
+          "टमाटर",
+          "गाजर",
+          "नींबू",
+          "नमक"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Fruit Salad"
+        "en": "Fruit Salad",
+        "hi": "फ्रूट सलाद"
       },
       "price": 110,
       "image": "",
       "description": "A mix of assorted fresh seasonal fruits.",
       "about": {
-        "en": "A refreshing bowl of chopped seasonal fruits, often served with a light dressing or cream."
+        "en": "A refreshing bowl of chopped seasonal fruits, often served with a light dressing or cream.",
+        "hi": "कटे हुए ताज़े मौसमी फलों का स्वादिष्ट मिश्रण, हल्के ड्रे‍सिंग या क्रीम के साथ परोसा जाता है।"
       },
       "ingredients": {
         "en": [
           "Seasonal Fruits",
           "Sugar",
           "Cream (Optional)"
+        ],
+        "hi": [
+          "मौसमी फल",
+          "चीनी",
+          "क्रीम (वैकल्पिक)"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Onion Salad"
+        "en": "Onion Salad",
+        "hi": "प्याज सलाद"
       },
       "price": 40,
       "image": "",
       "description": "Thinly sliced red onions seasoned with lemon and spices.",
       "about": {
-        "en": "Simple, thinly sliced raw onions served with a squeeze of lime juice and a sprinkle of chaat masala."
+        "en": "Simple, thinly sliced raw onions served with a squeeze of lime juice and a sprinkle of chaat masala.",
+        "hi": "पतले कटे प्याज़, नींबू के रस और चाट मसाला के साथ परोसे जाते हैं।"
       },
       "ingredients": {
         "en": [
@@ -3755,37 +4133,51 @@
           "Lemon Juice",
           "Chaat Masala",
           "Salt"
+        ],
+        "hi": [
+          "प्याज",
+          "नींबू का रस",
+          "चाट मसाला",
+          "नमक"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Plain Curd"
+        "en": "Plain Curd",
+        "hi": "सादा दही"
       },
       "price": 70,
       "image": "",
       "description": "Fresh, homemade plain yogurt (curd).",
       "about": {
-        "en": "Thick, unsweetened fresh yogurt, a perfect cooling accompaniment to a spicy meal."
+        "en": "Thick, unsweetened fresh yogurt, a perfect cooling accompaniment to a spicy meal.",
+        "hi": "गाढ़ा, बिना चीनी का ताज़ा दही — मसालेदार खाने के साथ परोसने के लिए उत्तम।"
       },
       "ingredients": {
         "en": [
           "Milk",
           "Culture"
+        ],
+        "hi": [
+          "दूध",
+          "कल्चर"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Onion Raita"
+        "en": "Onion Raita",
+        "hi": "प्याज रायता"
       },
       "price": 80,
       "image": "",
       "description": "Whipped yogurt mixed with finely chopped onions and spices.",
       "about": {
-        "en": "A cooling side dish made from whipped yogurt, mixed with raw onions and seasoned with spices."
+        "en": "A cooling side dish made from whipped yogurt, mixed with raw onions and seasoned with spices.",
+        "hi": "फेंटा हुआ दही जिसमें कटा प्याज और मसाले मिलाए गए हों — एक ठंडक देने वाला साइड डिश।"
       },
       "ingredients": {
         "en": [
@@ -3793,19 +4185,27 @@
           "Onion",
           "Salt",
           "Roasted Cumin Powder"
+        ],
+        "hi": [
+          "दही",
+          "प्याज",
+          "नमक",
+          "भुना जीरा पाउडर"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Boondi Raita"
+        "en": "Boondi Raita",
+        "hi": "बूंदी रायता"
       },
       "price": 90,
       "image": "",
       "description": "Whipped yogurt mixed with crisp, fried gram flour pearls (boondi).",
       "about": {
-        "en": "A popular Indian condiment made with spiced yogurt and small, crisp fried gram flour balls."
+        "en": "A popular Indian condiment made with spiced yogurt and small, crisp fried gram flour balls.",
+        "hi": "दही और छोटे, कुरकुरे बेसन के बूंदी के साथ बना एक लोकप्रिय भारतीय रायता।"
       },
       "ingredients": {
         "en": [
@@ -3813,19 +4213,27 @@
           "Boondi (Gram Flour Pearls)",
           "Cumin Powder",
           "Chaat Masala"
+        ],
+        "hi": [
+          "दही",
+          "बूंदी (बेसन के दाने)",
+          "जीरा पाउडर",
+          "चाट मसाला"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Cucumber Raita"
+        "en": "Cucumber Raita",
+        "hi": "खीरा रायता"
       },
       "price": 90,
       "image": "",
       "description": "Whipped yogurt mixed with grated cucumber and a light seasoning.",
       "about": {
-        "en": "A refreshing side dish of yogurt mixed with grated cucumber and tempered with light spices."
+        "en": "A refreshing side dish of yogurt mixed with grated cucumber and tempered with light spices.",
+        "hi": "कद्दूकस किए हुए खीरे और हल्के मसालों के साथ मिला हुआ ठंडक देने वाला दही रायता।"
       },
       "ingredients": {
         "en": [
@@ -3834,19 +4242,28 @@
           "Green Chili",
           "Coriander",
           "Cumin Powder"
+        ],
+        "hi": [
+          "दही",
+          "खीरा",
+          "हरी मिर्च",
+          "धनिया",
+          "जीरा पाउडर"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Pineapple Raita"
+        "en": "Pineapple Raita",
+        "hi": "अनानास रायता"
       },
       "price": 110,
       "image": "",
       "description": "Sweet and tangy raita made with chopped pineapple pieces.",
       "about": {
-        "en": "Whipped yogurt mixed with small pieces of pineapple, sweetened slightly, offering a balance of sweet and savory."
+        "en": "Whipped yogurt mixed with small pieces of pineapple, sweetened slightly, offering a balance of sweet and savory.",
+        "hi": "कटा हुआ अनानास और हल्की मिठास के साथ मिला हुआ दही, मीठे और नमकीन स्वाद का संतुलन देता है।"
       },
       "ingredients": {
         "en": [
@@ -3854,19 +4271,27 @@
           "Pineapple Chunks",
           "Sugar",
           "Roasted Cumin Powder"
+        ],
+        "hi": [
+          "दही",
+          "अनानास के टुकड़े",
+          "चीनी",
+          "भुना जीरा पाउडर"
         ]
       }
     },
     {
       "type": "Salad & Raita",
       "name": {
-        "en": "Mix Raita"
+        "en": "Mix Raita",
+        "hi": "मिक्स रायता"
       },
       "price": 120,
       "image": "",
       "description": "Whipped yogurt mixed with a variety of chopped vegetables.",
       "about": {
-        "en": "A blend of whipped yogurt with mixed vegetables like onion, tomato, and cucumber, seasoned with mild spices."
+        "en": "A blend of whipped yogurt with mixed vegetables like onion, tomato, and cucumber, seasoned with mild spices.",
+        "hi": "फेंटा हुआ दही जिसमें प्याज, टमाटर और खीरा जैसी सब्ज़ियाँ हल्के मसालों के साथ मिलाई गई हैं।"
       },
       "ingredients": {
         "en": [
@@ -3876,6 +4301,14 @@
           "Cucumber",
           "Coriander",
           "Spices"
+        ],
+        "hi": [
+          "दही",
+          "प्याज",
+          "टमाटर",
+          "खीरा",
+          "धनिया",
+          "मसाले"
         ]
       }
     },
