@@ -4,9 +4,24 @@
   "logo": "images/appleResLogo.png",
   "sections": [
     {
-      "key": "Chat Patta Snacks",
-      "titleEn": "Chat Patta Snacks",
-      "titleHi": "चटपटा स्नैक्स"
+      "key": "Breakfast",
+      "titleEn": "Breakfast",
+      "titleHi": "नाश्ता"
+    },
+    {
+      "key": "Breakfasdt",
+      "titleEn": "Breadkfast",
+      "titleHi": "नाश्ता"
+    },
+    {
+      "key": "Dosa",
+      "titleEn": "Dosa",
+      "titleHi": "डोसा"
+    },
+    {
+      "key": "UTTAPAM",
+      "titleEn": "UTTAPAM",
+      "titleHi": "उत्तपम"
     },
     {
       "key": "Veg Soup",
@@ -19,24 +34,14 @@
       "titleHi": "नॉन वेज सूप"
     },
     {
-      "key": "Veg Chowmein",
-      "titleEn": "Veg Chowmein",
-      "titleHi": "वेज चाउमीन"
+      "key": "Chat Patta Snacks",
+      "titleEn": "Chat Patta Snacks",
+      "titleHi": "चटपटा स्नैक्स"
     },
-    {
-      "key": "Non-Veg Chowmein",
-      "titleEn": "Non-Veg Chowmein",
-      "titleHi": "नॉन वेज चाउमीन"
-    },
-    {
-      "key": "Egg Chowmein",
-      "titleEn": "Egg Chowmein",
-      "titleHi": "एग चाउमीन"
-    },
-    {
-      "key": "Veg Chop Suey",
-      "titleEn": "Veg Chop Suey",
-      "titleHi": "वेज चॉप सुए"
+     {
+      "key": "GARAM GARAM TANDOORI AUR KABAB",
+      "titleEn": "GARAM GARAM TANDOORI AUR KABAB",
+      "titleHi": "गरम गरम तंदूरी और कबाब"
     },
     {
       "key": "CHINESE",
@@ -44,13 +49,18 @@
       "titleHi": "चाइनीज़"
     },
     {
+      "key": "CHALOOM CHINESE",
+      "titleEn": "CHALOOM CHINESE",
+      "titleHi": "चलूम चाइनीज़"
+    },
+    {
       "key": "DAL GARMA GARAM",
       "titleEn": "DAL GARMA GARAM",
       "titleHi": "दाल गरमागरम"
     },
     {
-      "key": "Sabzi/Curry",
-      "titleEn": "Sabzi/Curry",
+      "key": "Sabzi Bazar",
+      "titleEn": "Sabzi Bazar",
       "titleHi": "सब्ज़ी/करी"
     },
     {
@@ -64,44 +74,9 @@
       "titleHi": "वेज सब्ज़ी"
     },
     {
-      "key": "Egg Dishes",
-      "titleEn": "Egg Dishes",
+      "key": "Ande Ka Funday",
+      "titleEn": "Ande Ka Funday",
       "titleHi": "अंडे के व्यंजन"
-    },
-    {
-      "key": "Fish & Prawn Dishes",
-      "titleEn": "Fish & Prawn Dishes",
-      "titleHi": "मछली और झींगा व्यंजन"
-    },
-    {
-      "key": "Salad & Raita",
-      "titleEn": "Salad & Raita",
-      "titleHi": "सलाद और रायता"
-    },
-    {
-      "key": "Basmati Rice",
-      "titleEn": "Basmati Rice",
-      "titleHi": "बासमती चावल"
-    },
-    {
-      "key": "BIDAI",
-      "titleEn": "BIDAI",
-      "titleHi": "विदाई"
-    },
-    {
-      "key": "GARAM GARAM ROTI NAN KULCHA",
-      "titleEn": "GARAM GARAM ROTI NAN KULCHA",
-      "titleHi": "गरम गरम रोटी नान कुलचा"
-    },
-    {
-      "key": "Mutton Special",
-      "titleEn": "Mutton Special",
-      "titleHi": "मटन स्पेशल"
-    },
-    {
-      "key": "BEVERAGE",
-      "titleEn": "BEVERAGE",
-      "titleHi": "पेय पदार्थ"
     },
     {
       "key": "MAST MURGA",
@@ -109,14 +84,29 @@
       "titleHi": "मस्त मुर्गा"
     },
     {
-      "key": "Breakfast",
-      "titleEn": "Breakfast",
-      "titleHi": "नाश्ता"
+      "key": "Mutton Special",
+      "titleEn": "Mutton Special",
+      "titleHi": "मटन स्पेशल"
     },
     {
-      "key": "Breakfasdt",
-      "titleEn": "Breadkfast",
-      "titleHi": "नाश्ता"
+      "key": "Fish & Prawn Dishes",
+      "titleEn": "Fish & Prawn Dishes",
+      "titleHi": "मछली और झींगा व्यंजन"
+    },
+    {
+      "key": "Basmati Rice",
+      "titleEn": "Basmati Rice",
+      "titleHi": "बासमती चावल"
+    },
+    {
+      "key": "GARAM GARAM ROTI NAN KULCHA",
+      "titleEn": "GARAM GARAM ROTI NAN KULCHA",
+      "titleHi": "गरम गरम रोटी नान कुलचा"
+    },
+    {
+      "key": "Salad & Raita",
+      "titleEn": "Salad & Raita",
+      "titleHi": "सलाद और रायता"
     },
     {
       "key": "SWEET DISH",
@@ -124,19 +114,19 @@
       "titleHi": "मिठाई"
     },
     {
-      "key": "Dosa",
-      "titleEn": "Dosa",
-      "titleHi": "डोसा"
+      "key": "BIDAI",
+      "titleEn": "BIDAI",
+      "titleHi": "विदाई"
     },
     {
-      "key": "UTTAPAM",
-      "titleEn": "UTTAPAM",
-      "titleHi": "उत्तपम"
+      "key": "BEVERAGE",
+      "titleEn": "BEVERAGE",
+      "titleHi": "पेय पदार्थ"
     }
   ],
   "items": [
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Veg Pakoda (8Pc)",
         "hi": "वेज पकोड़ा (8 पीस)"
@@ -164,7 +154,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Onion Chita Pakoda",
         "hi": "प्याज चीटा पकोड़ा"
@@ -192,7 +182,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Paneer Pakoda (8Pc)",
         "hi": "पनीर पकोड़ा (8 पीस)"
@@ -220,7 +210,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Paneer Finger (8Pc)",
         "hi": "पनीर फिंगर (8 पीस)"
@@ -248,7 +238,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Finger Chips",
         "hi": "फिंगर चिप्स"
@@ -274,7 +264,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Chicken Pakoda (B/L) (8Pc)",
         "hi": "चिकन पकोड़ा (बोनलेस) (8 पीस)"
@@ -302,7 +292,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Egg Pakoda (8Pc)",
         "hi": "अंडा पकोड़ा (8 पीस)"
@@ -330,7 +320,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Fish Cutlet (2Pc)",
         "hi": "फिश कटलेट (2 पीस)"
@@ -358,7 +348,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Fish Finger (8Pc)",
         "hi": "फिश फिंगर (8 पीस)"
@@ -386,7 +376,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Chicken Lollypop (6Pc)",
         "hi": "चिकन लॉलीपॉप (6 पीस)"
@@ -414,7 +404,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Veg Lollypop (6Pc)",
         "hi": "वेज लॉलीपॉप (6 पीस)"
@@ -442,7 +432,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Papad Masala",
         "hi": "पापड़ मसाला"
@@ -472,7 +462,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Papad Dry",
         "hi": "पापड़ सूखा"
@@ -496,7 +486,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Papad Fry",
         "hi": "पापड़ फ्राई"
@@ -522,7 +512,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Chicken Ghee Fry (12Pc)",
         "hi": "चिकन घी फ्राई (12 पीस)"
@@ -550,7 +540,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "American Corn Salted Pepper",
         "hi": "अमेरिकन कॉर्न सॉल्टेड पेपर"
@@ -578,7 +568,7 @@
       }
     },
     {
-      "type": "CHAT PATTA SNACKS",
+      "type": "Chat Patta Snacks",
       "name": {
         "en": "Peanut Masala",
         "hi": "पीनट मसाला"
@@ -613,7 +603,7 @@
         "en": "Tomato Soup",
         "hi": "टमाटर सूप"
       },
-      "price": 70,
+      "price": "80/140",
       "image": "",
       "description": "Smooth and tangy tomato soup, a classic favorite.",
       "about": {
@@ -641,7 +631,7 @@
         "en": "Veg Sweet Corn Soup",
         "hi": "स्वीट कॉर्न सूप"
       },
-      "price": 70,
+      "price": "70/120",
       "image": "",
       "description": "Sweet corn cooked in a flavorful broth with mild spices.",
       "about": {
@@ -673,7 +663,7 @@
         "en": "Veg Hot & Sour Soup",
         "hi": "हॉट एंड सॉर सूप"
       },
-      "price": 70,
+      "price": "70/120",
       "image": "",
       "description": "Spicy and tangy soup with mixed vegetables.",
       "about": {
@@ -705,7 +695,37 @@
         "en": "Veg Noodle Soup",
         "hi": "वेज नूडल सूप"
       },
-      "price": 80,
+      "price": "80/130",
+      "image": "",
+      "description": "Warm soup with vegetables and noodles.",
+      "about": {
+        "en": "Soft noodles and vegetables cooked in flavorful broth.",
+        "hi": "स्वादिष्ट शोरबे में पकाए गए नूडल्स और सब्जियां।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Carrot",
+          "Beans",
+          "Capsicum",
+          "Spices"
+        ],
+        "hi": [
+          "नूडल्स",
+          "गाजर",
+          "बीन्स",
+          "शिमला मिर्च",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "Veg Soup",
+      "name": {
+        "en": "Veg Clear Soup",
+        "hi": "वेज clear soup"
+      },
+      "price": "70/120",
       "image": "",
       "description": "Warm soup with vegetables and noodles.",
       "about": {
@@ -735,7 +755,7 @@
         "en": "Veg Manchow Soup",
         "hi": "मंचो सूप"
       },
-      "price": 90,
+      "price": "90/150",
       "image": "",
       "description": "Spicy Indo-Chinese soup with vegetables and crispy noodles.",
       "about": {
@@ -767,7 +787,7 @@
         "en": "Lemon Coriander Veg Soup",
         "hi": "लेमन कोरियन्टर सूप"
       },
-      "price": 70,
+      "price": "70/130",
       "image": "",
       "description": "Refreshing soup with lemon and coriander flavor.",
       "about": {
@@ -799,7 +819,7 @@
         "en": "Veg Mushroom Soup",
         "hi": "वेज मशरूम सूप"
       },
-      "price": 90,
+      "price": "90/160",
       "image": "",
       "description": "Rich and creamy mushroom soup with a velvety texture.",
       "about": {
@@ -1656,7 +1676,7 @@
         "en": "Potato Chilli",
         "hi": "आलू चिल्ली"
       },
-      "price": 240,
+      "price": 160,
       "image": "",
       "description": "Crispy fried potato tossed in a spicy, tangy Indo-Chinese sauce with onions and capsicum.",
       "about": {
@@ -1672,7 +1692,7 @@
         "en": "Paneer Chilli (8Pc)",
         "hi": "पनीर चिल्ली (8 पीस)"
       },
-      "price": 230,
+      "price": 240,
       "image": "",
       "description": "Cubes of cottage cheese (paneer) tossed in a spicy chili sauce with bell peppers and onions.",
       "about": {
@@ -1688,7 +1708,7 @@
         "en": "Veg Manchurian (8Pc)",
         "hi": "वेज मंचूरियन (8 पीस)"
       },
-      "price": 290,
+      "price": 230,
       "image": "",
       "description": "Vegetable dumplings deep-fried and served in a classic savory and tangy Manchurian sauce.",
       "about": {
@@ -1720,7 +1740,7 @@
         "en": "Paneer Manchurian",
         "hi": "पनीर मंचूरियन"
       },
-      "price": 270,
+      "price": 290,
       "image": "",
       "description": "Cottage cheese cubes tossed in a flavorful Manchurian sauce.",
       "about": {
@@ -1736,7 +1756,7 @@
         "en": "Chicken Chilly (B/L) (8Pc)",
         "hi": "चिकन चिल्ली (बोनलेस) (8 पीस)"
       },
-      "price": 290,
+      "price": 270,
       "image": "",
       "description": "Tender boneless chicken pieces cooked with chili sauce, bell peppers, and onions.",
       "about": {
@@ -1944,7 +1964,7 @@
         "en": "Prawn Salt & Pepper (4Pc)",
         "hi": "प्रॉन्स सॉल्ट & पेपर (4 पीस)"
       },
-      "price": 310,
+      "price": 320,
       "image": "",
       "description": "Prawns wok-tossed with a light coating of salt, pepper, garlic, and chili.",
       "about": {
@@ -1960,7 +1980,7 @@
         "en": "Chicken Crispy",
         "hi": "चिकन क्रिस्पी"
       },
-      "price": 320,
+      "price": 310,
       "image": "",
       "description": "Thin strips of chicken, marinated, deep-fried until crispy, and tossed in a sweet and spicy sauce.",
       "about": {
@@ -2082,7 +2102,7 @@
       "ingredients": {}
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Aloo Dum",
         "hi": "आलू दम"
@@ -2112,7 +2132,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Aloo Dum Kashmiri",
         "hi": "आलू दम कश्मीरी"
@@ -2142,7 +2162,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Aloo Do Pyaza",
         "hi": "आलू दो प्याज़ा"
@@ -2170,7 +2190,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Aloo Matar",
         "hi": "आलू मटर"
@@ -2200,12 +2220,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Green Peas Masala",
         "hi": "हरी मटर मसाला"
       },
-      "price": 250,
+      "price": 240,
       "image": "",
       "description": "Green peas cooked in a rich and flavorful masala.",
       "about": {
@@ -2230,12 +2250,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Palak Matar",
         "hi": "पालक मटर"
       },
-      "price": 200,
+      "price": 250,
       "image": "",
       "description": "Green peas cooked in a smooth, creamy spinach (palak) gravy.",
       "about": {
@@ -2260,9 +2280,9 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": "Mix Veg",
-      "price": 230,
+      "price": 200,
       "image": "",
       "description": "Assorted fresh vegetables cooked in a traditional gravy.",
       "about": {
@@ -2289,12 +2309,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Do Pyaza",
         "hi": "वेज दो प्याज़ा"
       },
-      "price": 270,
+      "price": 230,
       "image": "",
       "description": "Mixed vegetables cooked with plenty of onions (do pyaza style).",
       "about": {
@@ -2317,12 +2337,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Jhal Frezie",
         "hi": "वेज झाल फ्रेज़ी"
       },
-      "price": 360,
+      "price": 170,
       "image": "",
       "description": "Spicy and tangy curry with stir-fried vegetables and peppers.",
       "about": {
@@ -2349,12 +2369,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Navaratan Korma (Sweety Dish)",
         "hi": "वेज नवरतन कोरमा (मीठा व्यंजन)"
       },
-      "price": 260,
+      "price": 360,
       "image": "",
       "description": "Nine jewels curry (fruits, nuts, and vegetables) in a sweet, rich, creamy sauce.",
       "about": {
@@ -2381,7 +2401,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Kadhai",
         "hi": "वेज कड़ाही"
@@ -2411,12 +2431,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Handi",
         "hi": "वेज हांडी"
       },
-      "price": 250,
+      "price": 260,
       "image": "",
       "description": "A creamy mixed vegetable curry traditionally slow-cooked in a clay pot (handi).",
       "about": {
@@ -2441,7 +2461,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Kofta",
         "hi": "वेज कोफ़्ता"
@@ -2471,12 +2491,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Boiled",
         "hi": "वेज उबला हुआ"
       },
-      "price": 100,
+      "price": 180,
       "image": "",
       "description": "Simple boiled mixed vegetables, often served as a side or for diet.",
       "about": {
@@ -2497,7 +2517,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Aloo Gobi Masala",
         "hi": "आलू गोभी मसाला"
@@ -2529,7 +2549,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Mushroom Do Pyaza",
         "hi": "मशरूम दो प्याज़ा"
@@ -2557,7 +2577,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Mushroom Butter Masala",
         "hi": "मशरूम बटर मसाला"
@@ -2591,7 +2611,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Mushroom Kadhai",
         "hi": "मशरूम कड़ाही"
@@ -2621,7 +2641,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Mushroom Handi",
         "hi": "मशरूम हांडी"
@@ -2651,7 +2671,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Mushroom Matar",
         "hi": "मशरूम मटर"
@@ -2681,7 +2701,7 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Apple Spl. Veg",
         "hi": "एप्पल स्पल. वेज"
@@ -2711,12 +2731,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Chana Masala",
         "hi": "चना मसाला"
       },
-      "price": 100,
+      "price": 180,
       "image": "",
       "description": "Spicy and tangy curry made with chickpeas (chana).",
       "about": {
@@ -2741,12 +2761,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Keema Curry",
         "hi": "वेज कीमा करी"
       },
-      "price": 230,
+      "price": 210,
       "image": "",
       "description": "Curry made with finely minced vegetables or soy granules (keema style).",
       "about": {
@@ -2771,12 +2791,12 @@
       }
     },
     {
-      "type": "Sabzi/Curry",
+      "type": "Sabzi Bazar",
       "name": {
         "en": "Veg Kolhapuri",
         "hi": "वेज कोल्हापुरी"
       },
-      "price": 210,
+      "price": 230,
       "image": "",
       "description": "A very spicy mixed vegetable curry from the Kolhapur region of Maharashtra.",
       "about": {
@@ -3531,7 +3551,7 @@
       }
     },
     {
-      "type": "Egg Dishes",
+      "type": "Ande Ka Funday",
       "name": {
         "en": "Egg Curry (2Pc)",
         "hi": "अंडा करी (2 पीस)"
@@ -3565,7 +3585,7 @@
       }
     },
     {
-      "type": "Egg Dishes",
+      "type": "Ande Ka Funday",
       "name": {
         "en": "Egg Do Pyaza (2Pc)",
         "hi": "एग दो प्याज़ा (2 पीस)"
@@ -3597,7 +3617,7 @@
       }
     },
     {
-      "type": "Egg Dishes",
+      "type": "Ande Ka Funday",
       "name": {
         "en": "Egg Masala (2Pc)",
         "hi": "एग मसाला (2 पीस)"
@@ -3629,7 +3649,7 @@
       }
     },
     {
-      "type": "Egg Dishes",
+      "type": "Ande Ka Funday",
       "name": {
         "en": "Omelet Curry",
         "hi": "ऑमलेट करी"
@@ -3661,7 +3681,7 @@
       }
     },
     {
-      "type": "Egg Dishes",
+      "type": "Ande Ka Funday",
       "name": {
         "en": "Omlet",
         "hi": "ऑमलेट"
@@ -3693,7 +3713,7 @@
       }
     },
     {
-      "type": "Egg Dishes",
+      "type": "Ande Ka Funday",
       "name": {
         "en": "Egg Bhurji",
         "hi": "एग भुर्जी"
@@ -7340,7 +7360,7 @@
         "en": "Chicken Handi",
         "hi": "चिकन हाँडी"
       },
-      "price": 680,
+      "price": "360/680",
       "half_price": 360,
       "full_price": 680,
       "portion_size": "12Pc/6Pc",
@@ -7377,7 +7397,7 @@
         "en": "Chicken Kadhai",
         "hi": "कढ़ाई चिकन"
       },
-      "price": 680,
+      "price": "360/680",
       "half_price": 360,
       "full_price": 680,
       "portion_size": "12Pc/6Pc",
@@ -7414,7 +7434,7 @@
         "en": "Chicken Butter Masala",
         "hi": "चिकन बटर मसाला"
       },
-      "price": 680,
+      "price": "360/680",
       "half_price": 360,
       "full_price": 680,
       "portion_size": "8Pc/4Pc",
@@ -7451,7 +7471,7 @@
         "en": "Chicken Dehati",
         "hi": "देहाती चिकन"
       },
-      "price": 700,
+      "price": "370/700",
       "half_price": 370,
       "full_price": 700,
       "portion_size": "12Pc/6Pc",
@@ -7488,7 +7508,7 @@
         "en": "Chicken Garhwali",
         "hi": "गढ़वाली चिकन"
       },
-      "price": 690,
+      "price": "380/690",
       "half_price": 380,
       "full_price": 690,
       "portion_size": "6Pc/2Pc",
@@ -7847,7 +7867,7 @@
         "en": "Chicken Chap",
         "hi": "चिकन चाप"
       },
-      "price": 650,
+      "price": "350/650",
       "half_price": 350,
       "full_price": 650,
       "portion_size": "4Pc/2Pc",
@@ -7958,7 +7978,7 @@
         "en": "Chicken Singapuri",
         "hi": "चिकन सिंगापुरी"
       },
-      "price": 690,
+      "price": "370/690",
       "half_price": 370,
       "full_price": 690,
       "portion_size": "8Pc/4Pc",
@@ -8105,7 +8125,7 @@
         "en": "Chicken Kolhapuri",
         "hi": "चिकन कोल्हापुरी"
       },
-      "price": 700,
+      "price": "370/700",
       "half_price": 370,
       "full_price": 700,
       "portion_size": "12Pc/6Pc",
@@ -8789,6 +8809,442 @@
           "शिमला मिर्च",
           "विशेष मसाले",
           "चटनी"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Veg Chowmein",
+        "hi": "वेज चाऊमीन (विकल्प 1)"
+      },
+      "price": 200,
+      "image": "",
+      "description": "Classic stir-fried noodles with fresh, assorted vegetables.",
+      "about": {
+        "en": "Noodles tossed with julienned vegetables and light sauces.",
+        "hi": "पतली कटी हुई सब्जियों और हल्के सॉस के साथ तले हुए नूडल्स।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Cabbage",
+          "Carrot",
+          "Capsicum",
+          "Soy Sauce",
+          "Onion"
+        ],
+        "hi": [
+          "नूडल्स",
+          "पत्ता गोभी",
+          "गाजर",
+          "शिमला मिर्च",
+          "सोया सॉस",
+          "प्याज़"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Egg Chowmein",
+        "hi": "एग चाऊमीन"
+      },
+      "price": 210,
+      "image": "",
+      "description": "Stir-fried noodles with seasoned scrambled eggs and vegetables.",
+      "about": {
+        "en": "Noodles tossed with fresh vegetables and savory scrambled egg.",
+        "hi": "ताज़ी सब्जियों और स्वादिष्ट तले हुए अंडे के साथ तले हुए नूडल्स।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Egg",
+          "Cabbage",
+          "Carrot",
+          "Soy Sauce",
+          "Onion"
+        ],
+        "hi": [
+          "नूडल्स",
+          "अंडा",
+          "पत्ता गोभी",
+          "गाजर",
+          "सोया सॉस",
+          "प्याज़"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Mushroom Chowmein",
+        "hi": "मशरूम चाऊमीन"
+      },
+      "price": 230,
+      "image": "",
+      "description": "Noodles stir-fried with fresh sliced mushrooms and mixed vegetables.",
+      "about": {
+        "en": "A flavorful chowmein dish featuring sautéed mushrooms and mixed vegetables.",
+        "hi": "भुने हुए मशरूम और मिश्रित सब्जियों के साथ स्वादिष्ट चाऊमीन डिश।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Mushroom",
+          "Cabbage",
+          "Carrot",
+          "Capsicum",
+          "Soy Sauce"
+        ],
+        "hi": [
+          "नूडल्स",
+          "मशरूम",
+          "पत्ता गोभी",
+          "गाजर",
+          "शिमला मिर्च",
+          "सोया सॉस"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Paneer Chowmein",
+        "hi": "पनीर चाऊमीन"
+      },
+      "price": 220,
+      "image": "",
+      "description": "Stir-fried noodles loaded with cubes of fresh Indian cottage cheese (Paneer).",
+      "about": {
+        "en": "Noodles tossed with vegetables and soft paneer in a savory sauce.",
+        "hi": "सब्जियों और मुलायम पनीर के साथ एक स्वादिष्ट सॉस में तले हुए नूडल्स।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Paneer",
+          "Cabbage",
+          "Carrot",
+          "Onion",
+          "Soy Sauce"
+        ],
+        "hi": [
+          "नूडल्स",
+          "पनीर",
+          "पत्ता गोभी",
+          "गाजर",
+          "प्याज़",
+          "सोया सॉस"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Mix Veg Chowmein",
+        "hi": "मिक्स वेज चाऊमीन"
+      },
+      "price": 280,
+      "image": "",
+      "description": "Noodles stir-fried with an assortment of extra fresh vegetables.",
+      "about": {
+        "en": "More variety of vegetables than regular chowmein, tossed in mild spices.",
+        "hi": "साधारण चाऊमीन से अधिक प्रकार की सब्जियां, हल्के मसालों में तली हुईं।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Cabbage",
+          "Carrot",
+          "Beans",
+          "Capsicum",
+          "Broccoli"
+        ],
+        "hi": [
+          "नूडल्स",
+          "पत्ता गोभी",
+          "गाजर",
+          "बीन्स",
+          "शिमला मिर्च",
+          "ब्रोकोली"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Veg Chopsuey",
+        "hi": "वेज चॉपसुई"
+      },
+      "price": 230,
+      "image": "",
+      "description": "Crispy fried noodles topped with a savory, mild mixed vegetable sauce (Chinese style).",
+      "about": {
+        "en": "A Chinese-American dish with a vegetable-thickened gravy over crispy fried noodles.",
+        "hi": "क्रिस्पी तले हुए नूडल्स पर सब्जियों से गाढ़ी की हुई ग्रेवी वाला चाइनीज-अमेरिकन डिश।"
+      },
+      "ingredients": {
+        "en": [
+          "Crispy Noodles",
+          "Mixed Vegetables",
+          "Gravy Sauce",
+          "Spices"
+        ],
+        "hi": [
+          "क्रिस्पी नूडल्स",
+          "मिश्रित सब्जियां",
+          "ग्रेवी सॉस",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Veg American Chopsuey",
+        "hi": "वेज अमेरिकन चॉपसुई"
+      },
+      "price": 260,
+      "image": "",
+      "description": "Crispy noodles served with a sweet and tangy, tomato-based vegetable sauce.",
+      "about": {
+        "en": "A popular sweet and sour version of chopsuey with a distinct tomato flavor.",
+        "hi": "एक लोकप्रिय मीठा और खट्टा चॉपसुई जिसमें टमाटर का विशिष्ट स्वाद होता है।"
+      },
+      "ingredients": {
+        "en": [
+          "Crispy Noodles",
+          "Mixed Vegetables",
+          "Tomato Sauce",
+          "Spices"
+        ],
+        "hi": [
+          "क्रिस्पी नूडल्स",
+          "मिश्रित सब्जियां",
+          "टमाटर सॉस",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Veg Hakka Chowmein",
+        "hi": "वेज हक्का चाऊमीन"
+      },
+      "price": 240,
+      "image": "",
+      "description": "Spicy and flavorful Hakka style stir-fried noodles with vegetables.",
+      "about": {
+        "en": "A signature Indo-Chinese dish, known for its spicy and aromatic preparation.",
+        "hi": "एक सिग्नेचर इंडो-चाइनीज डिश, जो अपनी मसालेदार और खुशबूदार तैयारी के लिए जाना जाता है।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Cabbage",
+          "Carrot",
+          "Capsicum",
+          "Hakka Sauce",
+          "Green Chilli"
+        ],
+        "hi": [
+          "नूडल्स",
+          "पत्ता गोभी",
+          "गाजर",
+          "शिमला मिर्च",
+          "हक्का सॉस",
+          "हरी मिर्च"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Chicken Chowmein",
+        "hi": "चिकन चाऊमीन"
+      },
+      "price": 270,
+      "image": "",
+      "description": "Stir-fried noodles with tender chicken pieces and fresh vegetables.",
+      "about": {
+        "en": "A non-vegetarian chowmein classic, with chicken, vegetables, and savory sauce.",
+        "hi": "चिकन, सब्जियां और स्वादिष्ट सॉस के साथ एक मांसाहारी चाऊमीन क्लासिक।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Chicken",
+          "Cabbage",
+          "Capsicum",
+          "Soy Sauce",
+          "Onion"
+        ],
+        "hi": [
+          "नूडल्स",
+          "चिकन",
+          "पत्ता गोभी",
+          "शिमला मिर्च",
+          "सोया सॉस",
+          "प्याज़"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Chicken American Chop suey",
+        "hi": "चिकन अमेरिकन चॉपसुई"
+      },
+      "price": 300,
+      "image": "",
+      "description": "Crispy noodles topped with a sweet, tomato-based sauce and tender chicken pieces.",
+      "about": {
+        "en": "Chicken and mixed vegetables in a sweet and sour tomato gravy, served over crispy noodles.",
+        "hi": "मीठी और खट्टी टमाटर ग्रेवी में चिकन और मिश्रित सब्जियां, क्रिस्पी नूडल्स पर परोसा जाता है।"
+      },
+      "ingredients": {
+        "en": [
+          "Crispy Noodles",
+          "Chicken",
+          "Mixed Vegetables",
+          "Tomato Sauce",
+          "Spices"
+        ],
+        "hi": [
+          "क्रिस्पी नूडल्स",
+          "चिकन",
+          "मिश्रित सब्जियां",
+          "टमाटर सॉस",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Chicken Chop suey",
+        "hi": "चिकन चॉपसुई"
+      },
+      "price": 320,
+      "image": "",
+      "description": "Crispy noodles topped with a savory, mild sauce containing chicken and vegetables (Chinese style).",
+      "about": {
+        "en": "A traditional chop suey with chicken pieces and mixed vegetables in a mild gravy.",
+        "hi": "मुलायम ग्रेवी में चिकन के टुकड़े और मिश्रित सब्जियों के साथ एक पारंपरिक चॉप सुई।"
+      },
+      "ingredients": {
+        "en": [
+          "Crispy Noodles",
+          "Chicken",
+          "Mixed Vegetables",
+          "Gravy Sauce",
+          "Spices"
+        ],
+        "hi": [
+          "क्रिस्पी नूडल्स",
+          "चिकन",
+          "मिश्रित सब्जियां",
+          "ग्रेवी सॉस",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Chicken Hakka Chowmein",
+        "hi": "चिकन हक्का चाऊमीन"
+      },
+      "price": 270,
+      "image": "",
+      "description": "Spicy and aromatic Hakka style noodles stir-fried with chicken and vegetables.",
+      "about": {
+        "en": "A highly flavorful and spicy preparation of noodles with chicken and Hakka spices.",
+        "hi": "चिकन और हक्का मसालों के साथ नूडल्स की एक अत्यधिक स्वादिष्ट और मसालेदार तैयारी।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Chicken",
+          "Cabbage",
+          "Capsicum",
+          "Hakka Sauce",
+          "Green Chilli"
+        ],
+        "hi": [
+          "नूडल्स",
+          "चिकन",
+          "पत्ता गोभी",
+          "शिमला मिर्च",
+          "हक्का सॉस",
+          "हरी मिर्च"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Prawn Chowmein",
+        "hi": "प्रॉन चाऊमीन"
+      },
+      "price": 480,
+      "image": "",
+      "description": "Stir-fried noodles with succulent prawns and fresh vegetables.",
+      "about": {
+        "en": "A seafood chowmein dish featuring fresh prawns, tossed in a savory sauce.",
+        "hi": "एक सीफ़ूड चाऊमीन डिश जिसमें ताज़े प्रॉन होते हैं, एक स्वादिष्ट सॉस में तले हुए।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Prawns",
+          "Cabbage",
+          "Carrot",
+          "Capsicum",
+          "Soy Sauce"
+        ],
+        "hi": [
+          "नूडल्स",
+          "प्रॉन",
+          "पत्ता गोभी",
+          "गाजर",
+          "शिमला मिर्च",
+          "सोया सॉस"
+        ]
+      }
+    },
+    {
+      "type": "CHALOOM CHINESE",
+      "name": {
+        "en": "Non Veg. Mix Chowmein",
+        "hi": "नॉन वेज मिक्स चाऊमीन"
+      },
+      "price": 310,
+      "image": "",
+      "description": "A combination of chicken, prawns, and egg stir-fried with noodles.",
+      "about": {
+        "en": "The ultimate non-vegetarian chowmein with a mix of different meats and seafood.",
+        "hi": "विभिन्न मांस और सीफ़ूड के मिश्रण के साथ अंतिम मांसाहारी चाऊमीन।"
+      },
+      "ingredients": {
+        "en": [
+          "Noodles",
+          "Chicken",
+          "Prawns",
+          "Egg",
+          "Cabbage",
+          "Soy Sauce"
+        ],
+        "hi": [
+          "नूडल्स",
+          "चिकन",
+          "प्रॉन",
+          "अंडा",
+          "पत्ता गोभी",
+          "सोया सॉस"
         ]
       }
     }
