@@ -89,8 +89,8 @@
       "titleHi": "मटन स्पेशल"
     },
     {
-      "key": "Fish & Prawn Dishes",
-      "titleEn": "Fish & Prawn Dishes",
+      "key": "Machhli Azab Gazab  ",
+      "titleEn": "Machhli Azab Gazab  ",
       "titleHi": "मछली और झींगा व्यंजन"
     },
     {
@@ -3747,7 +3747,7 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Fish Fry (2Pc)",
         "hi": "फिश फ्राई (2 पीस)"
@@ -3779,7 +3779,7 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Fish Curry (2Pc)",
         "hi": "फिश करी (2 पीस)"
@@ -3811,7 +3811,7 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Fish Masala (2Pc)",
         "hi": "फिश मसाला (2 पीस)"
@@ -3845,7 +3845,7 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Fish Do Pyaza (2Pc)",
         "hi": "फिश दो प्याज़ा (2 पीस)"
@@ -3879,7 +3879,7 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Fish Tikka Butter Masala (B/L) (8 Pc)",
         "hi": "फिश टिक्का बटर मसाला (बोनलेस) (8 पीस)"
@@ -3913,12 +3913,12 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Golden Prawn Butter Masala (4 Pc/8 Pc)",
         "hi": "गोल्डन प्रॉन बटर मसाला (4 पीस/8 पीस)"
       },
-      "price": 640,
+      "price": "300/640",
       "image": "",
       "description": "Prawns cooked in a luxurious, creamy, and buttery tomato-based gravy.",
       "about": {
@@ -3945,12 +3945,12 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Golden Prawn Do Pyaza (4 Pc/8 Pc)",
         "hi": "गोल्डन प्रॉन दो प्याज़ा (4 पीस/8 पीस)"
       },
-      "price": 640,
+      "price": "300/640",
       "image": "",
       "description": "Prawns cooked with a double portion of onions in a semi-dry, flavorful gravy.",
       "about": {
@@ -3979,12 +3979,12 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Golden Prawn Curry (4 Pc/8 Pc)",
         "hi": "गोल्डन प्रॉन करी (4 पीस/8 पीस)"
       },
-      "price": 640,
+      "price": "300/640",
       "image": "",
       "description": "Prawns simmered in a traditional, aromatic curry gravy.",
       "about": {
@@ -4013,12 +4013,12 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Royal Prawn Chilli (4 Pc/8 Pc)",
         "hi": "रॉयल प्रॉन चिली (4 पीस/8 पीस)"
       },
-      "price": 650,
+      "price": "310/650",
       "image": "",
       "description": "Prawns tossed in a spicy and tangy Indo-Chinese chili sauce.",
       "about": {
@@ -4047,12 +4047,12 @@
       }
     },
     {
-      "type": "Fish & Prawn Dishes",
+      "type": "Machhli Azab Gazab  ",
       "name": {
         "en": "Golden Prawn Crispy (4 Pc/8 Pc)",
         "hi": "गोल्डन प्रॉन क्रिस्पी (4 पीस/8 पीस)"
       },
-      "price": 650,
+      "price": "310/650",
       "image": "",
       "description": "Prawns coated and deep-fried until golden and crispy.",
       "about": {
@@ -5456,7 +5456,7 @@
         "en": "Butter Naan",
         "hi": "बटर नान"
       },
-      "price": 80,
+      "price": 60,
       "image": "",
       "description": "Plain Naan brushed with a generous amount of butter for a richer flavor.",
       "about": {
@@ -5542,7 +5542,7 @@
         "en": "Stuff Paratha",
         "hi": "भरवां पराठा"
       },
-      "price": 160,
+      "price": 80,
       "image": "",
       "description": "Flaky, layered, whole wheat flatbread stuffed with a choice of spiced filling (e.g., potato, cauliflower, paneer).",
       "about": {
@@ -5568,7 +5568,7 @@
         "en": "Aloo Paratha with Curd",
         "hi": "आलू पराठा दही के साथ"
       },
-      "price": 90,
+      "price": 160,
       "image": "",
       "description": "Whole wheat paratha stuffed with a savory and spiced mashed potato filling, served with plain yogurt (curd).",
       "about": {
@@ -5598,7 +5598,7 @@
         "en": "Paneer Naan",
         "hi": "पनीर नान"
       },
-      "price": 100,
+      "price": 90,
       "image": "",
       "description": "Naan bread stuffed with a crumbled and spiced Indian cottage cheese (Paneer) filling.",
       "about": {
@@ -5656,7 +5656,7 @@
         "en": "Shahi Naan",
         "hi": "शाही नान"
       },
-      "price": 90,
+      "price": 100,
       "image": "",
       "description": "A rich and royal naan, typically enriched with milk, yogurt, and sometimes dry fruits, giving it a soft texture.",
       "about": {
