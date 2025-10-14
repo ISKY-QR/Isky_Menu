@@ -39,7 +39,7 @@ function safeSetImage(imgEl, src, altText) {
 async function loadRestaurantData() {
   try {
     const params = new URLSearchParams(window.location.search);
-    const restaurant = params.get("restaurant") || "apple";
+    const restaurant = params.get("restaurant") || "lemon-chilli";
     const res = await fetch(`data/${restaurant}.json`);
     if (!res.ok) throw new Error("Menu file not found");
     restaurantData = await res.json();

@@ -1,0 +1,1093 @@
+{
+    "name": "Welcome to Lemon Chilli Restaurant",
+    "subtitle": "Authentic Flavors",
+    "logo": "images/lemonChilli.png",
+    "sections": [
+        {
+            "key": "SORBET",
+            "titleEn": "SORBET",
+            "titleHi": "SORBET"
+        },
+        {
+            "key": "MOCKTAILS",
+            "titleEn": "MOCKTAILS",
+            "titleHi": "MOCKTAILS"
+        },
+        {
+            "key": "ORIENTAL EXPRESS",
+            "titleEn": "ORIENTAL EXPRESS",
+            "titleHi": "ORIENTAL EXPRESS"
+        },
+        {
+            "key": "UTTAPAM",
+            "titleEn": "UTTAPAM",
+            "titleHi": "उत्तपम"
+        },
+        {
+            "key": "Veg Soup",
+            "titleEn": "Veg Soup",
+            "titleHi": "वेज सूप"
+        },
+        {
+            "key": "Non-Veg Soup",
+            "titleEn": "Non Veg Soup",
+            "titleHi": "नॉन वेज सूप"
+        },
+        {
+            "key": "Chat Patta Snacks",
+            "titleEn": "Chat Patta Snacks",
+            "titleHi": "चटपटा स्नैक्स"
+        },
+        {
+            "key": "GARAM GARAM TANDOORI AUR KABAB",
+            "titleEn": "GARAM GARAM TANDOORI AUR KABAB",
+            "titleHi": "गरम गरम तंदूरी और कबाब"
+        },
+        {
+            "key": "CHINESE",
+            "titleEn": "CHINESE",
+            "titleHi": "चाइनीज़"
+        },
+        {
+            "key": "CHALOOM CHINESE",
+            "titleEn": "CHALOOM CHINESE",
+            "titleHi": "चलूम चाइनीज़"
+        },
+        {
+            "key": "DAL GARMA GARAM",
+            "titleEn": "DAL GARMA GARAM",
+            "titleHi": "दाल गरमागरम"
+        },
+        {
+            "key": "Sabzi Bazar",
+            "titleEn": "Sabzi Bazar",
+            "titleHi": "सब्ज़ी/करी"
+        },
+        {
+            "key": "Paneer Sabzi",
+            "titleEn": "Paneer Sabzi",
+            "titleHi": "पनीर सब्ज़ी"
+        },
+        {
+            "key": "Veg Sabzi",
+            "titleEn": "Veg Sabzi",
+            "titleHi": "वेज सब्ज़ी"
+        },
+        {
+            "key": "Ande Ka Funday",
+            "titleEn": "Ande Ka Funday",
+            "titleHi": "अंडे के व्यंजन"
+        },
+        {
+            "key": "MAST MURGA",
+            "titleEn": "MAST MURGA",
+            "titleHi": "मस्त मुर्गा"
+        },
+        {
+            "key": "Mutton Special",
+            "titleEn": "Mutton Special",
+            "titleHi": "मटन स्पेशल"
+        },
+        {
+            "key": "Machhli Azab Gazab  ",
+            "titleEn": "Machhli Azab Gazab  ",
+            "titleHi": "मछली और झींगा व्यंजन"
+        },
+        {
+            "key": "Basmati Rice",
+            "titleEn": "Basmati Rice",
+            "titleHi": "बासमती चावल"
+        },
+        {
+            "key": "GARAM GARAM ROTI NAN KULCHA",
+            "titleEn": "GARAM GARAM ROTI NAN KULCHA",
+            "titleHi": "गरम गरम रोटी नान कुलचा"
+        },
+        {
+            "key": "Salad & Raita",
+            "titleEn": "Salad & Raita",
+            "titleHi": "सलाद और रायता"
+        },
+        {
+            "key": "SWEET DISH",
+            "titleEn": "SWEET DISH",
+            "titleHi": "मिठाई"
+        },
+        {
+            "key": "BIDAI",
+            "titleEn": "BIDAI",
+            "titleHi": "विदाई"
+        },
+        {
+            "key": "BEVERAGE",
+            "titleEn": "BEVERAGE",
+            "titleHi": "पेय पदार्थ"
+        }
+    ],
+    "items": [
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Sorbet",
+                "hi": "सोर्बेट / शरबत"
+            },
+            "price": 35.00,
+            "image": "",
+            "description": "A frozen dessert made from sweet flavored water, often with fruit juice or purée, and no dairy.",
+            "about": {
+                "en": "A light and dairy-free frozen treat, excellent for a palate cleanser or a refreshing dessert.",
+                "hi": "एक हल्का और डेयरी-मुक्त फ्रोजेन (जमा हुआ) व्यंजन, तालु को साफ करने या ताज़ा करने वाले डेसर्ट के लिए उत्कृष्ट।"
+            },
+            "ingredients": {
+                "en": [
+                    "Fruit Purée/Juice",
+                    "Water",
+                    "Sugar"
+                ],
+                "hi": [
+                    "फलों का गूदा/रस",
+                    "पानी",
+                    "चीनी"
+                ]
+            }
+        },
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Mineral Water",
+                "hi": "मिनरल वाटर / खनिज जल"
+            },
+            "price": 35.00,
+            "image": "",
+            "description": "Bottled natural water containing dissolved minerals.",
+            "about": {
+                "en": "A refreshing and healthy way to stay hydrated.",
+                "hi": "हाइड्रेटेड (पानी की कमी से बचने) रहने का एक ताज़ा और स्वस्थ तरीका।"
+            },
+            "ingredients": {
+                "en": [
+                    "Water",
+                    "Dissolved Minerals"
+                ],
+                "hi": [
+                    "पानी",
+                    "घुले हुए खनिज"
+                ]
+            }
+        },
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Cold Coffee",
+                "hi": "कोल्ड कॉफ़ी / ठंडी कॉफ़ी"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A chilled beverage made with strong coffee, milk, and sweetener.",
+            "about": {
+                "en": "A classic, refreshing coffee drink, perfect for a caffeine boost on a warm day.",
+                "hi": "एक क्लासिक, ताज़ा कॉफ़ी पेय, गर्म दिन में कैफीन की खुराक के लिए एकदम सही।"
+            },
+            "ingredients": {
+                "en": [
+                    "Coffee Decoction",
+                    "Chilled Milk",
+                    "Sugar"
+                ],
+                "hi": [
+                    "कॉफी का घोल",
+                    "ठंडा दूध",
+                    "चीनी"
+                ]
+            }
+        },
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Cold Coffee with Ice Cream",
+                "hi": "आइसक्रीम के साथ कोल्ड कॉफ़ी"
+            },
+            "price": 160.00,
+            "image": "",
+            "description": "Cold coffee topped or blended with a scoop of ice cream for extra richness.",
+            "about": {
+                "en": "An indulgent version of the classic cold coffee, creamier and sweeter.",
+                "hi": "क्लासिक कोल्ड कॉफ़ी का एक शानदार वर्शन, अधिक मलाईदार और मीठा।"
+            },
+            "ingredients": {
+                "en": [
+                    "Cold Coffee",
+                    "Vanilla Ice Cream",
+                    "Topping (Optional)"
+                ],
+                "hi": [
+                    "कोल्ड कॉफ़ी",
+                    "वेनिला आइसक्रीम",
+                    "टॉपिंग (वैकल्पिक)"
+                ]
+            }
+        },
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Milk Shake",
+                "hi": "मिल्क शेक"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A thick, frothy drink made from milk and a choice of flavorings.",
+            "about": {
+                "en": "A basic, delicious, and fulfilling flavored milk beverage.",
+                "hi": "एक बुनियादी, स्वादिष्ट और पेट भरने वाला स्वादयुक्त दूध पेय।"
+            },
+            "ingredients": {
+                "en": [
+                    "Chilled Milk",
+                    "Flavoring Syrup (e.g., Chocolate, Strawberry)",
+                    "Sugar"
+                ],
+                "hi": [
+                    "ठंडा दूध",
+                    "स्वादयुक्त सिरप (जैसे, चॉकलेट, स्ट्रॉबेरी)",
+                    "चीनी"
+                ]
+            }
+        },
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Milk Shake With Ice Cream",
+                "hi": "आइसक्रीम के साथ मिल्क शेक"
+            },
+            "price": 160.00,
+            "image": "",
+            "description": "Milkshake blended with ice cream for a thicker, richer, and creamier texture.",
+            "about": {
+                "en": "The classic, thick milkshake, made richer and colder with a scoop of ice cream.",
+                "hi": "क्लासिक, गाढ़ा मिल्क शेक, आइसक्रीम के एक स्कूप से अधिक गाढ़ा और ठंडा बनाया गया।"
+            },
+            "ingredients": {
+                "en": [
+                    "Chilled Milk",
+                    "Ice Cream",
+                    "Flavoring Syrup",
+                    "Sugar"
+                ],
+                "hi": [
+                    "ठंडा दूध",
+                    "आइसक्रीम",
+                    "स्वादयुक्त सिरप",
+                    "चीनी"
+                ]
+            }
+        },
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Soda / F.L. Soda",
+                "hi": "सोडा / फ्लेवर्ड सोडा"
+            },
+            "price": 50.00,
+            "image": "",
+            "description": "Plain carbonated water (Soda) or a flavored carbonated drink (F.L. Soda).",
+            "about": {
+                "en": "A fizzy and refreshing drink, with the option of traditional Indian flavors like Masala or Lemon.",
+                "hi": "एक फ़िज़ी और ताज़ा पेय, पारंपरिक भारतीय स्वादों जैसे मसाला या नींबू के विकल्प के साथ।"
+            },
+            "ingredients": {
+                "en": [
+                    "Carbonated Water",
+                    "Sugar",
+                    "Flavoring/Syrup (For F.L. Soda)"
+                ],
+                "hi": [
+                    "कार्बोनेटेड पानी",
+                    "चीनी",
+                    "स्वाद/सिरप (फ्लेवर्ड सोडा के लिए)"
+                ]
+            }
+        },
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Soft Drink",
+                "hi": "शीतल-पेय"
+            },
+            "price": 50.00,
+            "image": "",
+            "description": "A commercially available, non-alcoholic carbonated beverage.",
+            "about": {
+                "en": "A popular, effervescent, and instantly refreshing packaged beverage.",
+                "hi": "एक लोकप्रिय, बुदबुदाता हुआ और तुरंत ताज़ा कर देने वाला पैकेटबंद पेय।"
+            },
+            "ingredients": {
+                "en": [
+                    "Carbonated Water",
+                    "Sugar",
+                    "Artificial Flavorings",
+                    "Coloring"
+                ],
+                "hi": [
+                    "कार्बोनेटेड पानी",
+                    "चीनी",
+                    "कृत्रिम स्वाद",
+                    "रंग"
+                ]
+            }
+        },
+        {
+            "type": "SORBET",
+            "name": {
+                "en": "Choice of Canned Juice",
+                "hi": "डिब्बा-बंद (कैन्ड) जूस का विकल्प"
+            },
+            "price": 120.00,
+            "image": "",
+            "description": "A selection of commercially packaged fruit or vegetable juices in a can.",
+            "about": {
+                "en": "A quick and convenient way to enjoy a variety of fruit juices.",
+                "hi": "विभिन्न प्रकार के फलों के रस का आनंद लेने का एक त्वरित और सुविधाजनक तरीका।"
+            },
+            "ingredients": {
+                "en": [
+                    "Fruit/Vegetable Juice",
+                    "Preservatives",
+                    "Sugar (Optional)"
+                ],
+                "hi": [
+                    "फल/सब्जी का रस",
+                    "परिरक्षक (प्रिजरवेटिव्स)",
+                    "चीनी (वैकल्पिक)"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Floating Honeymoon",
+                "hi": "फ्लोटिंग हनीमून"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A sweet, layered, and refreshing mocktail often made with fruit juices, cream, and a splash of soda, designed for a festive feel.",
+            "about": {
+                "en": "A special, celebratory drink with a creamy top layer and a blend of tropical flavours. A true indulgence.",
+                "hi": "एक विशेष, उत्सवपूर्ण पेय जिसमें एक मलाईदार ऊपरी परत और उष्णकटिबंधीय स्वादों का मिश्रण है। एक सच्चा आनंद।"
+            },
+            "ingredients": {
+                "en": [
+                    "Mixed Fruit Juices",
+                    "Cream/Coconut Milk",
+                    "Grenadine/Syrup",
+                    "Soda/Sparkling Water"
+                ],
+                "hi": [
+                    "मिश्रित फलों का रस",
+                    "क्रीम/नारियल का दूध",
+                    "ग्रेनेडाइन/सिरप",
+                    "सोडा/स्पार्कलिंग पानी"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Lover's Delight",
+                "hi": "लवर्स डिलाइट"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A romantic, often berry or tropical fruit-based, sweet and tangy mocktail with a vibrant red or pink colour.",
+            "about": {
+                "en": "A delightfully sweet and slightly tart drink, perfect for a treat.",
+                "hi": "एक स्वादिष्ट रूप से मीठा और थोड़ा खट्टा पेय, किसी भी अवसर के लिए उत्तम।"
+            },
+            "ingredients": {
+                "en": [
+                    "Strawberry/Raspberry Purée",
+                    "Lychee Juice",
+                    "Lime Juice",
+                    "Sugar Syrup"
+                ],
+                "hi": [
+                    "स्ट्रॉबेरी/रसभरी का गूदा",
+                    "लीची का रस",
+                    "नींबू का रस",
+                    "चीनी का सिरप"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Virgin Pinacolada",
+                "hi": "वर्जिन पिनाकोलाडा"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "A classic tropical blend of rich coconut cream or milk and tangy pineapple juice, served over ice.",
+            "about": {
+                "en": "The famous tropical favourite - creamy, sweet, and perfectly refreshing.",
+                "hi": "प्रसिद्ध उष्णकटिबंधीय पसंदीदा - मलाईदार, मीठा और पूरी तरह से ताज़ा।"
+            },
+            "ingredients": {
+                "en": [
+                    "Pineapple Juice",
+                    "Coconut Cream/Milk",
+                    "Crushed Ice",
+                    "Sugar"
+                ],
+                "hi": [
+                    "अनानास का रस",
+                    "नारियल क्रीम/दूध",
+                    "कुचली हुई बर्फ",
+                    "चीनी"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Fruit Punch",
+                "hi": "फ्रूट पंच"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "A mixed beverage containing a variety of fresh or preserved fruit juices, often with a non-alcoholic base like soda or ginger ale.",
+            "about": {
+                "en": "A festive and colourful mix of different fruit flavours, a universal favourite.",
+                "hi": "विभिन्न फलों के स्वादों का एक उत्सवपूर्ण और रंगीन मिश्रण, एक सार्वभौमिक पसंदीदा।"
+            },
+            "ingredients": {
+                "en": [
+                    "Orange Juice",
+                    "Pineapple Juice",
+                    "Cranberry Juice",
+                    "Soda Water"
+                ],
+                "hi": [
+                    "संतरे का रस",
+                    "अनानास का रस",
+                    "क्रैनबेरी का रस",
+                    "सोडा पानी"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Lemon Chilly Spl. Coffee Delight",
+                "hi": "लेमन चिली स्पेशल कॉफी डिलाइट"
+            },
+            "price": 150.00,
+            "image": "",
+            "description": "A unique and surprising mocktail that combines the cooling bitterness of coffee with the tang of lemon and the subtle heat of chili.",
+            "about": {
+                "en": "An unconventional and zesty mocktail for the adventurous palate, featuring an intriguing sweet, sour, and spicy profile.",
+                "hi": "एक साहसिक स्वाद के लिए एक अपरंपरागत और ज़ोरदार मॉकटेल, जिसमें एक दिलचस्प मीठा, खट्टा और मसालेदार प्रोफ़ाइल है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Cold Coffee Concentrate",
+                    "Lemon Juice",
+                    "Chili Flakes/Syrup",
+                    "Sugar"
+                ],
+                "hi": [
+                    "कोल्ड कॉफी का घोल",
+                    "नींबू का रस",
+                    "मिर्च के गुच्छे/सिरप",
+                    "चीनी"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Mango Smoothy",
+                "hi": "मैंगो स्मूदी"
+            },
+            "price": 110.00,
+            "image": "",
+            "description": "A thick, blended beverage made from ripe mangoes, yogurt or milk, and crushed ice.",
+            "about": {
+                "en": "A rich and creamy smoothy, celebrating the delicious flavour of fresh mangoes.",
+                "hi": "ताज़े आम के स्वादिष्ट स्वाद का जश्न मनाते हुए, एक गाढ़ा और मलाईदार स्मूदी।"
+            },
+            "ingredients": {
+                "en": [
+                    "Fresh Mango Pulp",
+                    "Yogurt/Milk",
+                    "Ice",
+                    "Sugar/Honey"
+                ],
+                "hi": [
+                    "ताजा आम का गूदा",
+                    "दही/दूध",
+                    "बर्फ",
+                    "चीनी/शहद"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Litchi Colada",
+                "hi": "लीची कोलाडा"
+            },
+            "price": 110.00,
+            "image": "",
+            "description": "A tropical-inspired colada that uses the sweet, floral flavour of lychee, typically blended with ice and coconut.",
+            "about": {
+                "en": "A lighter, sweet, and fragrant colada with the exotic touch of lychee.",
+                "hi": "लीची के विदेशी स्पर्श के साथ एक हल्का, मीठा और सुगंधित कोलाडा।"
+            },
+            "ingredients": {
+                "en": [
+                    "Lychee Juice/Purée",
+                    "Coconut Milk/Cream",
+                    "Ice",
+                    "Simple Syrup"
+                ],
+                "hi": [
+                    "लीची का रस/गूदा",
+                    "नारियल का दूध/क्रीम",
+                    "बर्फ",
+                    "साधारण सिरप"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Strawberry Smoothy",
+                "hi": "स्ट्रॉबेरी स्मूदी"
+            },
+            "price": 110.00,
+            "image": "",
+            "description": "A thick, blended drink featuring fresh or frozen strawberries, milk/yogurt, and sweetener.",
+            "about": {
+                "en": "A sweet, tart, and vibrant smoothy, perfect for a berry lover's treat.",
+                "hi": "एक मीठा, खट्टा और जीवंत स्मूदी, बेरी प्रेमियों के लिए एकदम सही व्यंजन।"
+            },
+            "ingredients": {
+                "en": [
+                    "Fresh/Frozen Strawberries",
+                    "Milk/Yogurt",
+                    "Ice",
+                    "Sugar/Honey"
+                ],
+                "hi": [
+                    "ताजा/जमी हुई स्ट्रॉबेरी",
+                    "दूध/दही",
+                    "बर्फ",
+                    "चीनी/शहद"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Coconut Colada",
+                "hi": "कोकोनट कोलाडा"
+            },
+            "price": 110.00,
+            "image": "",
+            "description": "A creamy, refreshing, and purely coconut-flavoured blended drink, often made with coconut cream, milk, and ice.",
+            "about": {
+                "en": "A rich and dairy-free tropical delight, focusing on the pure taste of coconut.",
+                "hi": "एक समृद्ध और डेयरी-मुक्त उष्णकटिबंधीय आनंद, नारियल के शुद्ध स्वाद पर ध्यान केंद्रित करते हुए।"
+            },
+            "ingredients": {
+                "en": [
+                    "Coconut Cream",
+                    "Coconut Water",
+                    "Ice",
+                    "Sugar"
+                ],
+                "hi": [
+                    "नारियल क्रीम",
+                    "नारियल पानी",
+                    "बर्फ",
+                    "चीनी"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Rooftop Chocolate",
+                "hi": "रूफटॉप चॉकलेट"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "A rich, indulgent chocolate-based drink, possibly a thick, cold chocolate shake or a chocolate milk mix with a unique topping.",
+            "about": {
+                "en": "A decadent and creamy chocolate drink, perfect for satisfying a sweet craving.",
+                "hi": "एक शानदार और मलाईदार चॉकलेट पेय, मीठी लालसा को संतुष्ट करने के लिए एकदम सही।"
+            },
+            "ingredients": {
+                "en": [
+                    "Chocolate Syrup/Cocoa Powder",
+                    "Milk",
+                    "Ice Cream (Optional)",
+                    "Whip Cream/Topping"
+                ],
+                "hi": [
+                    "चॉकलेट सिरप/कोको पाउडर",
+                    "दूध",
+                    "आइसक्रीम (वैकल्पिक)",
+                    "व्हीप क्रीम/टॉपिंग"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Virgin Guava Merry",
+                "hi": "वर्जिन अमरूद मेरी"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A savoury and sweet mocktail made with guava juice, often spiced with a touch of chili, black salt, and lime, mimicking the classic spiced guava snack.",
+            "about": {
+                "en": "A refreshing and unique drink with a delightful blend of tropical fruit, spice, and salt.",
+                "hi": "उष्णकटिबंधीय फल, मसाला और नमक के एक आनंदमय मिश्रण के साथ एक ताज़ा और अनोखा पेय।"
+            },
+            "ingredients": {
+                "en": [
+                    "Guava Juice",
+                    "Black Salt (Kala Namak)",
+                    "Chili Powder",
+                    "Lime Juice"
+                ],
+                "hi": [
+                    "अमरूद का रस",
+                    "काला नमक",
+                    "मिर्च पाउडर",
+                    "नींबू का रस"
+                ]
+            }
+        },
+        {
+            "type": "MOCKTAILS",
+            "name": {
+                "en": "Virgin Mojito",
+                "hi": "वर्जिन मोजिटो"
+            },
+            "price": 150.00,
+            "image": "",
+            "description": "The classic non-alcoholic version of the mojito, made with fresh mint, lime juice, sugar, and topped with soda water.",
+            "about": {
+                "en": "A zesty, minty, and utterly refreshing classic, perfect for a palate cleanser and instant energy.",
+                "hi": "एक ज़ोरदार, पुदीना युक्त, और पूरी तरह से ताज़ा क्लासिक, तालु को साफ करने और तत्काल ऊर्जा के लिए एकदम सही।"
+            },
+            "ingredients": {
+                "en": [
+                    "Fresh Mint Leaves",
+                    "Lime Wedges",
+                    "Sugar/Syrup",
+                    "Soda Water"
+                ],
+                "hi": [
+                    "ताज़े पुदीने के पत्ते",
+                    "नींबू के टुकड़े",
+                    "चीनी/सिरप",
+                    "सोडा पानी"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Sweet Corn Soup (Veg.)",
+                "hi": "स्वीट कॉर्न सूप (शाकाहारी)"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "A popular, mild, and creamy soup made with sweet corn kernels, a vegetable broth base, and a light thickening agent.",
+            "about": {
+                "en": "A light and comforting classic, perfect for a soothing start to any meal. Simple, sweet, and satisfying.",
+                "hi": "एक हल्का और आरामदायक क्लासिक, किसी भी भोजन की सुखदायक शुरुआत के लिए एकदम सही। सरल, मीठा और संतोषजनक।"
+            },
+            "ingredients": {
+                "en": [
+                    "Sweet Corn Kernels",
+                    "Vegetable Broth",
+                    "Milk/Cream (Optional)",
+                    "Starch"
+                ],
+                "hi": [
+                    "स्वीट कॉर्न दाने",
+                    "सब्जी का शोरबा",
+                    "दूध/क्रीम (वैकल्पिक)",
+                    "स्टार्च"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Sweet Corn Soup (N. Veg.)",
+                "hi": "स्वीट कॉर्न सूप (मांसाहारी)"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A popular, mild, and creamy soup made with sweet corn kernels and pieces of chicken/seafood in a broth base.",
+            "about": {
+                "en": "A hearty and comforting classic with a non-vegetarian base, perfect for a warming start.",
+                "hi": "मांसाहारी आधार वाला एक हार्दिक और आरामदायक क्लासिक, एक गर्म शुरुआत के लिए एकदम सही।"
+            },
+            "ingredients": {
+                "en": [
+                    "Sweet Corn Kernels",
+                    "Chicken/Meat Broth",
+                    "Shredded Chicken/Meat",
+                    "Starch"
+                ],
+                "hi": [
+                    "स्वीट कॉर्न दाने",
+                    "चिकन/मांस का शोरबा",
+                    "कटा हुआ चिकन/मांस",
+                    "स्टार्च"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Hot & Sour Soup (Veg)",
+                "hi": "हॉट एंड सॉर सूप (शाकाहारी)"
+            },
+            "price": 120.00,
+            "image": "",
+            "description": "A spicy and tangy soup featuring mushrooms, bamboo shoots, tofu, and other vegetables in a dark, vinegar-soy broth.",
+            "about": {
+                "en": "An iconic Indo-Chinese soup known for its contrasting flavours - a perfect blend of heat and tang.",
+                "hi": "अपने विपरीत स्वादों के लिए जाना जाने वाला एक आइकोनिक इंडो-चाइनीज सूप - गर्मी और खट्टेपन का एक आदर्श मिश्रण।"
+            },
+            "ingredients": {
+                "en": [
+                    "Soy Sauce",
+                    "Vinegar",
+                    "Chilli Sauce",
+                    "Mushrooms & Tofu"
+                ],
+                "hi": [
+                    "सोया सॉस",
+                    "सिरका",
+                    "मिर्च सॉस",
+                    "मशरूम और टोफू"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Hot & Sour Soup (N. Veg)",
+                "hi": "हॉट एंड सॉर सूप (मांसाहारी)"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "A spicy and tangy soup featuring shredded chicken/meat, mushrooms, and other ingredients in a dark, vinegar-soy broth.",
+            "about": {
+                "en": "A meat-inclusive version of the iconic Indo-Chinese soup, featuring a perfect blend of heat and tang.",
+                "hi": "आइकोनिक इंडो-चाइनीज सूप का मांस-युक्त संस्करण, जिसमें गर्मी और खट्टेपन का एक आदर्श मिश्रण है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Soy Sauce",
+                    "Vinegar",
+                    "Shredded Chicken/Meat",
+                    "Chilli Sauce"
+                ],
+                "hi": [
+                    "सोया सॉस",
+                    "सिरका",
+                    "कटा हुआ चिकन/मांस",
+                    "मिर्च सॉस"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Lung Fung Soup (Veg)",
+                "hi": "लंग फंग सूप (शाकाहारी)"
+            },
+            "price": 110.00,
+            "image": "",
+            "description": "A flavorful and slightly thick soup, traditionally containing assorted finely chopped vegetables in a clear broth, sometimes with a touch of egg-white (Veg version omits egg-white).",
+            "about": {
+                "en": "A delicate and flavourful vegetable broth with a mix of exotic, finely diced vegetables. A lighter choice.",
+                "hi": "विदेशी, बारीक कटे हुए सब्जियों के मिश्रण के साथ एक नाजुक और स्वादिष्ट सब्जी का शोरबा। एक हल्का विकल्प।"
+            },
+            "ingredients": {
+                "en": [
+                    "Vegetable Broth",
+                    "Assorted Finely Chopped Vegetables",
+                    "Ginger & Garlic",
+                    "Starch"
+                ],
+                "hi": [
+                    "सब्जी का शोरबा",
+                    "विभिन्न बारीक कटी हुई सब्जियां",
+                    "अदरक और लहसुन",
+                    "स्टार्च"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Lung Fung Soup (N. Veg)",
+                "hi": "लंग फंग सूप (मांसाहारी)"
+            },
+            "price": 120.00,
+            "image": "",
+            "description": "A flavorful and slightly thick soup, traditionally containing assorted finely chopped meat and vegetables in a clear broth, often finished with whisked egg-white.",
+            "about": {
+                "en": "A delicate and flavourful meat broth with a mix of exotic, finely diced ingredients and egg-white for texture.",
+                "hi": "विदेशी, बारीक कटे हुए सामग्री और बनावट के लिए अंडे की सफेदी के मिश्रण के साथ एक नाजुक और स्वादिष्ट मांस का शोरबा।"
+            },
+            "ingredients": {
+                "en": [
+                    "Chicken/Meat Broth",
+                    "Shredded Chicken/Meat",
+                    "Egg White",
+                    "Assorted Finely Chopped Vegetables"
+                ],
+                "hi": [
+                    "चिकन/मांस का शोरबा",
+                    "कटा हुआ चिकन/मांस",
+                    "अंडे की सफेदी",
+                    "विभिन्न बारीक कटी हुई सब्जियां"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Manchow Soup (Veg)",
+                "hi": "मंचो सूप (शाकाहारी)"
+            },
+            "price": 120.00,
+            "image": "",
+            "description": "A dark brown Indo-Chinese soup, prepared with various vegetables, a heavy dose of soy sauce, garlic, and served topped with crispy fried noodles.",
+            "about": {
+                "en": "A popular, rich, and savory soup with a deep umami flavour, elevated by the satisfying crunch of fried noodles.",
+                "hi": "एक लोकप्रिय, समृद्ध और स्वादिष्ट सूप जिसमें एक गहरा उमामी स्वाद होता है, जो तले हुए नूडल्स की संतोषजनक कुरकुराहट से बढ़ता है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Soy Sauce",
+                    "Ginger & Garlic",
+                    "Chopped Vegetables",
+                    "Crispy Fried Noodles"
+                ],
+                "hi": [
+                    "सोया सॉस",
+                    "अदरक और लहसुन",
+                    "कटी हुई सब्जियां",
+                    "कुरकुरे तले हुए नूडल्स"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Manchow Soup (N. Veg)",
+                "hi": "मंचो सूप (मांसाहारी)"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "A dark brown Indo-Chinese soup, prepared with shredded chicken/meat, soy sauce, garlic, and served topped with crispy fried noodles.",
+            "about": {
+                "en": "A rich and savory non-veg soup with a deep umami flavour, known for the satisfying crunch of fried noodles.",
+                "hi": "गहरे उमामी स्वाद वाला एक समृद्ध और स्वादिष्ट मांसाहारी सूप, जो तले हुए नूडल्स की संतोषजनक कुरकुराहट के लिए जाना जाता है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Soy Sauce",
+                    "Shredded Chicken/Meat",
+                    "Ginger & Garlic",
+                    "Crispy Fried Noodles"
+                ],
+                "hi": [
+                    "सोया सॉस",
+                    "कटा हुआ चिकन/मांस",
+                    "अदरक और लहसुन",
+                    "कुरकुरे तले हुए नूडल्स"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Talumein Soup (Veg)",
+                "hi": "तालुमीन सूप (शाकाहारी)"
+            },
+            "price": 110.00,
+            "image": "",
+            "description": "A thick, flavourful noodle-based soup with shredded vegetables, ginger, garlic, and often a hint of chili, making it a complete meal.",
+            "about": {
+                "en": "A comforting, full-bodied soup packed with noodles and fresh vegetables - a satisfying mini-meal.",
+                "hi": "नूडल्स और ताजी सब्जियों से भरा एक आरामदायक, पूर्ण-शारीरिक सूप - एक संतोषजनक मिनी-भोजन।"
+            },
+            "ingredients": {
+                "en": [
+                    "Vegetable Broth",
+                    "Noodles",
+                    "Shredded Vegetables (Cabbage, Carrots)",
+                    "Soy Sauce"
+                ],
+                "hi": [
+                    "सब्जी का शोरबा",
+                    "नूडल्स",
+                    "कटी हुई सब्जियां (पत्तागोभी, गाजर)",
+                    "सोया सॉस"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Talumein Soup (N. Veg)",
+                "hi": "तालुमीन सूप (मांसाहारी)"
+            },
+            "price": 120.00,
+            "image": "",
+            "description": "A thick, flavourful noodle-based soup with shredded chicken/meat, vegetables, ginger, and garlic, making it a complete meal.",
+            "about": {
+                "en": "A hearty, full-bodied soup packed with noodles, meat, and fresh vegetables - a satisfying mini-meal.",
+                "hi": "नूडल्स, मांस और ताजी सब्जियों से भरा एक हार्दिक, पूर्ण-शारीरिक सूप - एक संतोषजनक मिनी-भोजन।"
+            },
+            "ingredients": {
+                "en": [
+                    "Chicken/Meat Broth",
+                    "Noodles",
+                    "Shredded Chicken/Meat",
+                    "Soy Sauce"
+                ],
+                "hi": [
+                    "चिकन/मांस का शोरबा",
+                    "नूडल्स",
+                    "कटा हुआ चिकन/मांस",
+                    "सोया सॉस"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Cream Soup (Chicken)",
+                "hi": "क्रीम सूप (चिकन)"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A smooth, rich, and creamy soup made with a chicken stock base, milk or cream, and shredded chicken pieces.",
+            "about": {
+                "en": "The classic, decadent, and comforting creamy soup, highlighting the mild flavour of chicken.",
+                "hi": "क्लासिक, शानदार, और आरामदायक मलाईदार सूप, जो चिकन के हल्के स्वाद को उजागर करता है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Chicken Stock",
+                    "Cream/Milk",
+                    "Shredded Chicken",
+                    "Butter"
+                ],
+                "hi": [
+                    "चिकन स्टॉक",
+                    "क्रीम/दूध",
+                    "कटा हुआ चिकन",
+                    "मक्खन"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Cream Soup (Mushroom)",
+                "hi": "क्रीम सूप (मशरूम)"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "A smooth, rich, and creamy soup featuring a blend of sautéed mushrooms and a creamy dairy base.",
+            "about": {
+                "en": "An earthy and luxurious creamy soup, offering the deep, savoury flavour of fresh mushrooms.",
+                "hi": "एक मिट्टी जैसा और शानदार मलाईदार सूप, जो ताज़े मशरूम का गहरा, स्वादिष्ट स्वाद प्रदान करता है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Mushroom Slices/Purée",
+                    "Cream/Milk",
+                    "Vegetable Stock",
+                    "Garlic & Herbs"
+                ],
+                "hi": [
+                    "मशरूम के टुकड़े/गूदा",
+                    "क्रीम/दूध",
+                    "सब्जी का स्टॉक",
+                    "लहसुन और जड़ी बूटियाँ"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Veg. Choice of Cream Soup (General)",
+                "hi": "शाकाहारी क्रीम सूप (सामान्य)"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A generic listing for a specialty vegetarian cream-based soup, which could include asparagus, broccoli, or another seasonal vegetable.",
+            "about": {
+                "en": "A chef's special, smooth, and hearty vegetable cream soup of the day.",
+                "hi": "शेफ का विशेष, चिकना और पौष्टिक दिन का सब्जी क्रीम सूप।"
+            },
+            "ingredients": {
+                "en": [
+                    "Seasonal Vegetable",
+                    "Cream/Milk",
+                    "Vegetable Stock",
+                    "Butter & Seasoning"
+                ],
+                "hi": [
+                    "मौसमी सब्जी",
+                    "क्रीम/दूध",
+                    "सब्जी का स्टॉक",
+                    "मक्खन और मसाला"
+                ]
+            }
+        },
+        {
+            "type": "ORIENTAL EXPRESS",
+            "name": {
+                "en": "Cream of Tomato Soup",
+                "hi": "क्रीम ऑफ टोमेटो सूप"
+            },
+            "price": 140.00,
+            "image": "",
+            "description": "A classic, comforting, and smooth soup made from puréed tomatoes and a generous amount of cream for richness.",
+            "about": {
+                "en": "A rich and tangy-sweet classic, known for its smooth texture and comforting flavour.",
+                "hi": "एक समृद्ध और खट्टा-मीठा क्लासिक, जो अपनी चिकनी बनावट और आरामदायक स्वाद के लिए जाना जाता है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Tomato Purée",
+                    "Cream/Milk",
+                    "Butter",
+                    "Seasoning & Herbs"
+                ],
+                "hi": [
+                    "टमाटर का गूदा",
+                    "क्रीम/दूध",
+                    "मक्खन",
+                    "मसाला और जड़ी बूटियाँ"
+                ]
+            }
+        }
+    ]
+}
