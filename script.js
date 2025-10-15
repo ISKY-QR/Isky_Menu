@@ -161,10 +161,13 @@ searchInput.addEventListener("input", () => {
   }
 
   const filtered = restaurantData.items.filter(item => {
-    const name = item.name[currentLang].toLowerCase();
+    const nameEn = item.name.en.toLowerCase();
+    const nameHi = item.name.hi.toLowerCase();
+
     const words = query.split(" ");
     // check if all words exist in item name
-    return words.every(w => name.includes(w));
+    return words.every(w => nameEn.includes(w) || nameHi.includes(w));
+
   });
 
   renderMenuSections(filtered);
