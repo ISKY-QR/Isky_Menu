@@ -14,6 +14,7 @@ const subtitleEl = document.getElementById("subtitle");
 const langToggle = document.getElementById("langToggle");
 const menuContainer = document.getElementById("menu-sections");
 
+// ======= Modal =======
 const modal = document.getElementById("modal");
 const modalImg = document.getElementById("modal-img");
 const modalTitle = document.getElementById("modal-title");
@@ -22,17 +23,6 @@ const modalIngredients = document.getElementById("modal-ingredients");
 const modalClose = modal.querySelector(".close");
 
 const defaultLogo = "images/default-logo.png";
-
-// ======= Create Search Bar =======
-const searchDiv = document.createElement("div");
-searchDiv.style.textAlign = "center";
-searchDiv.style.margin = "20px";
-searchDiv.innerHTML = `
-  <input type="text" id="menuSearch" placeholder="Search menu..." 
-         style="padding:8px 12px; border-radius:8px; border:1px solid #ccc; width:70%; max-width:300px;">
-`;
-menuPage.insertBefore(searchDiv, menuContainer);
-const menuSearch = document.getElementById("menuSearch");
 
 // ======= Safe image setter =======
 function safeSetImage(imgEl, src, altText) {
@@ -50,7 +40,7 @@ function safeSetImage(imgEl, src, altText) {
 async function loadRestaurantData() {
   try {
     const params = new URLSearchParams(window.location.search);
-    const restaurant = params.get("restaurant") || "silver-spoon";
+    const restaurant = params.get("restaurant") || "lemon-chilli";
     const res = await fetch(`data/${restaurant}.json`);
     if (!res.ok) throw new Error("Menu file not found");
     restaurantData = await res.json();
@@ -74,24 +64,18 @@ function renderLanding() {
 }
 
 // ======= Menu Sections =======
-function renderMenuSections(searchQuery = "") {
+function renderMenuSections(filteredItems = null) {
   menuContainer.innerHTML = "";
 
-  let anyMatch = false;
+  const itemsToRender = filteredItems || restaurantData.items;
 
+  // group items by sections
   restaurantData.sections.forEach(section => {
     const sectionKey = section.key;
     const sectionTitle = currentLang === "en" ? section.titleEn : section.titleHi;
 
-    // Filter items by type AND search query
-    const sectionItems = restaurantData.items.filter(i => {
-      const itemName = i.name[currentLang].toLowerCase();
-      return i.type === sectionKey && itemName.includes(searchQuery.toLowerCase());
-    });
-
+    const sectionItems = itemsToRender.filter(i => i.type === sectionKey);
     if (!sectionItems.length) return;
-
-    anyMatch = true;
 
     const secDiv = document.createElement("section");
     secDiv.className = "menu-section";
@@ -110,7 +94,6 @@ function renderMenuSections(searchQuery = "") {
       `;
 
       li.addEventListener("click", () => showItemDetails(item));
-
       ul.appendChild(li);
     });
 
@@ -124,14 +107,9 @@ function renderMenuSections(searchQuery = "") {
     });
   });
 
-  // If no items matched the search
-  if (searchQuery && !anyMatch) {
-    const noResult = document.createElement("p");
-    noResult.textContent = `Sorry, "${searchQuery}" is not available.`;
-    noResult.style.textAlign = "center";
-    noResult.style.color = "#a87e3a";
-    noResult.style.fontSize = "1.1rem";
-    menuContainer.appendChild(noResult);
+  // If filteredItems exist but nothing matched
+  if (filteredItems && filteredItems.length === 0) {
+    menuContainer.innerHTML = `<p style="padding:15px; text-align:center; color:#b78532; font-weight:bold;">Sorry, no items found.</p>`;
   }
 }
 
@@ -152,18 +130,44 @@ window.addEventListener("click", e => { if (e.target === modal) modal.style.disp
 langToggle.addEventListener("click", () => {
   currentLang = currentLang === "en" ? "hi" : "en";
   langToggle.textContent = currentLang === "en" ? "हिंदी" : "English";
-  renderMenuSections(menuSearch.value);
-});
-
-// ======= Search =======
-menuSearch.addEventListener("input", () => {
-  renderMenuSections(menuSearch.value);
+  renderMenuSections();
 });
 
 // ======= Page Flow =======
 openMenuBtn.addEventListener("click", () => {
   landingPage.style.display = "none";
   menuPage.style.display = "block";
+});
+
+// ======= Search Functionality =======
+const searchInput = document.createElement("input");
+searchInput.type = "text";
+searchInput.id = "menuSearch";
+searchInput.placeholder = "Search menu...";
+menuPage.insertBefore(searchInput, menuContainer);
+
+const searchWrapper = document.createElement("div");
+searchWrapper.id = "searchWrapper";
+searchWrapper.appendChild(searchInput);
+menuPage.insertBefore(searchWrapper, menuContainer);
+
+
+searchInput.addEventListener("input", () => {
+  const query = searchInput.value.trim().toLowerCase();
+
+  if (!query) {
+    renderMenuSections(); // reset
+    return;
+  }
+
+  const filtered = restaurantData.items.filter(item => {
+    const name = item.name[currentLang].toLowerCase();
+    const words = query.split(" ");
+    // check if all words exist in item name
+    return words.every(w => name.includes(w));
+  });
+
+  renderMenuSections(filtered);
 });
 
 // ======= Init =======

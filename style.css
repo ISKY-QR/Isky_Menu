@@ -416,7 +416,7 @@ body {
   width: 70%;
   max-width: 320px;
   border-radius: 20px;
-  border: 2px solid #b78532;
+  background-color: 2px solid #b78532;
   background-color: #fffbe9;
   font-size: 1rem;
   color: #5a4422;
@@ -425,16 +425,27 @@ body {
   transition: all 0.3s ease;
 }
 
-#menuSearch::placeholder {
-  color: #a8772a;
-  font-weight: 500;
+#searchWrapper {
+  margin: 10px 14px;      /* reduce top/bottom space */
+  text-align: center;
+}
+
+#menuSearch {
+  width: 100%;
+  max-width: 400px;       /* constrain width for mobile */
+  padding: 6px 10px;      /* smaller padding */
+  font-size: 0.95rem;
+  border: 2px solid #b78532;
+  border-radius: 8px;
+  outline: none;
+  box-sizing: border-box;
 }
 
 #menuSearch:focus {
   border-color: #a8772a;
-  box-shadow: 0 0 12px rgba(168, 126, 58, 0.5);
-  transform: scale(1.02);
+  box-shadow: 0 0 5px rgba(168, 124, 58, 0.6);
 }
+
 
 
 /* Smooth rainbow movement */

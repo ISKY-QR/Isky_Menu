@@ -19,34 +19,34 @@
             "titleHi": "ORIENTAL EXPRESS"
         },
         {
-            "key": "UTTAPAM",
-            "titleEn": "UTTAPAM",
-            "titleHi": "उत्तपम"
+            "key": "VEG STARTER",
+            "titleEn": "VEG STARTER",
+            "titleHi": "VEG STARTER"
         },
         {
-            "key": "Veg Soup",
-            "titleEn": "Veg Soup",
-            "titleHi": "वेज सूप"
+            "key": "NON VEG STARTER (Fish/Prawn)",
+            "titleEn": "NON VEG STARTER (Fish/Prawn)",
+            "titleHi": "NON VEG STARTER (Fish/Prawn)"
         },
         {
-            "key": "Non-Veg Soup",
-            "titleEn": "Non Veg Soup",
-            "titleHi": "नॉन वेज सूप"
+            "key": "NON VEG STARTER (Mutton/Lamb)",
+            "titleEn": "NON VEG STARTER (Mutton/Lamb)",
+            "titleHi": "NON VEG STARTER (Mutton/Lamb)"
         },
         {
-            "key": "Chat Patta Snacks",
-            "titleEn": "Chat Patta Snacks",
-            "titleHi": "चटपटा स्नैक्स"
+            "key": "NON VEG STARTER (Chicken)",
+            "titleEn": "NON VEG STARTER (Chicken)",
+            "titleHi": "NON VEG STARTER (Chicken)"
         },
         {
-            "key": "GARAM GARAM TANDOORI AUR KABAB",
-            "titleEn": "GARAM GARAM TANDOORI AUR KABAB",
-            "titleHi": "गरम गरम तंदूरी और कबाब"
+            "key": "Chicken",
+            "titleEn": "Chicken",
+            "titleHi": "Chicken"
         },
         {
-            "key": "CHINESE",
-            "titleEn": "CHINESE",
-            "titleHi": "चाइनीज़"
+            "key": "Eggs",
+            "titleEn": "Eggs",
+            "titleHi": "Eggs"
         },
         {
             "key": "CHALOOM CHINESE",
@@ -125,32 +125,6 @@
         }
     ],
     "items": [
-        {
-            "type": "SORBET",
-            "name": {
-                "en": "Sorbet",
-                "hi": "सोर्बेट / शरबत"
-            },
-            "price": 35.00,
-            "image": "",
-            "description": "A frozen dessert made from sweet flavored water, often with fruit juice or purée, and no dairy.",
-            "about": {
-                "en": "A light and dairy-free frozen treat, excellent for a palate cleanser or a refreshing dessert.",
-                "hi": "एक हल्का और डेयरी-मुक्त फ्रोजेन (जमा हुआ) व्यंजन, तालु को साफ करने या ताज़ा करने वाले डेसर्ट के लिए उत्कृष्ट।"
-            },
-            "ingredients": {
-                "en": [
-                    "Fruit Purée/Juice",
-                    "Water",
-                    "Sugar"
-                ],
-                "hi": [
-                    "फलों का गूदा/रस",
-                    "पानी",
-                    "चीनी"
-                ]
-            }
-        },
         {
             "type": "SORBET",
             "name": {
@@ -1088,6 +1062,2163 @@
                     "मसाला और जड़ी बूटियाँ"
                 ]
             }
-        }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Hara Bhara Kabab",
+                "hi": "हारा भरा कबाब"
+            },
+            "price": 240.00,
+            "image": "",
+            "description": "Healthy and delicious pan-fried patties made from a blend of mashed potatoes, spinach (hara), green peas (bhara), and a mix of aromatic Indian spices.",
+            "about": {
+                "en": "A popular, flavour-packed green vegetarian kebab, perfect as a light, nutritious appetizer.",
+                "hi": "एक लोकप्रिय, स्वाद से भरपूर हरा शाकाहारी कबाब, एक हल्के और पौष्टिक ऐपेटाइज़र के लिए उत्तम।"
+            },
+            "ingredients": {
+                "en": [
+                    "Spinach & Green Peas",
+                    "Potatoes",
+                    "Gram Flour (Besan)",
+                    "Ginger-Garlic Paste",
+                    "Indian Spices"
+                ],
+                "hi": [
+                    "पालक और हरी मटर",
+                    "आलू",
+                    "बेसन",
+                    "अदरक-लहसुन का पेस्ट",
+                    "भारतीय मसाले"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Veg. Seekh Kabab",
+                "hi": "शाकाहारी सीक कबाब"
+            },
+            "price": 240.00,
+            "image": "",
+            "description": "Finely minced mixed vegetables and paneer, seasoned with potent spices, molded onto skewers (seekh), and traditionally roasted or grilled.",
+            "about": {
+                "en": "A smoky and succulent grilled starter with a rich blend of mashed vegetables and spices.",
+                "hi": "बारीक कटी सब्जियों और मसालों के समृद्ध मिश्रण के साथ एक स्मोकी और रसीला ग्रिल्ड स्टार्टर।"
+            },
+            "ingredients": {
+                "en": [
+                    "Mixed Vegetables (Beans, Carrots, Peas)",
+                    "Paneer/Potatoes",
+                    "Ginger & Green Chili",
+                    "Garam Masala"
+                ],
+                "hi": [
+                    "मिली-जुली सब्जियां (बीन्स, गाजर, मटर)",
+                    "पनीर/आलू",
+                    "अदरक और हरी मिर्च",
+                    "गरम मसाला"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Peanut Masala",
+                "hi": "पीनट मसाला"
+            },
+            "price": 150.00,
+            "image": "",
+            "description": "Crispy fried peanuts coated in a spicy batter of gram flour and rice flour, or a classic bar snack of roasted peanuts tossed with chopped onion, tomato, and spices.",
+            "about": {
+                "en": "A crunchy, tangy, and spicy bar snack—the perfect accompaniment to drinks.",
+                "hi": "एक कुरकुरा, चटपटा और मसालेदार बार स्नैक—ड्रिंक्स के साथ परोसने के लिए एकदम सही।"
+            },
+            "ingredients": {
+                "en": [
+                    "Peanuts",
+                    "Gram Flour (Besan)",
+                    "Chaat Masala",
+                    "Chili Powder",
+                    "Chopped Onion & Tomato (Optional)"
+                ],
+                "hi": [
+                    "मूंगफली",
+                    "बेसन",
+                    "चाट मसाला",
+                    "मिर्च पाउडर",
+                    "कटा हुआ प्याज और टमाटर (वैकल्पिक)"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Veg. Pakora",
+                "hi": "शाकाहारी पकोड़ा"
+            },
+            "price": 170.00,
+            "image": "",
+            "description": "Assorted mixed vegetables like onion, potato, and spinach, dipped in a spiced gram flour (besan) batter and deep-fried until golden and crispy.",
+            "about": {
+                "en": "Crispy, golden fritters—a timeless classic, especially popular with a cup of hot chai.",
+                "hi": "कुरकुरे, सुनहरे पकोड़े—एक सदाबहार क्लासिक, खासकर गरमागरम चाय के साथ लोकप्रिय।"
+            },
+            "ingredients": {
+                "en": [
+                    "Mixed Vegetables",
+                    "Gram Flour (Besan)",
+                    "Ginger & Green Chili",
+                    "Carom Seeds (Ajwain)"
+                ],
+                "hi": [
+                    "मिली-जुली सब्जियां",
+                    "बेसन",
+                    "अदरक और हरी मिर्च",
+                    "अजवाइन"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Masala Cashewnut Fry",
+                "hi": "मसाला काजू फ्राई"
+            },
+            "price": 299.00,
+            "image": "",
+            "description": "Whole cashews lightly fried or roasted and tossed with a blend of aromatic spices like pepper, cumin, black salt, and a dash of dried mango powder.",
+            "about": {
+                "en": "A rich, crunchy, and spicy appetizer that's highly addictive.",
+                "hi": "एक समृद्ध, कुरकुरा और मसालेदार ऐपेटाइज़र जो बहुत स्वादिष्ट होता है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Cashew Nuts",
+                    "Oil/Ghee",
+                    "Black Salt (Kala Namak)",
+                    "Black Pepper",
+                    "Cumin Powder"
+                ],
+                "hi": [
+                    "काजू",
+                    "तेल/घी",
+                    "काला नमक",
+                    "काली मिर्च",
+                    "जीरा पाउडर"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "French Fry",
+                "hi": "फ्रेंच फ्राई"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "Thin, elongated strips of potato, deep-fried to a perfect golden crisp, seasoned lightly with salt.",
+            "about": {
+                "en": "The universally loved classic potato snack—crisp exterior and fluffy interior.",
+                "hi": "विश्व स्तर पर पसंदीदा क्लासिक आलू स्नैक—बाहर से कुरकुरा और अंदर से नरम।"
+            },
+            "ingredients": {
+                "en": [
+                    "Potatoes",
+                    "Salt",
+                    "Frying Oil"
+                ],
+                "hi": [
+                    "आलू",
+                    "नमक",
+                    "तलने का तेल"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Wafers Chips",
+                "hi": "वेफर्स चिप्स"
+            },
+            "price": 130.00,
+            "image": "",
+            "description": "Paper-thin slices of potato, deep-fried until extremely crisp and usually seasoned with simple salt or a light masala.",
+            "about": {
+                "en": "Ultra-thin and incredibly crispy potato slices—a light, crunchy side snack.",
+                "hi": "बेहद पतले और अविश्वसनीय रूप से कुरकुरे आलू के स्लाइस—एक हल्का, कुरकुरा साइड स्नैक।"
+            },
+            "ingredients": {
+                "en": [
+                    "Potatoes",
+                    "Salt/Masala Seasoning",
+                    "Frying Oil"
+                ],
+                "hi": [
+                    "आलू",
+                    "नमक/मसाला सीज़निंग",
+                    "तलने का तेल"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Cheese Boll",
+                "hi": "चीज़ बॉल"
+            },
+            "price": 270.00,
+            "image": "",
+            "description": "A delightful snack where a cheesy filling is encased in a mashed potato or flour dough, coated in breadcrumbs, and deep-fried to a golden-brown crisp.",
+            "about": {
+                "en": "Crispy on the outside, gooey and cheesy on the inside—a crowd-pleasing snack.",
+                "hi": "बाहर से कुरकुरा, अंदर से मलाईदार और चीज़ से भरा—एक सबको पसंद आने वाला स्नैक।"
+            },
+            "ingredients": {
+                "en": [
+                    "Cheese Cubes (Mozzarella/Cheddar)",
+                    "Mashed Potatoes",
+                    "Breadcrumbs",
+                    "Mixed Herbs"
+                ],
+                "hi": [
+                    "चीज़ क्यूब्स (मोज़ेरेला/चिडर)",
+                    "मैश किए हुए आलू",
+                    "ब्रेडक्रम्ब्स",
+                    "मिली-जुली जड़ी बूटियां"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Paneer Pakora",
+                "hi": "पनीर पकोड़ा"
+            },
+            "price": 240.00,
+            "image": "",
+            "description": "Soft cubes of Indian cottage cheese (paneer) marinated, dipped in a spiced gram flour (besan) batter, and deep-fried until golden and crispy.",
+            "about": {
+                "en": "The ultimate rainy-day comfort food: soft paneer blanketed in a crisp, spicy crust.",
+                "hi": "बारिश के दिनों का सबसे अच्छा आरामदायक भोजन: एक कुरकुरी, मसालेदार परत में लिपटा नरम पनीर।"
+            },
+            "ingredients": {
+                "en": [
+                    "Paneer (Cottage Cheese)",
+                    "Gram Flour (Besan)",
+                    "Rice Flour",
+                    "Ginger-Garlic Paste",
+                    "Spices"
+                ],
+                "hi": [
+                    "पनीर",
+                    "बेसन",
+                    "चावल का आटा",
+                    "अदरक-लहसुन का पेस्ट",
+                    "मसाले"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Paneer Tikka",
+                "hi": "पनीर टिक्का"
+            },
+            "price": 280.00,
+            "image": "",
+            "description": "Chunks of paneer, bell peppers, and onions marinated in a thick blend of yogurt and rich Indian spices, then skewered and grilled in a tandoor or oven.",
+            "about": {
+                "en": "A classic North Indian appetizer: smoky, tangy, and succulent grilled cottage cheese.",
+                "hi": "एक क्लासिक उत्तर भारतीय ऐपेटाइज़र: स्मोकी, चटपटा और रसीला ग्रिल्ड पनीर।"
+            },
+            "ingredients": {
+                "en": [
+                    "Paneer Cubes",
+                    "Yogurt (Curd)",
+                    "Bell Peppers & Onions",
+                    "Ginger-Garlic Paste",
+                    "Tandoori Masala"
+                ],
+                "hi": [
+                    "पनीर के टुकड़े",
+                    "दही",
+                    "शिमला मिर्च और प्याज",
+                    "अदरक-लहसुन का पेस्ट",
+                    "तंदूरी मसाला"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Paneer Shahi Tikka",
+                "hi": "पनीर शाही टिक्का"
+            },
+            "price": 300.00,
+            "image": "",
+            "description": "A richer, creamier version of Paneer Tikka, where the paneer is marinated in a mild, royal (shahi) blend of curd, cream, cashew paste, and saffron before being grilled.",
+            "about": {
+                "en": "The regal twist on a classic—mild, creamy, and supremely melt-in-your-mouth delicious.",
+                "hi": "क्लासिक पर शाही मोड़—हल्का, मलाईदार और बेहद मुंह में घुल जाने वाला।"
+            },
+            "ingredients": {
+                "en": [
+                    "Paneer Cubes",
+                    "Cream & Curd",
+                    "Cashew Nut Paste",
+                    "Cardamom & Saffron",
+                    "Shahi Spices"
+                ],
+                "hi": [
+                    "पनीर के टुकड़े",
+                    "क्रीम और दही",
+                    "काजू का पेस्ट",
+                    "इलायची और केसर",
+                    "शाही मसाले"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Paneer Chutney Wala",
+                "hi": "पनीर चटनी वाला"
+            },
+            "price": 280.00,
+            "image": "",
+            "description": "Soft paneer pieces either stuffed with a tangy-spicy green coriander-mint chutney or marinated in a bright green, tangy chutney-based marinade and grilled.",
+            "about": {
+                "en": "Fresh, tangy, and herbaceous—paneer marinated in a vibrant green coriander-mint chutney.",
+                "hi": "ताज़ा, चटपटा और सुगंधित—चटपटी हरी धनिया-पुदीने की चटनी में मैरिनेटेड पनीर।"
+            },
+            "ingredients": {
+                "en": [
+                    "Paneer Cubes",
+                    "Coriander & Mint Chutney",
+                    "Curd (Yogurt)",
+                    "Lemon Juice",
+                    "Green Chili"
+                ],
+                "hi": [
+                    "पनीर के टुकड़े",
+                    "धनिया और पुदीना चटनी",
+                    "दही",
+                    "नींबू का रस",
+                    "हरी मिर्च"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Cheese Pakora",
+                "hi": "चीज़ पकोड़ा"
+            },
+            "price": 310.00,
+            "image": "",
+            "description": "Large cubes of processed or mozzarella cheese dipped in a spiced gram flour (besan) batter and deep-fried until the cheese is hot and gooey and the crust is crisp.",
+            "about": {
+                "en": "Indulgent and comforting: hot, molten cheese in a crunchy pakora shell.",
+                "hi": "स्वाद से भरपूर और आरामदायक: एक कुरकुरी पकोड़ा परत में पिघला हुआ गर्म चीज़।"
+            },
+            "ingredients": {
+                "en": [
+                    "Processed Cheese Cubes",
+                    "Gram Flour (Besan)",
+                    "Spices",
+                    "Carom Seeds (Ajwain)"
+                ],
+                "hi": [
+                    "प्रोसेस्ड चीज़ क्यूब्स",
+                    "बेसन",
+                    "मसाले",
+                    "अजवाइन"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Crispy Chilly Chana",
+                "hi": "क्रिस्पी चिल्ली चना"
+            },
+            "price": 220.00,
+            "image": "",
+            "description": "Boiled chickpeas (chana), coated with cornflour and spices, deep-fried until ultra-crispy, and tossed in a tangy, spicy Indo-Chinese sauce with bell peppers and onions.",
+            "about": {
+                "en": "A spicy, crispy, and addictive Indo-Chinese snack—a great alternative to chicken or paneer.",
+                "hi": "एक मसालेदार, कुरकुरा और स्वादिष्ट इंडो-चाइनीज़ स्नैक—चिकन या पनीर का एक बेहतरीन विकल्प।"
+            },
+            "ingredients": {
+                "en": [
+                    "Chickpeas (Chana)",
+                    "Corn Flour",
+                    "Soy Sauce & Vinegar",
+                    "Capsicum & Onions",
+                    "Chili Sauce"
+                ],
+                "hi": [
+                    "काबुली चना",
+                    "कॉर्न फ्लोर",
+                    "सोया सॉस और सिरका",
+                    "शिमला मिर्च और प्याज",
+                    "चिल्ली सॉस"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Crispy Chilly Potato",
+                "hi": "क्रिस्पी चिल्ली पोटैटो"
+            },
+            "price": 190.00,
+            "image": "",
+            "description": "Finger-cut potatoes, fried until golden and crisp, then wok-tossed in a zesty, sweet-and-spicy sauce with garlic, spring onions, and sesame seeds.",
+            "about": {
+                "en": "Sweet, spicy, and perfectly crunchy—the ultimate Indo-Chinese potato preparation.",
+                "hi": "मीठा, मसालेदार और पूरी तरह से कुरकुरा—बेहतरीन इंडो-चाइनीज़ आलू की तैयारी।"
+            },
+            "ingredients": {
+                "en": [
+                    "Potatoes (Finger-Cut)",
+                    "Soy & Chili Sauce",
+                    "Garlic & Ginger",
+                    "Spring Onion",
+                    "Sesame Seeds"
+                ],
+                "hi": [
+                    "आलू (फिंगर-कट)",
+                    "सोया और चिल्ली सॉस",
+                    "लहसुन और अदरक",
+                    "स्प्रिंग अनियन",
+                    "तिल के बीज"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Stir Fried Golden Veg",
+                "hi": "स्टिर फ्राइड गोल्डन वेजीटेरियन"
+            },
+            "price": 190.00,
+            "image": "",
+            "description": "A vibrant mix of seasonal vegetables like carrots, bell peppers, snow peas, and broccoli, quickly stir-fried in a light, mild garlic-soy sauce until tender-crisp.",
+            "about": {
+                "en": "A light and healthy starter, showcasing the fresh crunch and natural sweetness of garden vegetables.",
+                "hi": "एक हल्का और स्वस्थ स्टार्टर, जो ताज़ी कुरकुरीपन और बगीचे की सब्जियों की प्राकृतिक मिठास को प्रदर्शित करता है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Assorted Seasonal Vegetables",
+                    "Soy Sauce",
+                    "Ginger & Garlic",
+                    "Sesame Oil"
+                ],
+                "hi": [
+                    "विभिन्न मौसमी सब्जियां",
+                    "सोया सॉस",
+                    "अदरक और लहसुन",
+                    "तिल का तेल"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Chilly Paneer",
+                "hi": "चिल्ली पनीर"
+            },
+            "price": 270.00,
+            "image": "",
+            "description": "A popular Indo-Chinese dish where fried paneer cubes are tossed in a wok with sautéed onions, bell peppers, and a pungent, tangy sauce made with soy sauce, chili sauce, and vinegar.",
+            "about": {
+                "en": "The iconic Indo-Chinese favourite: spicy, tangy, and bursting with flavour.",
+                "hi": "आइकोनिक इंडो-चाइनीज़ पसंदीदा: मसालेदार, चटपटा और स्वाद से भरपूर।"
+            },
+            "ingredients": {
+                "en": [
+                    "Paneer Cubes",
+                    "Onions & Capsicum",
+                    "Soy Sauce & Vinegar",
+                    "Ginger & Garlic",
+                    "Chili Sauce"
+                ],
+                "hi": [
+                    "पनीर के टुकड़े",
+                    "प्याज और शिमला मिर्च",
+                    "सोया सॉस और सिरका",
+                    "अदरक और लहसुन",
+                    "चिल्ली सॉस"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Paneer 65",
+                "hi": "पनीर 65"
+            },
+            "price": 270.00,
+            "image": "",
+            "description": "Deep-fried paneer cubes marinated in a fiery blend of South Indian spices, chili, yogurt, and curry leaves, offering a potent, savoury, and tangy flavour.",
+            "about": {
+                "en": "A signature spicy, tangy, and deeply flavourful South Indian snack with a crunchy coating.",
+                "hi": "एक सिग्नेचर मसालेदार, चटपटा और गहरे स्वाद वाला दक्षिण भारतीय स्नैक, कुरकुरी परत के साथ।"
+            },
+            "ingredients": {
+                "en": [
+                    "Paneer Cubes",
+                    "Curry Leaves & Mustard Seeds",
+                    "Yogurt (Curd)",
+                    "Red Chili Powder & Paste",
+                    "Ginger-Garlic Paste"
+                ],
+                "hi": [
+                    "पनीर के टुकड़े",
+                    "करी पत्ता और सरसों के बीज",
+                    "दही",
+                    "लाल मिर्च पाउडर और पेस्ट",
+                    "अदरक-लहसुन का पेस्ट"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Veg. Manchurian",
+                "hi": "शाकाहारी मंचूरियन"
+            },
+            "price": 220.00,
+            "image": "",
+            "description": "Deep-fried vegetable dumplings (balls) tossed in a tangy and slightly spicy sauce made with soy sauce, ginger, garlic, and spring onions. Available in dry or gravy form.",
+            "about": {
+                "en": "The quintessential Indo-Chinese comfort food, with crispy vegetable balls in a rich, savory sauce.",
+                "hi": "आवश्यक इंडो-चाइनीज़ आरामदायक भोजन, एक समृद्ध, स्वादिष्ट सॉस में कुरकुरी सब्जी के बॉल्स के साथ।"
+            },
+            "ingredients": {
+                "en": [
+                    "Mixed Vegetable Balls (Cabbage, Carrot)",
+                    "Soy Sauce & Vinegar",
+                    "Ginger & Garlic",
+                    "Spring Onion"
+                ],
+                "hi": [
+                    "मिली-जुली सब्जी के बॉल्स (पत्तागोभी, गाजर)",
+                    "सोया सॉस और सिरका",
+                    "अदरक और लहसुन",
+                    "स्प्रिंग अनियन"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Babycorn Salt & Pepper",
+                "hi": "बेबी कॉर्न सॉल्ट एंड पेपर"
+            },
+            "price": 280.00,
+            "image": "",
+            "description": "Crispy fried baby corn tossed with a dry seasoning mix of salt, freshly crushed black pepper, finely chopped ginger, garlic, and green chilies.",
+            "about": {
+                "en": "A simple yet elegant preparation, offering a perfect balance of subtle spice and crunch.",
+                "hi": "एक सरल लेकिन शानदार तैयारी, जो हल्के मसाले और कुरकुरापन का सही संतुलन प्रदान करती है।"
+            },
+            "ingredients": {
+                "en": [
+                    "Baby Corn",
+                    "Corn Flour Batter",
+                    "Freshly Crushed Black Pepper",
+                    "Ginger & Garlic",
+                    "Green Chili"
+                ],
+                "hi": [
+                    "बेबी कॉर्न",
+                    "कॉर्न फ्लोर बैटर",
+                    "ताज़ी कुटी काली मिर्च",
+                    "अदरक और लहसुन",
+                    "हरी मिर्च"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Babycorn Golden Fry",
+                "hi": "बेबी कॉर्न गोल्डन फ्राई"
+            },
+            "price": 290.00,
+            "image": "",
+            "description": "Baby corn pieces dipped in a light, seasoned batter, often made with a mix of flour and cornflour, and deep-fried until perfectly golden and crisp.",
+            "about": {
+                "en": "Sweet, tender baby corn with a delicate golden crisp coating—simple and delicious.",
+                "hi": "मीठा, नरम बेबी कॉर्न एक नाजुक सुनहरी कुरकुरी परत के साथ—सरल और स्वादिष्ट।"
+            },
+            "ingredients": {
+                "en": [
+                    "Baby Corn",
+                    "Refined Flour (Maida)",
+                    "Corn Flour",
+                    "Ginger-Garlic Paste (Optional)",
+                    "Salt & Pepper"
+                ],
+                "hi": [
+                    "बेबी कॉर्न",
+                    "मैदा",
+                    "कॉर्न फ्लोर",
+                    "अदरक-लहसुन का पेस्ट (वैकल्पिक)",
+                    "नमक और काली मिर्च"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Crispy Chilly Babycorn",
+                "hi": "क्रिस्पी चिल्ली बेबी कॉर्न"
+            },
+            "price": 290.00,
+            "image": "",
+            "description": "Crispy fried baby corn pieces wok-tossed in a vibrant, sweet, and spicy chili sauce with bell peppers, onions, and spring onions.",
+            "about": {
+                "en": "A crunchy, tangy, and spicy treat—a vibrant take on the classic chili preparation.",
+                "hi": "एक कुरकुरा, चटपटा और मसालेदार व्यंजन—क्लासिक चिल्ली तैयारी का एक जीवंत रूप।"
+            },
+            "ingredients": {
+                "en": [
+                    "Baby Corn (Fried)",
+                    "Soy Sauce & Chili Sauce",
+                    "Onions & Capsicum",
+                    "Ginger & Garlic"
+                ],
+                "hi": [
+                    "बेबी कॉर्न (तले हुए)",
+                    "सोया सॉस और चिल्ली सॉस",
+                    "प्याज और शिमला मिर्च",
+                    "अदरक और लहसुन"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Veg. Spring Roll",
+                "hi": "शाकाहारी स्प्रिंग रोल"
+            },
+            "price": 240.00,
+            "image": "",
+            "description": "Flour wrappers tightly rolled and filled with a seasoned mix of shredded cabbage, carrots, bell peppers, and noodles, then deep-fried until golden and crisp.",
+            "about": {
+                "en": "Crispy perfection: a classic starter with a savory, stir-fried vegetable filling.",
+                "hi": "कुरकुरापन की पूर्णता: एक स्वादिष्ट, स्टिर-फ्राइड सब्जी की भरावन के साथ एक क्लासिक स्टार्टर।"
+            },
+            "ingredients": {
+                "en": [
+                    "Spring Roll Wrappers (Maida)",
+                    "Shredded Cabbage & Carrots",
+                    "Noodles (Optional)",
+                    "Soy Sauce & Vinegar"
+                ],
+                "hi": [
+                    "स्प्रिंग रोल रैपर (मैदा)",
+                    "कटी हुई पत्तागोभी और गाजर",
+                    "नूडल्स (वैकल्पिक)",
+                    "सोया सॉस और सिरका"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Mushroom Salt & Pepper",
+                "hi": "मशरूम सॉल्ट एंड पेपर"
+            },
+            "price": 260.00,
+            "image": "",
+            "description": "Crispy fried mushrooms tossed with a dry seasoning of salt, freshly crushed black pepper, chopped ginger, garlic, and spring onions.",
+            "about": {
+                "en": "Earthy mushrooms with a beautiful, light crust and a powerful pepper kick.",
+                "hi": "एक सुंदर, हल्के आवरण और काली मिर्च के शक्तिशाली किक के साथ मिट्टी के मशरूम।"
+            },
+            "ingredients": {
+                "en": [
+                    "Mushrooms (Button/Oyster)",
+                    "Corn Flour Batter",
+                    "Freshly Crushed Black Pepper",
+                    "Ginger & Garlic"
+                ],
+                "hi": [
+                    "मशरूम (बटन/ऑयस्टर)",
+                    "कॉर्न फ्लोर बैटर",
+                    "ताज़ी कुटी काली मिर्च",
+                    "अदरक और लहसुन"
+                ]
+            }
+        },
+        {
+            "type": "VEG STARTER",
+            "name": {
+                "en": "Veg. Momo",
+                "hi": "शाकाहारी मोमो"
+            },
+            "price": 160.00,
+            "image": "",
+            "description": "Steamed or fried Tibetan/Nepali style dumplings filled with a finely minced, seasoned mixture of cabbage, carrots, onion, and herbs.",
+            "about": {
+                "en": "Delicate dumplings—steamed to perfection and served with a spicy dipping sauce.",
+                "hi": "नाजुक पकौड़े—पूरी तरह से स्टीम किए हुए और एक मसालेदार डिपिंग सॉस के साथ परोसे जाते हैं।"
+            },
+            "ingredients": {
+                "en": [
+                    "Refined Flour Dough (Maida)",
+                    "Minced Cabbage & Carrots",
+                    "Onion & Cilantro",
+                    "Ginger & Garlic"
+                ],
+                "hi": [
+                    "मैदा का आटा",
+                    "बारीक कटी पत्तागोभी और गाजर",
+                    "प्याज और धनिया",
+                    "अदरक और लहसुन"
+                ]
+            }
+        },
+         {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Chilly Fish",
+      "hi": "चिल्ली फ़िश"
+    },
+    "price": 330.00,
+    "image": "",
+    "description": "Cubes of boneless fish, batter-fried and tossed in a tangy and spicy Indo-Chinese sauce with sautéed onions, bell peppers, and green chilies.",
+    "about": {
+      "en": "A popular Indo-Chinese favorite—spicy, tangy, and bursting with flavors of soy sauce and chili.",
+      "hi": "एक लोकप्रिय इंडो-चाइनीज़ पसंदीदा—मसालेदार, चटपटा और सोया सॉस तथा मिर्च के स्वाद से भरपूर।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Fish Fillets",
+        "Soy Sauce & Vinegar",
+        "Chili Sauce",
+        "Capsicum & Onions",
+        "Ginger & Garlic"
+      ],
+      "hi": [
+        "बिना हड्डी वाली मछली",
+        "सोया सॉस और सिरका",
+        "चिली सॉस",
+        "शिमला मिर्च और प्याज",
+        "अदरक और लहसुन"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Fried Fish",
+      "hi": "फ्राइड फ़िश / तली मछली"
+    },
+    "price": 290.00,
+    "image": "",
+    "description": "Pieces of fish marinated in a basic blend of ginger-garlic paste, lemon juice, and Indian spices, then shallow or deep-fried until crisp and golden.",
+    "about": {
+      "en": "Classic and simple—crispy fried fish with a subtle, savory Indian spice crust.",
+      "hi": "क्लासिक और सरल—एक हल्के, स्वादिष्ट भारतीय मसाले की परत के साथ कुरकुरी तली हुई मछली।"
+    },
+    "ingredients": {
+      "en": [
+        "Fish Pieces (Bone-in or Boneless)",
+        "Ginger-Garlic Paste",
+        "Turmeric & Chili Powder",
+        "Lemon Juice",
+        "Rice/Gram Flour Coating"
+      ],
+      "hi": [
+        "मछली के टुकड़े (हड्डी सहित या रहित)",
+        "अदरक-लहसुन का पेस्ट",
+        "हल्दी और मिर्च पाउडर",
+        "नींबू का रस",
+        "चावल/बेसन की परत"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Fish Finger",
+      "hi": "फ़िश फ़िंगर"
+    },
+    "price": 330.00,
+    "image": "",
+    "description": "Elongated strips of boneless fish marinated in spices, coated generously in breadcrumbs, and deep-fried to a perfect golden crisp.",
+    "about": {
+      "en": "Crispy on the outside, tender inside—a highly popular, easy-to-eat starter.",
+      "hi": "बाहर से कुरकुरा, अंदर से नरम—एक बहुत ही लोकप्रिय, आसानी से खाया जाने वाला स्टार्टर।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Fish Strips",
+        "Breadcrumbs",
+        "Egg/Flour Batter",
+        "Ginger-Garlic Paste",
+        "Black Pepper"
+      ],
+      "hi": [
+        "बिना हड्डी वाली मछली की पट्टियाँ",
+        "ब्रेडक्रम्ब्स",
+        "अंडा/मैदा घोल",
+        "अदरक-लहसुन का पेस्ट",
+        "काली मिर्च"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Fish Tikka",
+      "hi": "फ़िश टिक्का"
+    },
+    "price": 330.00,
+    "image": "",
+    "description": "Chunks of boneless fish marinated in a rich, spicy marinade of yogurt, lemon juice, and traditional Indian tandoori spices, then grilled in a tandoor.",
+    "about": {
+      "en": "A classic North Indian delicacy—smoky, succulent, and perfectly spiced grilled fish.",
+      "hi": "एक क्लासिक उत्तर भारतीय व्यंजन—स्मोकी, रसीला और पूरी तरह से मसालेदार ग्रिल्ड फ़िश।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Fish Cubes",
+        "Yogurt (Curd)",
+        "Ginger-Garlic Paste",
+        "Tandoori Masala",
+        "Mustard Oil"
+      ],
+      "hi": [
+        "बिना हड्डी वाली मछली के टुकड़े",
+        "दही",
+        "अदरक-लहसुन का पेस्ट",
+        "तंदूरी मसाला",
+        "सरसों का तेल"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Fish Tikka Ajwaini",
+      "hi": "फ़िश टिक्का अजवाइनी"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "Fish marinated in a creamy and aromatic mix of yogurt, gram flour (besan), and a dominant flavor of *carom seeds (ajwain)*, then skewered and grilled.",
+    "about": {
+      "en": "A distinctive twist on Fish Tikka, where the ajwain seeds add a unique, pungent aroma and digestive quality.",
+      "hi": "फ़िश टिक्का पर एक विशिष्ट मोड़, जिसमें अजवायन के बीज एक अनूठी, तीखी सुगंध और पाचक गुण जोड़ते हैं।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Fish Cubes",
+        "Yogurt & Cream",
+        "Carom Seeds (Ajwain)",
+        "Gram Flour (Besan)",
+        "Ginger-Garlic Paste"
+      ],
+      "hi": [
+        "बिना हड्डी वाली मछली के टुकड़े",
+        "दही और क्रीम",
+        "अजवाइन",
+        "बेसन",
+        "अदरक-लहसुन का पेस्ट"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Fish Fried Rehu",
+      "hi": "फ्राइड रोहू फ़िश"
+    },
+    "price": 270.00,
+    "image": "",
+    "description": "Slices of Rohu fish (a freshwater Indian carp) marinated in a special mix of ground spices and deep-fried, often with a semolina or rice flour coating for extra crispness.",
+    "about": {
+      "en": "A regional Indian favorite, featuring the meaty texture and distinct flavor of Rohu fish in a crispy, spicy fry.",
+      "hi": "एक क्षेत्रीय भारतीय पसंदीदा, रोहू मछली के मांसल बनावट और विशिष्ट स्वाद को कुरकुरी, मसालेदार फ्राई में प्रस्तुत करता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Rohu Fish Slices (Bone-in)",
+        "Turmeric & Red Chili Powder",
+        "Ginger-Garlic Paste",
+        "Mustard Oil",
+        "Semolina/Rice Flour"
+      ],
+      "hi": [
+        "रोहू मछली के टुकड़े (हड्डी सहित)",
+        "हल्दी और लाल मिर्च पाउडर",
+        "अदरक-लहसुन का पेस्ट",
+        "सरसों का तेल",
+        "सूजी/चावल का आटा"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Chilly Prawn",
+      "hi": "चिल्ली प्रॉन्स / चिल्ली झींगा"
+    },
+    "price": 430.00,
+    "image": "",
+    "description": "Succulent prawns, batter-fried and stir-fried in a fiery, sweet, and tangy Indo-Chinese sauce with onions, bell peppers, and fresh chilies.",
+    "about": {
+      "en": "A delightful seafood variation of the Chilly preparation—spicy, garlicky, and packed with flavor.",
+      "hi": "चिल्ली तैयारी का एक स्वादिष्ट समुद्री भोजन संस्करण—मसालेदार, लहसुनयुक्त और स्वाद से भरपूर।"
+    },
+    "ingredients": {
+      "en": [
+        "Prawns/Shrimps",
+        "Soy Sauce & Vinegar",
+        "Chili Sauce",
+        "Capsicum & Onions",
+        "Ginger & Garlic"
+      ],
+      "hi": [
+        "प्रॉन्स / झींगा",
+        "सोया सॉस और सिरका",
+        "चिली सॉस",
+        "शिमला मिर्च और प्याज",
+        "अदरक और लहसुन"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Golden Fried Prawn",
+      "hi": "गोल्डन फ्राइड प्रॉन्स / सुनहरे तले झींगे"
+    },
+    "price": 430.00,
+    "image": "",
+    "description": "Large prawns coated in a light, crispy batter (often beer batter or tempura-style) and deep-fried until they achieve a delicate, 'golden' crispness.",
+    "about": {
+      "en": "A classic, elegant Indo-Chinese starter—perfectly crisp with tender, juicy prawns inside.",
+      "hi": "एक क्लासिक, सुरुचिपूर्ण इंडो-चाइनीज़ स्टार्टर—अंदर से नरम, रसदार प्रॉन्स के साथ पूरी तरह से कुरकुरा।"
+    },
+    "ingredients": {
+      "en": [
+        "Large Prawns (Deveined)",
+        "Refined Flour (Maida)",
+        "Corn Flour",
+        "Egg (Optional)",
+        "Salt & Pepper"
+      ],
+      "hi": [
+        "बड़े प्रॉन्स (नस निकाले हुए)",
+        "मैदा",
+        "कॉर्न फ्लोर",
+        "अंडा (वैकल्पिक)",
+        "नमक और काली मिर्च"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Prawn Tandoori",
+      "hi": "प्रॉन तंदूरी / तंदूरी झींगा"
+    },
+    "price": 430.00,
+    "image": "",
+    "description": "Large prawns marinated in a vibrant, thick yogurt-based mixture with ginger, garlic, lemon juice, and bold tandoori spices, then grilled in a clay oven (tandoor).",
+    "about": {
+      "en": "Smoky and succulent grilled prawns with a rich, tangy, and earthy tandoori flavor.",
+      "hi": "धुएँदार और रसीले ग्रिल्ड प्रॉन्स, एक समृद्ध, चटपटे और मिट्टी के तंदूरी स्वाद के साथ।"
+    },
+    "ingredients": {
+      "en": [
+        "Large Prawns",
+        "Yogurt (Curd)",
+        "Tandoori Masala",
+        "Ginger-Garlic Paste",
+        "Lemon Juice"
+      ],
+      "hi": [
+        "बड़े प्रॉन्स",
+        "दही",
+        "तंदूरी मसाला",
+        "अदरक-लहसुन का पेस्ट",
+        "नींबू का रस"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Fish/Prawn)",
+    "name": {
+      "en": "Fried Prawn Indian Style",
+      "hi": "फ्राइड प्रॉन इंडियन स्टाइल / भारतीय तरीके से तले झींगे"
+    },
+    "price": 410.00,
+    "image": "",
+    "description": "Prawns marinated in a robust, tangy South Indian or Konkani style spice blend (e.g., chili, coriander, cumin, curry leaves) and pan or deep-fried.",
+    "about": {
+      "en": "A deeply flavorful Indian-style dry fry, highlighting regional spices and a crispy texture.",
+      "hi": "एक गहरे स्वाद वाला भारतीय-शैली का ड्राई फ्राई, क्षेत्रीय मसालों और कुरकुरी बनावट पर ज़ोर देता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Prawns",
+        "Indian Spice Blend (Masala)",
+        "Ginger-Garlic Paste",
+        "Curry Leaves (Optional)",
+        "Rice/Semolina Coating"
+      ],
+      "hi": [
+        "प्रॉन्स",
+        "भारतीय मसाला मिश्रण",
+        "अदरक-लहसुन का पेस्ट",
+        "करी पत्ता (वैकल्पिक)",
+        "चावल/सूजी की परत"
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+    {
+    "type": "NON VEG STARTER (Mutton/Lamb)",
+    "name": {
+      "en": "Mutton Seekh Kabab (8 P)",
+      "hi": "मटन सीक कबाब (8 पीस)"
+    },
+    "price": 360.00,
+    "image": "",
+    "description": "Minced mutton (keema) blended with aromatic spices, fresh herbs, and binding agents, molded onto skewers (seekh), and grilled in a tandoor or over a charcoal flame.",
+    "about": {
+      "en": "A popular appetizer—smoky, moist, and flavorful minced lamb kebabs, typically served with mint chutney.",
+      "hi": "एक लोकप्रिय स्टार्टर—धुएँदार, नम और स्वादिष्ट कीमा मटन कबाब, आमतौर पर पुदीने की चटनी के साथ परोसा जाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Minced Mutton (Keema)",
+        "Ginger-Garlic Paste",
+        "Onions & Green Chilies",
+        "Aromatic Spices (Garam Masala)",
+        "Coriander & Mint Leaves"
+      ],
+      "hi": [
+        "कीमा मटन",
+        "अदरक-लहसुन का पेस्ट",
+        "प्याज और हरी मिर्च",
+        "खुशबूदार मसाले (गरम मसाला)",
+        "धनिया और पुदीना के पत्ते"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Mutton/Lamb)",
+    "name": {
+      "en": "Mutton Kakori Kabab (8p)",
+      "hi": "मटन काकोरी कबाब (8 पीस)"
+    },
+    "price": 370.00,
+    "image": "",
+    "description": "A very fine and soft version of the Seekh Kabab, made from very finely minced mutton, often with a generous amount of fat, cream, and special spices, offering a melt-in-the-mouth texture.",
+    "about": {
+      "en": "The 'Kebab of Kings'—extremely tender and finely minced lamb kebab, known for its buttery, delicate texture.",
+      "hi": "यह 'कबाब का राजा' है—बेहद कोमल और बारीक पिसा हुआ मटन कबाब, अपनी मख़मली, नाजुक बनावट के लिए जाना जाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Very Finely Minced Mutton (Keema)",
+        "Spices (e.g., Mace, Cardamom)",
+        "Brown Onions",
+        "Cream/Mawa (Optional)",
+        "Rose Water"
+      ],
+      "hi": [
+        "बहुत बारीक पिसा हुआ मटन कीमा",
+        "मसाले (जैसे जावित्री, इलायची)",
+        "भूने हुए प्याज",
+        "क्रीम/मावा (वैकल्पिक)",
+        "गुलाब जल"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Mutton/Lamb)",
+    "name": {
+      "en": "Mutton Peshawari Kabab (6 P)",
+      "hi": "मटन पेशावरी कबाब (6 पीस)"
+    },
+    "price": 370.00,
+    "image": "",
+    "description": "Chunks of boneless mutton marinated in a thick, hearty blend of yogurt, mustard oil, ginger, garlic, and robust Punjabi/Peshawari-style spices, then grilled.",
+    "about": {
+      "en": "Robustly flavored and succulent grilled mutton pieces, characterized by a tangy and spicy marinade.",
+      "hi": "मजबूत स्वाद वाले और रसीले ग्रिल्ड मटन के टुकड़े, एक चटपटे और मसालेदार मैरिनेशन की विशेषता।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Mutton Chunks",
+        "Yogurt (Curd)",
+        "Mustard Oil",
+        "Ginger-Garlic Paste",
+        "Coarsely Ground Spices"
+      ],
+      "hi": [
+        "बिना हड्डी वाले मटन के टुकड़े",
+        "दही",
+        "सरसों का तेल",
+        "अदरक-लहसुन का पेस्ट",
+        "मोटे पिसे हुए मसाले"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Mutton/Lamb)",
+    "name": {
+      "en": "Mutton Boti Kabab (6 P)",
+      "hi": "मटन बोटी कबाब (6 पीस)"
+    },
+    "price": 380.00,
+    "image": "",
+    "description": "Small, tender cubes of boneless mutton marinated traditionally in yogurt, raw papaya paste (as a tenderizer), and a blend of North Indian spices, then skewered and grilled in the tandoor.",
+    "about": {
+      "en": "Tender and flavorful—a classic Indian appetizer of boneless mutton pieces with a rich, smoky aroma.",
+      "hi": "कोमल और स्वादिष्ट—बिना हड्डी वाले मटन के टुकड़ों का एक क्लासिक भारतीय स्टार्टर जिसमें एक समृद्ध, धुएँदार सुगंध होती है।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Mutton Cubes",
+        "Yogurt (Curd)",
+        "Raw Papaya Paste (for tenderizing)",
+        "Ginger-Garlic Paste",
+        "Red Chili Powder"
+      ],
+      "hi": [
+        "बिना हड्डी वाले मटन के टुकड़े",
+        "दही",
+        "कच्चे पपीते का पेस्ट (नरम करने के लिए)",
+        "अदरक-लहसुन का पेस्ट",
+        "लाल मिर्च पाउडर"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Mutton/Lamb)",
+    "name": {
+      "en": "Pepper Lamb",
+      "hi": "पेपर लैम्ब / काली मिर्च मेमना"
+    },
+    "price": 370.00,
+    "image": "",
+    "description": "Strips of tender lamb tossed in a dark, robust sauce dominated by freshly crushed black pepper, soy sauce, and garlic, giving it a pungent, spicy kick.",
+    "about": {
+      "en": "A spicy Indo-Chinese dish where the heat and aroma of black pepper are the main highlights.",
+      "hi": "एक मसालेदार इंडो-चाइनीज़ व्यंजन जहाँ काली मिर्च की गर्मी और सुगंध मुख्य आकर्षण हैं।"
+    },
+    "ingredients": {
+      "en": [
+        "Lamb Strips",
+        "Freshly Crushed Black Pepper",
+        "Soy Sauce",
+        "Garlic & Spring Onions",
+        "Vinegar"
+      ],
+      "hi": [
+        "मेमने की पट्टियाँ",
+        "ताज़ी कुटी हुई काली मिर्च",
+        "सोया सॉस",
+        "लहसुन और हरा प्याज",
+        "सिरका"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Mutton/Lamb)",
+    "name": {
+      "en": "Hunan Lamb",
+      "hi": "हुनान लैम्ब / हुनान मेमना"
+    },
+    "price": 370.00,
+    "image": "",
+    "description": "A classic Chinese dish from the Hunan province, featuring thin slices of lamb stir-fried with vegetables and dried chilies in a savory, slightly smoky, and distinctly hot sauce.",
+    "about": {
+      "en": "A hot and spicy Chinese preparation known for its rich color and complex, intense flavor profile.",
+      "hi": "एक गर्म और मसालेदार चीनी व्यंजन जो अपने समृद्ध रंग और जटिल, तीव्र स्वाद प्रोफ़ाइल के लिए जाना जाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Thin Lamb Slices",
+        "Dried Red Chilies",
+        "Soy Sauce & Oyster Sauce",
+        "Ginger & Garlic",
+        "Celery & Bell Peppers"
+      ],
+      "hi": [
+        "मेमने की पतली स्लाइस",
+        "सूखी लाल मिर्च",
+        "सोया सॉस और ऑयस्टर सॉस",
+        "अदरक और लहसुन",
+        "अजमोद और शिमला मिर्च"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Mutton/Lamb)",
+    "name": {
+      "en": "Roasted Chilly Lamb",
+      "hi": "रोस्टेड चिल्ली लैम्ब / भुना हुआ चिल्ली मेमना"
+    },
+    "price": 370.00,
+    "image": "",
+    "description": "Thinly sliced or shredded lamb, often coated and deep-fried until crisp, then stir-fried with a pungent, slightly sweet, and tangy sauce, featuring fresh chilies and often honey.",
+    "about": {
+      "en": "A crisp, sticky, and highly flavorful preparation with a perfect balance of sweet, sour, and heat.",
+      "hi": "एक कुरकुरी, चिपचिपी और अत्यधिक स्वादिष्ट तैयारी जिसमें मीठा, खट्टा और तीखेपन का सही संतुलन होता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Shredded/Sliced Lamb",
+        "Chili Sauce & Soy Sauce",
+        "Honey/Sugar",
+        "Garlic",
+        "Roasted Sesame Seeds"
+      ],
+      "hi": [
+        "कटा हुआ/स्लाइस मेमना",
+        "चिली सॉस और सोया सॉस",
+        "शहद/चीनी",
+        "लहसुन",
+        "भुने हुए तिल"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Mutton/Lamb)",
+    "name": {
+      "en": "Crunchy Crispy Lamb",
+      "hi": "करंची क्रिस्पी लैम्ब / कुरकुरा मेमना"
+    },
+    "price": 370.00,
+    "image": "",
+    "description": "Shredded or slivered lamb, tossed in a seasoned coating and deep-fried to an extreme crispness, then glazed with a light, flavorful, and slightly sweet sauce.",
+    "about": {
+      "en": "Texture is key—a super crisp and dry appetizer that is highly addictive, often served as a popular bar snack.",
+      "hi": "बनावट महत्वपूर्ण है—एक अति कुरकुरा और सूखा स्टार्टर जो बहुत लत लगाने वाला है, अक्सर लोकप्रिय बार स्नैक के रूप में परोसा जाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Thinly Sliced Lamb",
+        "Corn Flour/Batter",
+        "Ginger-Garlic",
+        "Light Soy Sauce",
+        "Bell Peppers"
+      ],
+      "hi": [
+        "मेमने की पतली स्लाइस",
+        "कॉर्न फ्लोर/घोल",
+        "अदरक-लहसुन",
+        "हल्का सोया सॉस",
+        "शिमला मिर्च"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Chrispy Chilly Chicken",
+      "hi": "क्रिस्पी चिल्ली चिकन / कुरकुरा चिल्ली चिकन"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "Pieces of chicken coated in a crispy batter and deep-fried, then tossed in a flavorful Indo-Chinese sauce with a higher emphasis on the dry, crispy texture than the classic Chilly Chicken.",
+    "about": {
+      "en": "A delightful textural variation—tender chicken with a super crispy coating, balanced with a spicy, tangy sauce.",
+      "hi": "एक स्वादिष्ट बनावट भिन्नता—एक बहुत कुरकुरी परत वाला कोमल चिकन, एक मसालेदार, चटपटी सॉस के साथ संतुलित।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Pieces",
+        "Crispy Batter (Maida/Corn Flour)",
+        "Chili Sauce & Soy Sauce",
+        "Onion & Capsicum",
+        "Garlic & Green Chilies"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "कुरकुरा घोल (मैदा/कॉर्न फ्लोर)",
+        "चिली सॉस और सोया सॉस",
+        "प्याज और शिमला मिर्च",
+        "लहसुन और हरी मिर्च"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Chilli Chicken BL/WB",
+      "hi": "चिल्ली चिकन BL/WB (हड्डी रहित/सहित)"
+    },
+    "price": "290 / 270",
+    "image": "",
+    "description": "A classic Indo-Chinese dish of battered and fried chicken pieces tossed in a wok with a spicy, tangy, and slightly sweet sauce made from soy sauce, vinegar, and chili sauce, available boneless (BL) or with bone (WB).",
+    "about": {
+      "en": "The iconic Indo-Chinese starter—spicy, garlicky, and incredibly flavorful, available as a dry or gravy preparation.",
+      "hi": "प्रतिष्ठित इंडो-चाइनीज़ स्टार्टर—मसालेदार, लहसुनयुक्त और अविश्वसनीय रूप से स्वादिष्ट, ड्राई या ग्रेवी के रूप में उपलब्ध।"
+    },
+    "ingredients": {
+      "en": [
+        "Chicken Pieces (BL/WB)",
+        "Soy Sauce & Vinegar",
+        "Chili Sauce",
+        "Capsicum & Onions",
+        "Ginger & Garlic"
+      ],
+      "hi": [
+        "चिकन के टुकड़े (हड्डी रहित/सहित)",
+        "सोया सॉस और सिरका",
+        "चिली सॉस",
+        "शिमला मिर्च और प्याज",
+        "अदरक और लहसुन"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Piece Chicken",
+      "hi": "पीस चिकन / चिकन के टुकड़े"
+    },
+    "price": 250.00,
+    "image": "",
+    "description": "A simple preparation, likely consisting of fried or sautéed chicken pieces, seasoned lightly, often served as a basic side dish or starter.",
+    "about": {
+      "en": "Simple, straightforward chicken pieces, lightly seasoned and cooked, focusing on the natural flavor of the meat.",
+      "hi": "साधारण, सीधे चिकन के टुकड़े, हल्के मसालेदार और पके हुए, मांस के प्राकृतिक स्वाद पर केंद्रित।"
+    },
+    "ingredients": {
+      "en": [
+        "Chicken Pieces (Bone-in)",
+        "Basic Spices",
+        "Oil",
+        "Salt & Turmeric",
+        "Ginger-Garlic Paste"
+      ],
+      "hi": [
+        "चिकन के टुकड़े (हड्डी सहित)",
+        "मूल मसाले",
+        "तेल",
+        "नमक और हल्दी",
+        "अदरक-लहसुन का पेस्ट"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Roasted Chilly Chicken Dry BL/WB",
+      "hi": "रोस्टेड चिल्ली चिकन ड्राई BL/WB"
+    },
+    "price": "310 / 290",
+    "image": "",
+    "description": "Chicken pieces marinated and roasted or pan-fried until slightly charred, then tossed in a spicy, dry, and smoky sauce with bell peppers and green chilies, available boneless (BL) or with bone (WB).",
+    "about": {
+      "en": "A dry, smoky preparation where the roasting process imparts a deep flavor to the chicken.",
+      "hi": "एक सूखा, धुएँदार व्यंजन जहाँ भूनने की प्रक्रिया चिकन को गहरा स्वाद प्रदान करती है।"
+    },
+    "ingredients": {
+      "en": [
+        "Chicken Pieces (BL/WB)",
+        "Chili Sauce & Soy Sauce",
+        "Roasted/Pan-Fried Chicken",
+        "Capsicum & Onions",
+        "Garlic"
+      ],
+      "hi": [
+        "चिकन के टुकड़े (हड्डी रहित/सहित)",
+        "चिली सॉस और सोया सॉस",
+        "भुना हुआ/तवे पर तला हुआ चिकन",
+        "शिमला मिर्च और प्याज",
+        "लहसुन"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Pepper Chicken",
+      "hi": "पेपर चिकन / काली मिर्च चिकन"
+    },
+    "price": 280.00,
+    "image": "",
+    "description": "Chicken pieces stir-fried or roasted and coated in a bold, savory, and pungent dry sauce with a dominant flavor of freshly crushed black pepper and garlic.",
+    "about": {
+      "en": "A fiery and aromatic South Indian or Indo-Chinese style dry dish, heavily seasoned with black pepper.",
+      "hi": "एक उग्र और सुगंधित दक्षिण भारतीय या इंडो-चाइनीज़ शैली का सूखा व्यंजन, जिसमें काली मिर्च का भरपूर मसाला होता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Chicken Pieces",
+        "Crushed Black Pepper",
+        "Curry Leaves (Optional)",
+        "Garlic Paste",
+        "Onions"
+      ],
+      "hi": [
+        "चिकन के टुकड़े",
+        "कुटी हुई काली मिर्च",
+        "करी पत्ता (वैकल्पिक)",
+        "लहसुन का पेस्ट",
+        "प्याज"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Chicken 65",
+      "hi": "चिकन 65"
+    },
+    "price": 290.00,
+    "image": "",
+    "description": "A spicy, deep-fried chicken appetizer from South India, marinated in a distinct spice blend featuring chili powder, ginger, garlic, vinegar, and the unique flavor of curry leaves and yogurt.",
+    "about": {
+      "en": "One of the most famous South Indian appetizers—tender, fiery red, and wonderfully tangy.",
+      "hi": "सबसे प्रसिद्ध दक्षिण भारतीय स्टार्टर्स में से एक—कोमल, भयंकर लाल, और अद्भुत रूप से चटपटा।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Cubes",
+        "Curry Leaves",
+        "Red Chili Powder",
+        "Yogurt & Vinegar",
+        "Ginger-Garlic Paste"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "करी पत्ता",
+        "लाल मिर्च पाउडर",
+        "दही और सिरका",
+        "अदरक-लहसुन का पेस्ट"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Chicken Momo (6 P)",
+      "hi": "चिकन मोमो (6 पीस)"
+    },
+    "price": 200.00,
+    "image": "",
+    "description": "Traditional Himalayan dumplings filled with a savory mixture of minced chicken, onions, ginger, garlic, and herbs, typically served steamed or fried with a spicy dipping sauce (chutney).",
+    "about": {
+      "en": "A hugely popular Tibetan/Nepalese snack—soft, juicy, and flavorful chicken filling encased in thin dough.",
+      "hi": "एक बहुत लोकप्रिय तिब्बती/नेपाली स्नैक—पतले आटे में पैक किया हुआ मुलायम, रसदार और स्वादिष्ट चिकन भरावन।"
+    },
+    "ingredients": {
+      "en": [
+        "Minced Chicken",
+        "Onions & Cilantro",
+        "Ginger & Garlic",
+        "Soy Sauce (Optional)",
+        "All-Purpose Flour Dough"
+      ],
+      "hi": [
+        "कीमा चिकन",
+        "प्याज और धनिया",
+        "अदरक और लहसुन",
+        "सोया सॉस (वैकल्पिक)",
+        "मैदे का आटा"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Zed Chicken",
+      "hi": "ज़ेड चिकन"
+    },
+    "price": 270.00,
+    "image": "",
+    "description": "A house special or regional preparation of chicken, likely an Indo-Chinese style dish, featuring chicken pieces tossed in a unique, savory, and possibly sweet-spicy sauce.",
+    "about": {
+      "en": "A unique, chef-special chicken preparation, offering a distinct and savory flavor profile.",
+      "hi": "एक अनूठा, शेफ-स्पेशल चिकन व्यंजन, एक विशिष्ट और स्वादिष्ट स्वाद प्रोफ़ाइल प्रदान करता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Chicken Pieces",
+        "House Special Sauce",
+        "Mixed Spices & Herbs",
+        "Ginger-Garlic",
+        "Chilies"
+      ],
+      "hi": [
+        "चिकन के टुकड़े",
+        "हाऊस स्पेशल सॉस",
+        "मिश्रित मसाले और जड़ी बूटी",
+        "अदरक-लहसुन",
+        "मिर्च"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Chicken Crumb Fried",
+      "hi": "चिकन क्रम्ब फ्राइड / क्रम्ब में तला हुआ चिकन"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "Tender chicken pieces or strips marinated in basic spices, dipped in a batter, and coated generously with breadcrumbs, then deep-fried until perfectly golden and crisp.",
+    "about": {
+      "en": "Super crispy on the outside, moist and tender inside—a simple yet satisfying fried chicken preparation.",
+      "hi": "बाहर से सुपर कुरकुरा, अंदर से नम और कोमल—एक साधारण लेकिन संतोषजनक तला हुआ चिकन व्यंजन।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Pieces",
+        "Breadcrumbs",
+        "Flour & Egg Batter",
+        "Salt & Pepper",
+        "Garlic Powder (Optional)"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "ब्रेडक्रम्ब्स",
+        "मैदा और अंडे का घोल",
+        "नमक और काली मिर्च",
+        "लहसुन पाउडर (वैकल्पिक)"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Chicken Cooks To Order (bone)",
+      "hi": "चिकन कुक टू ऑर्डर (हड्डी सहित)"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "A customizable dish of chicken with bone, prepared fresh according to the customer's choice of style (e.g., pan-fried, dry roast, or as a specific curry/fry not listed on the main menu).",
+    "about": {
+      "en": "Freshly prepared chicken as per customer's request, allowing for a personalized dining experience.",
+      "hi": "ग्राहक के अनुरोध के अनुसार ताज़ा तैयार किया गया चिकन, एक व्यक्तिगत भोजन अनुभव की अनुमति देता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Chicken Pieces (Bone-in)",
+        "Spices & Ingredients based on order",
+        "Fresh Herbs",
+        "Oil/Ghee",
+        "Onions & Tomatoes"
+      ],
+      "hi": [
+        "चिकन के टुकड़े (हड्डी सहित)",
+        "ऑर्डर के आधार पर मसाले और सामग्री",
+        "ताज़ी जड़ी बूटी",
+        "तेल/घी",
+        "प्याज और टमाटर"
+      ]
+    }
+  },
+  {
+    "type": "NON VEG STARTER (Chicken)",
+    "name": {
+      "en": "Chicken Cooks To Order (boneless)",
+      "hi": "चिकन कुक टू ऑर्डर (हड्डी रहित)"
+    },
+    "price": 310.00,
+    "image": "",
+    "description": "A customizable dish of boneless chicken, prepared fresh according to the customer's choice of style (e.g., tikka masala, garlic fry, or a specific Chinese preparation).",
+    "about": {
+      "en": "Boneless chicken prepared exactly to the customer's specifications for a perfect, customized meal.",
+      "hi": "सही, अनुकूलित भोजन के लिए ग्राहक की ज़रूरतों के अनुसार तैयार किया गया हड्डी रहित चिकन।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Cubes",
+        "Spices & Ingredients based on order",
+        "Fresh Herbs",
+        "Oil/Ghee",
+        "Seasonings"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "ऑर्डर के आधार पर मसाले और सामग्री",
+        "ताज़ी जड़ी बूटी",
+        "तेल/घी",
+        "सीज़निंग"
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+   {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Kastoori Kabab (6 P)",
+      "hi": "चिकन कस्तूरी कबाब (6 पीस)"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "Boneless chicken pieces marinated in a rich, creamy blend of yogurt, cream, cheese, cardamom, and subtle spices, often coated with dried fenugreek leaves ('Kasuri Methi') for a distinct, aromatic flavor before being grilled in a tandoor.",
+    "about": {
+      "en": "A highly aromatic and flavorful kebab, recognized for the fragrance of 'Kasuri Methi' (dried fenugreek leaves) and a soft texture.",
+      "hi": "कसूरी मेथी की खुशबू और नरम बनावट के लिए जाना जाने वाला एक अत्यंत सुगंधित और स्वादिष्ट कबाब।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken",
+        "Yogurt & Fresh Cream",
+        "Dried Fenugreek Leaves (Kasuri Methi)",
+        "Ginger-Garlic Paste",
+        "Cardamom Powder & White Pepper"
+      ],
+      "hi": [
+        "बिना हड्डी वाला चिकन",
+        "दही और ताज़ी क्रीम",
+        "कसूरी मेथी (सूखे मेथी के पत्ते)",
+        "अदरक-लहसुन का पेस्ट",
+        "इलायची पाउडर और सफेद मिर्च"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Murgh Malai (Seekh) Kabab",
+      "hi": "मुर्ग मलाई (सीक) कबाब"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "Minced chicken (keema) blended with rich ingredients like cream, fresh cheese (paneer/mawa), and cashew nut paste, delicately seasoned with mild spices, molded onto skewers, and grilled for a silky, melt-in-the-mouth texture.",
+    "about": {
+      "en": "A delicate and creamy variant of the seekh kebab, known for its mild flavor and extremely succulent, moist texture.",
+      "hi": "सीक कबाब का एक नाजुक और मलाईदार रूप, जो अपने हल्के स्वाद और बेहद रसीले, नम बनावट के लिए जाना जाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Minced Chicken (Keema)",
+        "Fresh Cream & Hung Curd",
+        "Cashew Nut Paste",
+        "Ginger-Garlic Paste",
+        "Green Chili & Cardamom"
+      ],
+      "hi": [
+        "कीमा चिकन",
+        "ताज़ी क्रीम और टंगा हुआ दही",
+        "काजू का पेस्ट",
+        "अदरक-लहसुन का पेस्ट",
+        "हरी मिर्च और इलायची"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Murgh Achari Kabab",
+      "hi": "मुर्ग अचारी कबाब"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "Boneless chicken pieces marinated in a pungent and tangy mixture inspired by Indian pickle ('achar') spices, which typically includes fennel, mustard seeds, fenugreek, and nigella seeds, often enhanced with a touch of mustard oil.",
+    "about": {
+      "en": "A tangy, spicy, and robustly flavored kebab with the distinct aromatic essence of Indian mixed pickle spices.",
+      "hi": "भारतीय अचार के मसालों के विशिष्ट सुगंधित सार के साथ एक चटपटा, मसालेदार और मजबूत स्वाद वाला कबाब।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Chunks",
+        "Yogurt",
+        "Achari Masala (Fennel, Mustard, Nigella Seeds)",
+        "Mustard Oil",
+        "Ginger-Garlic Paste"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "दही",
+        "अचारी मसाला (सौंफ, सरसों, कलौंजी)",
+        "सरसों का तेल",
+        "अदरक-लहसुन का पेस्ट"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Murgh Mastana Kabab",
+      "hi": "मुर्ग मस्ताना कबाब"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "A rich, creamy, and mildly spicy chicken tikka preparation. Boneless chicken is marinated in a mixture of hung curd, cashew paste, fresh cream, and subtle spices like cardamom and garam masala, then grilled.",
+    "about": {
+      "en": "A flavorful and 'mastana' (delightful) creamy kebab, offering a rich and tender bite with a velvety coating.",
+      "hi": "एक स्वादिष्ट और 'मस्ताना' (मनमोहक) मलाईदार कबाब, एक मखमली परत के साथ एक समृद्ध और कोमल स्वाद प्रदान करता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken",
+        "Hung Curd & Fresh Cream",
+        "Cashew Nut Paste",
+        "Ginger-Garlic Paste",
+        "Cardamom & Garam Masala"
+      ],
+      "hi": [
+        "बिना हड्डी वाला चिकन",
+        "टंगा हुआ दही और ताज़ी क्रीम",
+        "काजू का पेस्ट",
+        "अदरक-लहसुन का पेस्ट",
+        "इलायची और गरम मसाला"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Kalmi Kabab",
+      "hi": "चिकन कलमी कबाब"
+    },
+    "price": 350.00,
+    "image": "",
+    "description": "Chicken drumsticks ('Kalmi' refers to a leg-piece or drumstick) marinated in a rich, creamy, and spicy yogurt-based blend featuring cream, butter, and traditional Indian spices, then grilled in the tandoor.",
+    "about": {
+      "en": "A juicy and tender kebab made from chicken drumsticks, known for its robust flavor and soft, grilled meat.",
+      "hi": "चिकन ड्रमस्टिक्स से बना एक रसीला और कोमल कबाब, जो अपने मजबूत स्वाद और नरम, ग्रिल्ड मांस के लिए जाना जाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Chicken Drumsticks (Leg Piece)",
+        "Yogurt & Cream",
+        "Ginger-Garlic Paste",
+        "Garam Masala & Red Chili Powder",
+        "Lemon Juice"
+      ],
+      "hi": [
+        "चिकन ड्रमस्टिक्स (लेग पीस)",
+        "दही और क्रीम",
+        "अदरक-लहसुन का पेस्ट",
+        "गरम मसाला और लाल मिर्च पाउडर",
+        "नींबू का रस"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Abu Chilly Kabab",
+      "hi": "चिकन अबू चिल्ली कबाब"
+    },
+    "price": 320.00,
+    "image": "",
+    "description": "A spicy and savory chicken preparation, likely a unique house-special blend. It involves pieces of chicken (possibly boneless) tossed in a dry or semi-dry Indo-Chinese-style sauce that emphasizes the heat of green and red chilies.",
+    "about": {
+      "en": "A fiery and intensely flavored chicken dish, offering a unique blend of spice and tangy flavors.",
+      "hi": "एक उग्र और तीव्र स्वाद वाला चिकन व्यंजन, जो मसाले और चटपटे स्वाद का एक अनूठा मिश्रण प्रदान करता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Pieces",
+        "Ginger-Garlic Paste",
+        "Green/Red Chilies",
+        "Soy Sauce & Vinegar",
+        "Spices & Seasonings"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "अदरक-लहसुन का पेस्ट",
+        "हरी/लाल मिर्च",
+        "सोया सॉस और सिरका",
+        "मसाले और सीज़निंग"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Shabnami Kabab",
+      "hi": "चिकन शबनमी कबाब"
+    },
+    "price": 330.00,
+    "image": "",
+    "description": "Shabnami means 'dewy' or 'misty,' suggesting a moist, soft preparation. It is typically a minced chicken (keema) or boneless chicken kebab where the pieces are wrapped in a layer of egg white and mild spices, or served with a creamy white gravy/coating, cooked gently to retain moisture.",
+    "about": {
+      "en": "A moist, delicately spiced kebab with a unique texture, often featuring a white, creamy, or eggy exterior.",
+      "hi": "एक अनूठी बनावट वाला नम, नाजुक मसालेदार कबाब, जिसमें अक्सर एक सफेद, मलाईदार या अंडे जैसी बाहरी परत होती है।"
+    },
+    "ingredients": {
+      "en": [
+        "Minced/Boneless Chicken",
+        "Egg White/Creamy Coating",
+        "Ginger-Garlic Paste",
+        "Mild Spices (White Pepper)",
+        "Coriander Leaves"
+      ],
+      "hi": [
+        "कीमा/बिना हड्डी वाला चिकन",
+        "अंडे की सफेदी/मलाईदार परत",
+        "अदरक-लहसुन का पेस्ट",
+        "हल्के मसाले (सफेद मिर्च)",
+        "धनिया पत्ती"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Reshmi Kabab",
+      "hi": "चिकन रेशमी कबाब"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "Boneless chicken pieces marinated in a silky smooth ('Reshmi' means silken) blend of yogurt, cream, ground cashew nuts, fresh coriander, ginger-garlic, and mild, aromatic spices, then skewered and grilled until tender.",
+    "about": {
+      "en": "Named for its 'silken' texture, this is a very tender, mildly spiced, and creamy white kebab, famous for its smoothness.",
+      "hi": "अपनी 'रेशमी' बनावट के लिए जाना जाता है, यह एक बहुत ही कोमल, हल्का मसालेदार और मलाईदार सफेद कबाब है, जो अपनी चिकनाहट के लिए प्रसिद्ध है।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Chunks",
+        "Cream & Yogurt",
+        "Cashew Nut/Almond Paste",
+        "Coriander & Green Chilies",
+        "Ginger-Garlic Paste"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "क्रीम और दही",
+        "काजू/बादाम का पेस्ट",
+        "धनिया और हरी मिर्च",
+        "अदरक-लहसुन का पेस्ट"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Tikka Kabab",
+      "hi": "चिकन टिक्का कबाब"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "The quintessential Indian appetizer of boneless chicken pieces marinated in a tangy, spicy mixture of yogurt and a fiery red blend of traditional Indian spices, grilled in a tandoor oven until perfectly charred and succulent.",
+    "about": {
+      "en": "The most famous Indian grilled starter—smoky, succulent, and perfectly spiced boneless chicken pieces.",
+      "hi": "सबसे प्रसिद्ध भारतीय ग्रिल्ड स्टार्टर—धुएँदार, रसीले, और पूरी तरह से मसालेदार बिना हड्डी वाले चिकन के टुकड़े।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Cubes",
+        "Yogurt (Curd)",
+        "Ginger-Garlic Paste",
+        "Red Chili Powder & Tandoori Masala",
+        "Lemon Juice"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "दही",
+        "अदरक-लहसुन का पेस्ट",
+        "लाल मिर्च पाउडर और तंदूरी मसाला",
+        "नींबू का रस"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "King of Tandoor (Tandoori Chk.) (F/H)",
+      "hi": "किंग ऑफ तंदूर (तंदूरी चिकन) (पूरा/आधा)"
+    },
+    "price": "430 / 260",
+    "image": "",
+    "description": "A whole or half chicken, deeply marinated in a classic red/orange tandoori marinade of yogurt, lemon juice, ginger-garlic paste, and a blend of robust spices (like tandoori masala and red chili powder), then roasted in a clay tandoor.",
+    "about": {
+      "en": "The classic, smoky, and charred whole or half tandoori chicken, a staple of North Indian cuisine.",
+      "hi": "क्लासिक, धुएँदार और भुना हुआ पूरा या आधा तंदूरी चिकन, उत्तर भारतीय व्यंजनों का एक मुख्य व्यंजन।"
+    },
+    "ingredients": {
+      "en": [
+        "Whole/Half Chicken (Bone-in)",
+        "Yogurt (Curd)",
+        "Tandoori Masala",
+        "Red Chili Powder & Ginger-Garlic Paste",
+        "Lemon Juice"
+      ],
+      "hi": [
+        "पूरा/आधा चिकन (हड्डी सहित)",
+        "दही",
+        "तंदूरी मसाला",
+        "लाल मिर्च पाउडर और अदरक-लहसुन का पेस्ट",
+        "नींबू का रस"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Lemon Kabab",
+      "hi": "चिकन लेमन कबाब"
+    },
+    "price": 340.00,
+    "image": "",
+    "description": "Boneless chicken pieces marinated in a light, refreshing mixture dominated by fresh lemon juice, lemon zest, herbs (like coriander and mint), and mild spices (like white pepper), grilled until tender.",
+    "about": {
+      "en": "A light, tangy, and refreshing kebab, characterized by the bright, zesty flavor of lemon.",
+      "hi": "नींबू के उज्ज्वल, ताज़ा स्वाद की विशेषता वाला एक हल्का, चटपटा और ताज़ा कबाब।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken",
+        "Fresh Lemon Juice & Zest",
+        "Yogurt/Cream (Optional)",
+        "White Pepper & Salt",
+        "Ginger-Garlic Paste"
+      ],
+      "hi": [
+        "बिना हड्डी वाला चिकन",
+        "ताज़ा नींबू का रस और छिलका",
+        "दही/क्रीम (वैकल्पिक)",
+        "सफेद मिर्च और नमक",
+        "अदरक-लहसुन का पेस्ट"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Pakora",
+      "hi": "चिकन पकौड़ा"
+    },
+    "price": 310.00,
+    "image": "",
+    "description": "Pieces of marinated chicken, often boneless, coated in a thick, spiced batter made primarily from gram flour (besan), sometimes with rice or corn flour for crispness, and deep-fried until golden and crispy.",
+    "about": {
+      "en": "A popular North Indian deep-fried snack—crispy on the outside, moist and spicy on the inside.",
+      "hi": "एक लोकप्रिय उत्तर भारतीय डीप-फ्राइड स्नैक—बाहर से कुरकुरा, अंदर से नम और मसालेदार।"
+    },
+    "ingredients": {
+      "en": [
+        "Boneless Chicken Pieces",
+        "Gram Flour (Besan) & Rice Flour",
+        "Ginger-Garlic Paste",
+        "Spices (Chili Powder, Cumin, Coriander)",
+        "Lemon Juice"
+      ],
+      "hi": [
+        "बिना हड्डी वाले चिकन के टुकड़े",
+        "बेसन और चावल का आटा",
+        "अदरक-लहसुन का पेस्ट",
+        "मसाले (मिर्च पाउडर, जीरा, धनिया)",
+        "नींबू का रस"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chuzza Afgani",
+      "hi": "चुज़्ज़ा अफ़गानी"
+    },
+    "price": 430.00,
+    "image": "",
+    "description": "Chicken (often a whole small chicken or half chicken, 'Chuzza' meaning chick/small chicken) marinated in a creamy, yogurt-based marinade that is distinctly milder and whiter than the standard tandoori chicken, flavored heavily with cardamom, cream, and ginger-garlic paste, then grilled in a tandoor.",
+    "about": {
+      "en": "A luscious and mildly spiced grilled chicken preparation from the North West Frontier region, known for its creamy, white coating.",
+      "hi": "उत्तर पश्चिम सीमांत क्षेत्र का एक शानदार और हल्का मसालेदार ग्रिल्ड चिकन व्यंजन, जो अपनी मलाईदार, सफेद परत के लिए जाना जाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Whole/Half Chicken",
+        "Yogurt & Cream",
+        "Cashew Nut Paste",
+        "Cardamom Powder",
+        "Ginger-Garlic Paste"
+      ],
+      "hi": [
+        "पूरा/आधा चिकन",
+        "दही और क्रीम",
+        "काजू का पेस्ट",
+        "इलायची पाउडर",
+        "अदरक-लहसुन का पेस्ट"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Lilipop",
+      "hi": "चिकन लॉलीपॉप"
+    },
+    "price": 240.00,
+    "image": "",
+    "description": "Frenched chicken wingettes or drumettes, where the meat is pushed to one end to resemble a lollipop, marinated in a spicy Indo-Chinese batter, deep-fried until crisp, and often tossed in a tangy Schezwan or chili-garlic sauce.",
+    "about": {
+      "en": "A highly popular Indo-Chinese appetizer—spicy, crunchy, and conveniently shaped for easy eating.",
+      "hi": "एक बहुत लोकप्रिय इंडो-चाइनीज़ स्टार्टर—मसालेदार, कुरकुरा, और आसानी से खाने के लिए सुविधाजनक आकार का।"
+    },
+    "ingredients": {
+      "en": [
+        "Frenched Chicken Wings/Drumettes",
+        "Soy Sauce & Chili Sauce",
+        "Ginger-Garlic Paste",
+        "Corn Flour/Maida Batter",
+        "Red Food Color (Optional)"
+      ],
+      "hi": [
+        "फ्रेंच चिकन विंग्स/ड्रमेट्स",
+        "सोया सॉस और चिली सॉस",
+        "अदरक-लहसुन का पेस्ट",
+        "कॉर्न फ्लोर/मैदा का घोल",
+        "लाल भोजन रंग (वैकल्पिक)"
+      ]
+    }
+  },
+  {
+    "type": "Chicken",
+    "name": {
+      "en": "Chicken Olympia",
+      "hi": "चिकन ओलंपिया"
+    },
+    "price": 250.00,
+    "image": "",
+    "description": "A house-special or regional chicken preparation, likely featuring a unique blend of flavors, potentially a stir-fry or pan-fried dish with a distinct sauce that could be a creamy, smoky, or highly spiced gravy/coating.",
+    "about": {
+      "en": "A unique, chef-special chicken preparation, offering a distinct and savory flavor profile not commonly found in the main menu.",
+      "hi": "एक अनूठा, शेफ-स्पेशल चिकन व्यंजन, एक विशिष्ट और स्वादिष्ट स्वाद प्रोफ़ाइल प्रदान करता है जो मुख्य मेनू में आमतौर पर नहीं पाया जाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Chicken Pieces (Bone-in/Boneless)",
+        "House Special Sauce/Marinade",
+        "Mixed Spices",
+        "Oil/Butter",
+        "Seasonings"
+      ],
+      "hi": [
+        "चिकन के टुकड़े (हड्डी सहित/रहित)",
+        "हाऊस स्पेशल सॉस/मैरिनेड",
+        "मिश्रित मसाले",
+        "तेल/मक्खन",
+        "सीज़निंग"
+      ]
+    }
+  },
+
+
+
+
+
+
+
+   {
+    "type": "EGGS",
+    "name": {
+      "en": "Egg Pakora",
+      "hi": "अंडा पकौड़ा"
+    },
+    "price": 130.00,
+    "image": "",
+    "description": "Boiled eggs cut in half or quarters, dipped in a spiced batter made from gram flour (besan), and deep-fried until golden and crispy. Served with chutney.",
+    "about": {
+      "en": "A popular Indian deep-fried snack, offering a crunchy exterior and soft, savory egg interior.",
+      "hi": "एक लोकप्रिय भारतीय डीप-फ्राइड स्नैक, जो कुरकुरा बाहरी भाग और नरम, नमकीन अंडे का आंतरिक भाग प्रदान करता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Boiled Eggs",
+        "Gram Flour (Besan) Batter",
+        "Spices (Chili Powder, Turmeric, Coriander)",
+        "Oil for frying"
+      ],
+      "hi": [
+        "उबले अंडे",
+        "बेसन का घोल",
+        "मसाले (मिर्च पाउडर, हल्दी, धनिया)",
+        "तलने के लिए तेल"
+      ]
+    }
+  },
+  {
+    "type": "EGGS",
+    "name": {
+      "en": "Cheese Omelet",
+      "hi": "चीज़ ऑमलेट"
+    },
+    "price": 150.00,
+    "image": "",
+    "description": "A classic fluffy omelet made with whisked eggs, often mixed with chopped onions, tomatoes, and green chilies, and filled or topped with grated cheese before being folded or served open-faced.",
+    "about": {
+      "en": "A rich and satisfying breakfast or snack item, combining the simplicity of an omelet with creamy cheese.",
+      "hi": "एक समृद्ध और संतोषजनक नाश्ता या स्नैक आइटम, जो एक ऑमलेट की सादगी को मलाईदार चीज़ के साथ मिलाता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Eggs",
+        "Cheese (Cheddar/Mozzarella)",
+        "Onions & Tomatoes",
+        "Green Chilies (Optional)",
+        "Oil/Butter"
+      ],
+      "hi": [
+        "अंडे",
+        "चीज़ (चैडर/मोज़ेरेला)",
+        "प्याज और टमाटर",
+        "हरी मिर्च (वैकल्पिक)",
+        "तेल/मक्खन"
+      ]
+    }
+  },
+  {
+    "type": "EGGS",
+    "name": {
+      "en": "Chicken Omelet",
+      "hi": "चिकन ऑमलेट"
+    },
+    "price": 170.00,
+    "image": "",
+    "description": "A savory omelet featuring whisked eggs combined with finely chopped, cooked chicken (often minced or small shredded pieces), along with traditional additions like onions, green chilies, and coriander.",
+    "about": {
+      "en": "A protein-rich and filling omelet, offering a hearty blend of egg and savory chicken.",
+      "hi": "एक प्रोटीन से भरपूर और पेट भरने वाला ऑमलेट, जो अंडे और नमकीन चिकन का एक शानदार मिश्रण पेश करता है।"
+    },
+    "ingredients": {
+      "en": [
+        "Eggs",
+        "Cooked/Minced Chicken",
+        "Onions & Green Chilies",
+        "Coriander Leaves",
+        "Oil/Butter"
+      ],
+      "hi": [
+        "अंडे",
+        "पका हुआ/कीमा बनाया हुआ चिकन",
+        "प्याज और हरी मिर्च",
+        "धनिया पत्ती",
+        "तेल/मक्खन"
+      ]
+    }
+  }
     ]
 }
