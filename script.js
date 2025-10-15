@@ -23,6 +23,17 @@ const modalClose = modal.querySelector(".close");
 
 const defaultLogo = "images/default-logo.png";
 
+// ======= Create Search Bar =======
+const searchDiv = document.createElement("div");
+searchDiv.style.textAlign = "center";
+searchDiv.style.margin = "20px";
+searchDiv.innerHTML = `
+  <input type="text" id="menuSearch" placeholder="Search menu..." 
+         style="padding:8px 12px; border-radius:8px; border:1px solid #ccc; width:70%; max-width:300px;">
+`;
+menuPage.insertBefore(searchDiv, menuContainer);
+const menuSearch = document.getElementById("menuSearch");
+
 // ======= Safe image setter =======
 function safeSetImage(imgEl, src, altText) {
   if (!src) {
@@ -39,7 +50,7 @@ function safeSetImage(imgEl, src, altText) {
 async function loadRestaurantData() {
   try {
     const params = new URLSearchParams(window.location.search);
-    const restaurant = params.get("restaurant") || "lemon-chilli";
+    const restaurant = params.get("restaurant") || "silver-spoon";
     const res = await fetch(`data/${restaurant}.json`);
     if (!res.ok) throw new Error("Menu file not found");
     restaurantData = await res.json();
@@ -63,15 +74,24 @@ function renderLanding() {
 }
 
 // ======= Menu Sections =======
-function renderMenuSections() {
+function renderMenuSections(searchQuery = "") {
   menuContainer.innerHTML = "";
+
+  let anyMatch = false;
 
   restaurantData.sections.forEach(section => {
     const sectionKey = section.key;
     const sectionTitle = currentLang === "en" ? section.titleEn : section.titleHi;
 
-    const sectionItems = restaurantData.items.filter(i => i.type === sectionKey);
+    // Filter items by type AND search query
+    const sectionItems = restaurantData.items.filter(i => {
+      const itemName = i.name[currentLang].toLowerCase();
+      return i.type === sectionKey && itemName.includes(searchQuery.toLowerCase());
+    });
+
     if (!sectionItems.length) return;
+
+    anyMatch = true;
 
     const secDiv = document.createElement("section");
     secDiv.className = "menu-section";
@@ -84,13 +104,11 @@ function renderMenuSections() {
       const li = document.createElement("li");
       li.className = "menu-item";
 
-      // ✅ Proper HTML for CSS layout
       li.innerHTML = `
         <span class="menu-item-name">${item.name[currentLang]}</span>
         <span class="menu-item-price">₹${item.price}</span>
       `;
 
-      // Click opens modal
       li.addEventListener("click", () => showItemDetails(item));
 
       ul.appendChild(li);
@@ -105,6 +123,16 @@ function renderMenuSections() {
       secDiv.classList.toggle("active");
     });
   });
+
+  // If no items matched the search
+  if (searchQuery && !anyMatch) {
+    const noResult = document.createElement("p");
+    noResult.textContent = `Sorry, "${searchQuery}" is not available.`;
+    noResult.style.textAlign = "center";
+    noResult.style.color = "#a87e3a";
+    noResult.style.fontSize = "1.1rem";
+    menuContainer.appendChild(noResult);
+  }
 }
 
 // ======= Item Details Modal =======
@@ -124,7 +152,12 @@ window.addEventListener("click", e => { if (e.target === modal) modal.style.disp
 langToggle.addEventListener("click", () => {
   currentLang = currentLang === "en" ? "hi" : "en";
   langToggle.textContent = currentLang === "en" ? "हिंदी" : "English";
-  renderMenuSections();
+  renderMenuSections(menuSearch.value);
+});
+
+// ======= Search =======
+menuSearch.addEventListener("input", () => {
+  renderMenuSections(menuSearch.value);
 });
 
 // ======= Page Flow =======

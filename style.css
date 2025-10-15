@@ -222,7 +222,8 @@ header h1 {
 }
 
 /* ===== Sticky footer layout ===== */
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
 }
@@ -240,7 +241,8 @@ body {
 /* allow main views to take available space so footer sits at bottom */
 .landing-screen,
 .menu-book {
-  flex: 1 0 auto;            /* grow/shrink, but don't force footer offscreen */
+  flex: 1 0 auto;
+  /* grow/shrink, but don't force footer offscreen */
   box-sizing: border-box;
 }
 
@@ -251,14 +253,17 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 28px;             /* keep your padding, box-sizing avoids overflow */
-  overflow: hidden;          /* prevent landing screen itself from producing scrollbars */
+  padding: 28px;
+  /* keep your padding, box-sizing avoids overflow */
+  overflow: hidden;
+  /* prevent landing screen itself from producing scrollbars */
   text-align: center;
 }
 
 /* ===== Footer (sticky at bottom when content short) ===== */
 .site-footer {
-  margin-top: auto;          /* pushes footer to bottom in a column flex layout */
+  margin-top: auto;
+  /* pushes footer to bottom in a column flex layout */
   background: #e2c799;
   color: #5a4422;
   text-align: center;
@@ -270,6 +275,7 @@ body {
   box-sizing: border-box;
   /* position: static / relative is default — do not use fixed if you want sticky behavior */
 }
+
 .site-footer a {
   color: #5a4422;
   text-decoration: none;
@@ -314,7 +320,8 @@ body {
   top: 20px;
   right: 20px;
   padding: 8px 16px;
-  background-color:#a8772a; /* accent color */
+  background-color: #a8772a;
+  /* accent color */
   color: #fff;
   border: none;
   border-radius: 20px;
@@ -326,7 +333,8 @@ body {
 }
 
 #langToggle:hover {
-  background-color: #a8772a; /* slightly darker on hover */
+  background-color: #a8772a;
+  /* slightly darker on hover */
   transform: translateY(-2px);
 }
 
@@ -361,7 +369,8 @@ body {
   transform: scale(0.98);
 }
 
-.landing-description, .landing-highlights {
+.landing-description,
+.landing-highlights {
   max-width: 600px;
   margin: 16px auto;
   font-size: 1.1rem;
@@ -384,10 +393,12 @@ body {
 
 
 #landingTitle {
-  font-family: 'Playfair Display', 'Georgia', serif; /* Elegant font */
+  font-family: 'Playfair Display', 'Georgia', serif;
+  /* Elegant font */
   font-size: 2.6rem;
   font-weight: 700;
-  color: #5a3d1e;               /* Warm premium brown */
+  color: #5a3d1e;
+  /* Warm premium brown */
   text-align: center;
   letter-spacing: 1.5px;
   text-transform: capitalize;
@@ -399,18 +410,59 @@ body {
   margin-top: 18px;
 }
 
+/* ===== Search Bar Styles ===== */
+#menuSearch {
+  padding: 10px 14px;
+  width: 70%;
+  max-width: 320px;
+  border-radius: 20px;
+  border: 2px solid #b78532;
+  background-color: #fffbe9;
+  font-size: 1rem;
+  color: #5a4422;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+#menuSearch::placeholder {
+  color: #a8772a;
+  font-weight: 500;
+}
+
+#menuSearch:focus {
+  border-color: #a8772a;
+  box-shadow: 0 0 12px rgba(168, 126, 58, 0.5);
+  transform: scale(1.02);
+}
+
 
 /* Smooth rainbow movement */
 @keyframes colorFlow {
-  0%   { background-position: 0% 50%; }
-  50%  { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 /* Soft glowing pulse */
 @keyframes glowPulse {
-  0%, 100% { box-shadow: 0 0 15px rgba(255,255,255,0.3); }
-  50%      { box-shadow: 0 0 35px rgba(255,255,255,0.7); }
+
+  0%,
+  100% {
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+  }
+
+  50% {
+    box-shadow: 0 0 35px rgba(255, 255, 255, 0.7);
+  }
 }
 
 
@@ -437,15 +489,18 @@ body {
 
 /* Menu header ad spacing */
 .menu-book header ins.adsbygoogle {
-  margin: 10px 0;           /* space above and below the ad */
-  max-width: 100%;           /* ensure it fits the header */
+  margin: 10px 0;
+  /* space above and below the ad */
+  max-width: 100%;
+  /* ensure it fits the header */
 }
 
 /* Optional: keep header content visually tight */
 .menu-book header h1,
 .menu-book header p,
 .menu-book header button {
-  margin: 5px 0;             /* reduce extra spacing */
+  margin: 5px 0;
+  /* reduce extra spacing */
 }
 
 /* Make ad responsive on mobile */
