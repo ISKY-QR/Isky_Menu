@@ -139,24 +139,6 @@ openMenuBtn.addEventListener("click", () => {
   menuPage.style.display = "block";
 });
 
-
-// ======= View Counter (CountAPI) =======
-window.addEventListener("DOMContentLoaded", async () => {
-  const params = new URLSearchParams(window.location.search);
-  const restaurant = params.get("restaurant") || "default";
-  const restaurantKey = `iskyenterprises-${restaurant}`;
-
-  try {
-    const res = await fetch(`https://api.countapi.xyz/hit/iskyenterprises/${restaurantKey}`);
-    const data = await res.json();
-    document.getElementById('viewCounter').textContent = `👁️ Views: ${data.value}`;
-  } catch (err) {
-    console.error("CountAPI error:", err);
-    document.getElementById('viewCounter').textContent = "👁️ Views: unavailable";
-  }
-});
-
-
 // ======= Search Functionality =======
 const searchInput = document.createElement("input");
 searchInput.type = "text";
