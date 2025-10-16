@@ -60,7 +60,7 @@
     },
     {
       "key": "CHINESE LAMB",
-      "titleEn": "SCHINESE LAMB",
+      "titleEn": "CHINESE LAMB",
       "titleHi": "चाइनीज़ लैंब"
     },
     {
@@ -5187,7 +5187,7 @@
         "en": "Chicken Champ",
         "hi": "चिकन चम्प"
       },
-      "price": 370.00,
+      "price": 340.00,
       "image": "",
       "description": "Spicy grilled chicken coated with rich masala and butter.",
       "about": {
@@ -5215,7 +5215,7 @@
         "en": "Chicken Tikka Lababdar",
         "hi": "चिकन टिक्का लबाबदार"
       },
-      "price": "330/350",
+      "price": "370",
       "image": "",
       "description": "Chicken tikka cooked in rich lababdar-style tomato gravy with cream and butter.",
       "about": {
@@ -5245,7 +5245,7 @@
         "en": "Chicken Panjabi (Bone/BL)",
         "hi": "चिकन पंजाबी (हड्डी सहित/बोनलेस)"
       },
-      "price": 340.00,
+      "price": "330/350",
       "image": "",
       "description": "A rich Punjabi-style chicken curry cooked with onion, tomato, and ghee.",
       "about": {
@@ -5275,7 +5275,7 @@
         "en": "Dum Ka Murgh",
         "hi": "दम का मुर्ग"
       },
-      "price": 320.00,
+      "price": 340.00,
       "image": "",
       "description": "Slow-cooked chicken with yogurt and rich Hyderabadi spices.",
       "about": {
@@ -5305,7 +5305,7 @@
         "en": "Chicken Bharta",
         "hi": "चिकन भरता"
       },
-      "price": "330/370",
+      "price": "320",
       "image": "",
       "description": "Smoky shredded chicken cooked with onion, tomato, and spices.",
       "about": {
@@ -5333,7 +5333,7 @@
         "en": "Murg Afghani (Bone/BL)",
         "hi": "मुर्ग अफगानी (हड्डी सहित/बोनलेस)"
       },
-      "price": 310.00,
+      "price": "330/370",
       "image": "",
       "description": "Creamy Afghani-style chicken with mild spices and rich texture.",
       "about": {
@@ -5363,7 +5363,7 @@
         "en": "Murg Mughlai (Bone/BL)",
         "hi": "मुर्ग मुगलई (हड्डी सहित/बोनलेस)"
       },
-      "price": "",
+      "price": "340/370",
       "image": "",
       "description": "Royal Mughlai-style chicken prepared with creamy and nutty gravy.",
       "about": {
@@ -5393,7 +5393,7 @@
         "en": "Murg Methi",
         "hi": "मुर्ग मेथी"
       },
-      "price": "340/370",
+      "price": "310",
       "image": "",
       "description": "Chicken cooked with fresh fenugreek leaves in aromatic masala gravy.",
       "about": {
@@ -5809,7 +5809,7 @@
         "en": "Keema Mutton",
         "hi": "कीमा मटन"
       },
-      "price": 280.00,
+      "price": 399,
       "image": "",
       "description": "Minced mutton cooked with onion, tomato, and flavorful Indian spices.",
       "about": {
@@ -6547,7 +6547,7 @@
         "en": "Banana Split",
         "hi": "बनाना स्प्लिट"
       },
-      "price": 90.00,
+      "price": 120,
       "image": "",
       "description": "Fresh banana served with scoops of ice cream and toppings.",
       "about": {
@@ -6577,7 +6577,7 @@
         "en": "Cassata",
         "hi": "कसाटा"
       },
-      "price": 120.00,
+      "price": 90,
       "image": "",
       "description": "Layered ice cream dessert with fruits and nuts.",
       "about": {
@@ -6667,7 +6667,7 @@
         "en": "Kesar Pista",
         "hi": "केसर पिस्ता"
       },
-      "price": 130.19,
+      "price": 110,
       "image": "",
       "description": "Rich saffron and pistachio flavored ice cream.",
       "about": {
@@ -6694,10 +6694,10 @@
     {
       "type": "DESERT",
       "name": {
-        "en": "Fruity Frooty",
+        "en": "Trooty Frooty (small/large)",
         "hi": "फ्रूटी फ्रूटी"
       },
-      "price": 160.00,
+      "price": "130/190",
       "image": "",
       "description": "Fresh fruit mixed with ice cream and colorful toppings.",
       "about": {
@@ -6727,7 +6727,7 @@
         "en": "Fruit Salad with Ice Cream",
         "hi": "फ्रूट सलाद विद आइसक्रीम"
       },
-      "price": 100.00,
+      "price": 160,
       "image": "",
       "description": "Fresh seasonal fruits served with a scoop of ice cream.",
       "about": {
@@ -6757,7 +6757,7 @@
         "en": "Ice Cream (Vanilla / Chocolate / Strawberry)",
         "hi": "आइसक्रीम (वैनिला / चॉकलेट / स्ट्रॉबेरी)"
       },
-      "price": 0.00,
+      "price": 100,
       "image": "",
       "description": "Choice of classic ice cream flavors: Vanilla, Chocolate, or Strawberry.",
       "about": {
