@@ -1,7 +1,8 @@
 {
   "name": "Welcome to Lemon Chilli Restaurant",
-  "subtitle": "Authentic Flavors",
+  "subtitle": "Delux Restaurant",
   "logo": "images/lemonChilli.png",
+  "instagram": "https://www.instagram.com/lemon_chilli_deluxe",
   "sections": [
     {
       "key": "MOCKTAILS",

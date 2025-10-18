@@ -46,12 +46,28 @@ async function loadRestaurantData() {
     restaurantData = await res.json();
     renderLanding();
     renderMenuSections();
+
+    // ===== Instagram Link Rendering =====
+    const socialContainer = document.getElementById("socialLinks");
+    if (restaurantData.instagram) {
+      socialContainer.innerHTML = `
+    <a href="${restaurantData.instagram}" target="_blank" class="instagram-link">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHftIZ2C7WZzFBKYBO8-KkY5wxJoiLYzblwQ&s" alt="Instagram" class="instagram-icon" />
+      <span>@${restaurantData.instagram.split("/").pop()}</span>
+    </a>
+  `;
+    } else {
+      socialContainer.innerHTML = ""; // hide if not provided
+    }
+
   } catch (err) {
     console.error(err);
     landingTitle.textContent = "Restaurant not found";
     openMenuBtn.style.display = "none";
   }
 }
+
+
 
 // ======= Landing Page =======
 function renderLanding() {
