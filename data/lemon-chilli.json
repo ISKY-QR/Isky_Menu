@@ -4,34 +4,19 @@
   "logo": "images/lemonChilli.png",
   "sections": [
     {
-      "key": "SORBET",
-      "titleEn": "SORBET",
-      "titleHi": "शरबत"
-    },
-    {
       "key": "MOCKTAILS",
       "titleEn": "MOCKTAILS",
       "titleHi": "मॉकटेल"
     },
     {
-      "key": "ORIENTAL EXPRESS",
-      "titleEn": "ORIENTAL EXPRESS",
-      "titleHi": "ओरिएंटल एक्सप्रेस"
+      "key": "SORBET",
+      "titleEn": "SORBET",
+      "titleHi": "शरबत"
     },
     {
       "key": "VEG STARTER",
       "titleEn": "VEG STARTER",
-      "titleHi": "वेज स्टार्टर "
-    },
-    {
-      "key": "NON VEG STARTER (Fish/Prawn)",
-      "titleEn": "NON VEG STARTER (Fish/Prawn)",
-      "titleHi": "नॉन-वेज स्टार्टर (Fish/Prawn)"
-    },
-    {
-      "key": "NON VEG STARTER (Mutton/Lamb)",
-      "titleEn": "NON VEG STARTER (Mutton/Lamb)",
-      "titleHi": "नॉन-वेज स्टार्टर (Mutton/Lamb)"
+      "titleHi": "वेज स्टार्टर"
     },
     {
       "key": "NON VEG STARTER (Chicken)",
@@ -39,34 +24,14 @@
       "titleHi": "नॉन-वेज स्टार्टर (चिकन)"
     },
     {
-      "key": "Chicken",
-      "titleEn": "Chicken",
-      "titleHi": "चिकन"
+      "key": "NON VEG STARTER (Mutton/Lamb)",
+      "titleEn": "NON VEG STARTER (Mutton/Lamb)",
+      "titleHi": "नॉन-वेज स्टार्टर (Mutton/Lamb)"
     },
     {
-      "key": "EGGS",
-      "titleEn": "EGGS",
-      "titleHi": "अंडे"
-    },
-    {
-      "key": "CHINA FAIR",
-      "titleEn": "CHINA FAIR",
-      "titleHi": "चाइना फेयर"
-    },
-    {
-      "key": "CHINA CHICKEN",
-      "titleEn": "CHINA CHICKEN",
-      "titleHi": "चाइना चिकन"
-    },
-    {
-      "key": "CHINESE LAMB",
-      "titleEn": "CHINESE LAMB",
-      "titleHi": "चाइनीज़ लैंब"
-    },
-    {
-      "key": "CHINESE SEA FOOD",
-      "titleEn": "CHINESE SEA FOOD",
-      "titleHi": "चाइनीज़ सी फ़ूड"
+      "key": "NON VEG STARTER (Fish/Prawn)",
+      "titleEn": "NON VEG STARTER (Fish/Prawn)",
+      "titleHi": "नॉन-वेज स्टार्टर (Fish/Prawn)"
     },
     {
       "key": "PASAND PUNJAB KI",
@@ -84,9 +49,39 @@
       "titleHi": "देसी दावत"
     },
     {
+      "key": "DESI SWAAD",
+      "titleEn": "DESI SWAAD",
+      "titleHi": "देसी स्वाद"
+    },
+    {
+      "key": "BIRBAL KI PASAND",
+      "titleEn": "BIRBAL KI PASAND",
+      "titleHi": "बीरबल की पसंद"
+    },
+    {
       "key": "TASTE OF INDIA",
       "titleEn": "TASTE OF INDIA",
-      "titleHi": "टेस्ट ऑफ़ इंडिया"
+      "titleHi": "टेस्ट ऑफ़ इंडिया"
+    },
+    {
+      "key": "Chicken",
+      "titleEn": "Chicken",
+      "titleHi": "चिकन"
+    },
+    {
+      "key": "EGGS",
+      "titleEn": "EGGS",
+      "titleHi": "अंडे"
+    },
+    {
+      "key": "ORIENTAL EXPRESS",
+      "titleEn": "ORIENTAL EXPRESS",
+      "titleHi": "ओरिएंटल एक्सप्रेस"
+    },
+    {
+      "key": "CHINA FAIR",
+      "titleEn": "CHINA FAIR",
+      "titleHi": "चाइना फेयर"
     },
     {
       "key": "CHINA GARDEN",
@@ -94,14 +89,24 @@
       "titleHi": "चाइना गार्डन"
     },
     {
-      "key": "DESERT",
-      "titleEn": "DESERT",
-      "titleHi": "डेज़र्ट"
+      "key": "CHINA CHICKEN",
+      "titleEn": "CHINA CHICKEN",
+      "titleHi": "चाइना चिकन"
     },
     {
-      "key": "DESI SWAAD",
-      "titleEn": "DESI SWAAD",
-      "titleHi": "देसी स्वाद"
+      "key": "CHINESE LAMB",
+      "titleEn": "CHINESE LAMB",
+      "titleHi": "चाइनीज़ लैंब"
+    },
+    {
+      "key": "CHINESE SEA FOOD",
+      "titleEn": "CHINESE SEA FOOD",
+      "titleHi": "चाइनीज़ सी फ़ूड"
+    },
+    {
+      "key": "DESERT",
+      "titleEn": "DESERT",
+      "titleHi": "डेज़र्ट"
     }
   ],
   "items": [
@@ -2581,7 +2586,7 @@
         "en": "Chicken Cooks To Order (bone)",
         "hi": "चिकन कुक टू ऑर्डर (हड्डी सहित)"
       },
-      "price": 340.00,
+      "price": 310.00,
       "image": "",
       "description": "A customizable dish of chicken with bone, prepared fresh according to the customer's choice of style (e.g., pan-fried, dry roast, or as a specific curry/fry not listed on the main menu).",
       "about": {
@@ -2611,7 +2616,7 @@
         "en": "Chicken Cooks To Order (boneless)",
         "hi": "चिकन कुक टू ऑर्डर (हड्डी रहित)"
       },
-      "price": 310.00,
+      "price": 340.00,
       "image": "",
       "description": "A customizable dish of boneless chicken, prepared fresh according to the customer's choice of style (e.g., tikka masala, garlic fry, or a specific Chinese preparation).",
       "about": {
@@ -2731,7 +2736,7 @@
         "en": "Murgh Mastana Kabab",
         "hi": "मुर्ग मस्ताना कबाब"
       },
-      "price": 340.00,
+      "price": 350.00,
       "image": "",
       "description": "A rich, creamy, and mildly spicy chicken tikka preparation. Boneless chicken is marinated in a mixture of hung curd, cashew paste, fresh cream, and subtle spices like cardamom and garam masala, then grilled.",
       "about": {
@@ -2761,7 +2766,7 @@
         "en": "Chicken Kalmi Kabab",
         "hi": "चिकन कलमी कबाब"
       },
-      "price": 350.00,
+      "price": 320.00,
       "image": "",
       "description": "Chicken drumsticks ('Kalmi' refers to a leg-piece or drumstick) marinated in a rich, creamy, and spicy yogurt-based blend featuring cream, butter, and traditional Indian spices, then grilled in the tandoor.",
       "about": {
@@ -2791,7 +2796,7 @@
         "en": "Chicken Abu Chilly Kabab",
         "hi": "चिकन अबू चिल्ली कबाब"
       },
-      "price": 320.00,
+      "price": 330.00,
       "image": "",
       "description": "A spicy and savory chicken preparation, likely a unique house-special blend. It involves pieces of chicken (possibly boneless) tossed in a dry or semi-dry Indo-Chinese-style sauce that emphasizes the heat of green and red chilies.",
       "about": {
@@ -2821,7 +2826,7 @@
         "en": "Chicken Shabnami Kabab",
         "hi": "चिकन शबनमी कबाब"
       },
-      "price": 330.00,
+      "price": 340.00,
       "image": "",
       "description": "Shabnami means 'dewy' or 'misty,' suggesting a moist, soft preparation. It is typically a minced chicken (keema) or boneless chicken kebab where the pieces are wrapped in a layer of egg white and mild spices, or served with a creamy white gravy/coating, cooked gently to retain moisture.",
       "about": {
@@ -2881,7 +2886,7 @@
         "en": "Chicken Tikka Kabab",
         "hi": "चिकन टिक्का कबाब"
       },
-      "price": 340.00,
+      "price": 330.00,
       "image": "",
       "description": "The quintessential Indian appetizer of boneless chicken pieces marinated in a tangy, spicy mixture of yogurt and a fiery red blend of traditional Indian spices, grilled in a tandoor oven until perfectly charred and succulent.",
       "about": {
@@ -7018,6 +7023,748 @@
           "मिर्च",
           "प्याज",
           "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg. Begum Bahar",
+        "hi": "वेज. बेगम बहार"
+      },
+      "price": 230.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A special vegetable preparation from the 'Birbal Ki Pasand' selection.",
+        "hi": "बिरबल की पसंद' चयन से एक विशेष सब्जी की तैयारी।"
+      },
+      "ingredients": {
+        "en": [
+          "Mixed Vegetables",
+          "Cream/Yogurt Based Gravy",
+          "Spices"
+        ],
+        "hi": [
+          "मिली जुली सब्जियाँ",
+          "क्रीम/दही आधारित ग्रेवी",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg. Makhanwala",
+        "hi": "वेज. मखनवाला"
+      },
+      "price": 230.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "Vegetables cooked in a rich, buttery, and creamy tomato gravy.",
+        "hi": "सब्जियां एक समृद्ध, मक्खनदार और मलाईदार टमाटर की ग्रेवी में पकाई जाती हैं।"
+      },
+      "ingredients": {
+        "en": [
+          "Mixed Vegetables",
+          "Tomato Puree",
+          "Butter (Makhan)",
+          "Cream",
+          "Cashew Paste"
+        ],
+        "hi": [
+          "मिली जुली सब्जियाँ",
+          "टमाटर प्यूरी",
+          "मक्खन",
+          "मलाई",
+          "काजू पेस्ट"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg. Jai Keema",
+        "hi": "वेज. जय कीमा"
+      },
+      "price": 220.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A minced vegetable preparation, possibly with a unique flavor profile.",
+        "hi": "एक कीमा बनाया हुआ सब्जी की तैयारी, संभवतः एक अद्वितीय स्वाद प्रोफाइल के साथ।"
+      },
+      "ingredients": {
+        "en": [
+          "Minced Vegetables (Soya/Paneer/Mixed)",
+          "Onion-Tomato Masala",
+          "Spices"
+        ],
+        "hi": [
+          "बारीक कटी हुई सब्जियां (सोया/पनीर/मिली जुली)",
+          "प्याज-टमाटर मसाला",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg. Jhal Fry",
+        "hi": "वेज. झाल फ्राई"
+      },
+      "price": 240.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A spicy dry/semi-dry preparation of mixed vegetables.",
+        "hi": "मिली जुली सब्जियों की एक मसालेदार सूखी/अर्ध-सूखी तैयारी।"
+      },
+      "ingredients": {
+        "en": [
+          "Mixed Vegetables",
+          "Onions & Capsicum",
+          "Green Chilies",
+          "Tangy & Spicy Sauce"
+        ],
+        "hi": [
+          "मिली जुली सब्जियाँ",
+          "प्याज और शिमला मिर्च",
+          "हरी मिर्च",
+          "टेंगी और मसालेदार सॉस"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Mix Veg",
+        "hi": "मिक्स वेज"
+      },
+      "price": 240.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A classic Indian curry with a variety of seasonal vegetables.",
+        "hi": "विभिन्न प्रकार की मौसमी सब्जियों के साथ एक क्लासिक भारतीय करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Assorted Seasonal Vegetables",
+          "Onion-Tomato Gravy",
+          "Indian Spices"
+        ],
+        "hi": [
+          "विभिन्न प्रकार की मौसमी सब्जियाँ",
+          "प्याज-टमाटर ग्रेवी",
+          "भारतीय मसाले"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg. Hyderabadi",
+        "hi": "वेज. हैदराबादी"
+      },
+      "price": 260.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A Mughlai style curry with vegetables, often featuring a mint or coriander-based green gravy.",
+        "hi": "सब्जियों के साथ एक मुगलई शैली की करी, जिसमें अक्सर पुदीना या धनिया आधारित हरी ग्रेवी होती है।"
+      },
+      "ingredients": {
+        "en": [
+          "Mixed Vegetables",
+          "Spinach/Mint/Coriander Paste",
+          "Yogurt/Cream",
+          "Spices"
+        ],
+        "hi": [
+          "मिली जुली सब्जियाँ",
+          "पालक/पुदीना/धनिया पेस्ट",
+          "दही/मलाई",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg. Kandhaari",
+        "hi": "वेज. कंधारी"
+      },
+      "price": 270.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A unique vegetable preparation, possibly with dried fruits or a rich, earthy flavor.",
+        "hi": "एक अनोखी सब्जी की तैयारी, संभवतः सूखे मेवों या एक समृद्ध, मिट्टी के स्वाद के साथ।"
+      },
+      "ingredients": {
+        "en": [
+          "Mixed Vegetables",
+          "Cashews/Almonds",
+          "Rich Gravy Base",
+          "Aromatic Spices"
+        ],
+        "hi": [
+          "मिली जुली सब्जियाँ",
+          "काजू/बादाम",
+          "समृद्ध ग्रेवी बेस",
+          "सुगंधित मसाले"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg. Navratan Korma",
+        "hi": "वेज. नवरत्न कोरमा"
+      },
+      "price": 290.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A rich, mild, and creamy curry made with nine (Navratan) different vegetables, fruits, and nuts.",
+        "hi": "नौ (नवरत्न) अलग-अलग सब्जियों, फलों और मेवों से बनी एक समृद्ध, हल्की और मलाईदार करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Nine Mixed Ingredients (Veggies, Fruits, Nuts)",
+          "Creamy White/Yellow Gravy",
+          "Saffron"
+        ],
+        "hi": [
+          "नौ मिली जुली सामग्री (सब्जियां, फल, मेवे)",
+          "मलाईदार सफेद/पीली ग्रेवी",
+          "केसर"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg. Pakiza",
+        "hi": "वेज. पाकीज़ा"
+      },
+      "price": 270.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A delicately flavored vegetable curry from the special menu.",
+        "hi": "विशेष मेनू से एक नाजुक स्वाद वाली सब्जी करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Assorted Vegetables",
+          "Mildly Spiced Gravy",
+          "Yogurt/Cream"
+        ],
+        "hi": [
+          "विभिन्न प्रकार की सब्जियाँ",
+          "हल्के मसालेदार ग्रेवी",
+          "दही/मलाई"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Shaam Aur Savera",
+        "hi": "शाम और सवेरा"
+      },
+      "price": 280.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "Cottage cheese (paneer) and spinach koftas (dumplings) in a rich gravy, representing the colors of 'Evening and Morning'.",
+        "hi": "पनीर और पालक के कोफ्ते एक समृद्ध ग्रेवी में, जो 'शाम और सवेरा' के रंगों का प्रतिनिधित्व करते हैं।"
+      },
+      "ingredients": {
+        "en": [
+          "Paneer and Spinach Koftas",
+          "Tomato and Cream Based Gravy",
+          "Aromatics"
+        ],
+        "hi": [
+          "पनीर और पालक कोफ्ते",
+          "टमाटर और क्रीम आधारित ग्रेवी",
+          "सुगंधित सामग्री"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Gobhi Mutter Masala",
+        "hi": "गोभी मटर मसाला"
+      },
+      "price": 250.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A classic North Indian curry featuring cauliflower (gobhi) and green peas (mutter).",
+        "hi": "फूलगोभी (गोभी) और हरी मटर (मटर) की विशेषता वाली एक क्लासिक उत्तर भारतीय करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Cauliflower Florets (Gobhi)",
+          "Green Peas (Mutter)",
+          "Onion-Tomato Gravy",
+          "Garam Masala"
+        ],
+        "hi": [
+          "फूलगोभी के फूल (गोभी)",
+          "हरी मटर (मटर)",
+          "प्याज-टमाटर ग्रेवी",
+          "गरम मसाला"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Mushroom Mutter Masala",
+        "hi": "मशरूम मटर मसाला"
+      },
+      "price": 280.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A flavorful curry with mushrooms and green peas in a spicy Indian gravy.",
+        "hi": "मशरूम और हरी मटर के साथ एक मसालेदार भारतीय ग्रेवी में एक स्वादिष्ट करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Mushrooms",
+          "Green Peas (Mutter)",
+          "Onion-Tomato Gravy",
+          "Cumin and Coriander"
+        ],
+        "hi": [
+          "मशरूम",
+          "हरी मटर (मटर)",
+          "प्याज-टमाटर ग्रेवी",
+          "जीरा और धनिया"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Chana Masala",
+        "hi": "चना मसाला"
+      },
+      "price": 220.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A popular Punjabi dish made with white chickpeas (chana) cooked in a spicy, tangy tomato-based gravy.",
+        "hi": "सफेद छोले (चना) से बना एक लोकप्रिय पंजाबी व्यंजन, जिसे मसालेदार, खट्टी टमाटर आधारित ग्रेवी में पकाया जाता है।"
+      },
+      "ingredients": {
+        "en": [
+          "White Chickpeas (Chana)",
+          "Tomato Puree",
+          "Chana Masala Spice Mix",
+          "Onions"
+        ],
+        "hi": [
+          "सफेद छोले (चना)",
+          "टमाटर प्यूरी",
+          "चना मसाला मसाला मिश्रण",
+          "प्याज"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Methi Mutter Malai Curry",
+        "hi": "मेथी मटर मलाई करी"
+      },
+      "price": 290.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A rich, creamy, and mildly sweet curry made with fresh fenugreek leaves (methi) and green peas (mutter).",
+        "hi": "ताजी मेथी के पत्ते (मेथी) और हरी मटर (मटर) से बनी एक समृद्ध, मलाईदार और हल्की मीठी करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Fresh Fenugreek Leaves (Methi)",
+          "Green Peas (Mutter)",
+          "Cream (Malai)",
+          "Cashew Paste"
+        ],
+        "hi": [
+          "ताजी मेथी के पत्ते (मेथी)",
+          "हरी मटर (मटर)",
+          "मलाई (मलाई)",
+          "काजू पेस्ट"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Kadhai Paneer",
+        "hi": "कढ़ाई पनीर"
+      },
+      "price": 310.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "Cottage cheese (paneer) cooked with bell peppers, onions, and fresh ground spices in a traditional Indian wok (kadhai).",
+        "hi": "पनीर (पनीर) को शिमला मिर्च, प्याज और ताजे पिसे हुए मसालों के साथ एक पारंपरिक भारतीय कड़ाही (कढ़ाई) में पकाया जाता है।"
+      },
+      "ingredients": {
+        "en": [
+          "Paneer Cubes",
+          "Bell Peppers (Capsicum)",
+          "Onions",
+          "Kadhai Masala (Fresh Ground Spices)"
+        ],
+        "hi": [
+          "पनीर के क्यूब्स",
+          "शिमला मिर्च",
+          "प्याज",
+          "कढ़ाई मसाला (ताजे पिसे हुए मसाले)"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Palak Paneer",
+        "hi": "पालक पनीर"
+      },
+      "price": 310.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A nutritious and classic North Indian dish of cottage cheese (paneer) in a creamy spinach (palak) gravy.",
+        "hi": "पनीर (पनीर) की मलाईदार पालक (पालक) ग्रेवी में एक पौष्टिक और क्लासिक उत्तर भारतीय व्यंजन।"
+      },
+      "ingredients": {
+        "en": [
+          "Paneer Cubes",
+          "Spinach Puree (Palak)",
+          "Garlic & Ginger",
+          "Cream"
+        ],
+        "hi": [
+          "पनीर के क्यूब्स",
+          "पालक प्यूरी (पालक)",
+          "लहसुन और अदरक",
+          "मलाई"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Paneer Khass Pasand",
+        "hi": "पनीर खास पसंद"
+      },
+      "price": 320.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A specialty paneer dish, highly recommended and favored.",
+        "hi": "एक विशेष पनीर व्यंजन, अत्यधिक अनुशंसित और पसंदीदा।"
+      },
+      "ingredients": {
+        "en": [
+          "Paneer",
+          "Special Gravy",
+          "Chef's Selection of Spices"
+        ],
+        "hi": [
+          "पनीर",
+          "विशेष ग्रेवी",
+          "शेफ द्वारा चुने गए मसाले"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Paneer Shahi Korma",
+        "hi": "पनीर शाही कोरमा"
+      },
+      "price": 320.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A royal (shahi), rich, and creamy curry with cottage cheese (paneer) and nuts.",
+        "hi": "पनीर (पनीर) और मेवों के साथ एक शाही, समृद्ध और मलाईदार करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Paneer Cubes",
+          "Rich Cream/Yogurt Gravy",
+          "Cashews & Raisins",
+          "Saffron"
+        ],
+        "hi": [
+          "पनीर के क्यूब्स",
+          "समृद्ध क्रीम/दही ग्रेवी",
+          "काजू और किशमिश",
+          "केसर"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Paneer Butter Masala",
+        "hi": "पनीर बटर मसाला"
+      },
+      "price": 299.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A slightly sweet, rich, and creamy curry made with cottage cheese (paneer), butter, and a tomato-based sauce.",
+        "hi": "पनीर, मक्खन और टमाटर आधारित सॉस से बनी एक थोड़ी मीठी, समृद्ध और मलाईदार करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Paneer Cubes",
+          "Tomato Puree",
+          "Butter",
+          "Cream",
+          "Kasoori Methi"
+        ],
+        "hi": [
+          "पनीर के क्यूब्स",
+          "टमाटर प्यूरी",
+          "मक्खन",
+          "मलाई",
+          "कसूरी मेथी"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Paneer Mutter",
+        "hi": "पनीर मटर"
+      },
+      "price": 290.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A popular dish combining cottage cheese (paneer) and green peas (mutter) in an onion-tomato gravy.",
+        "hi": "प्याज-टमाटर की ग्रेवी में पनीर और हरी मटर (मटर) का संयोजन वाला एक लोकप्रिय व्यंजन।"
+      },
+      "ingredients": {
+        "en": [
+          "Paneer Cubes",
+          "Green Peas (Mutter)",
+          "Onion-Tomato Masala",
+          "Spices"
+        ],
+        "hi": [
+          "पनीर के क्यूब्स",
+          "हरी मटर (मटर)",
+          "प्याज-टमाटर मसाला",
+          "मसाले"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Green Peas Masala",
+        "hi": "हरी मटर मसाला"
+      },
+      "price": 270.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A simple yet flavorful curry made with green peas (mutter) in a thick masala gravy.",
+        "hi": "हरी मटर (मटर) से गाढ़ी मसाला ग्रेवी में बनी एक सरल लेकिन स्वादिष्ट करी।"
+      },
+      "ingredients": {
+        "en": [
+          "Green Peas",
+          "Onion-Tomato Gravy",
+          "Garam Masala"
+        ],
+        "hi": [
+          "हरी मटर",
+          "प्याज-टमाटर ग्रेवी",
+          "गरम मसाला"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Aloo Dum Kashmiri",
+        "hi": "आलू दम कश्मीरी"
+      },
+      "price": 240.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A Kashmiri specialty of baby potatoes (aloo) slow-cooked in a spicy red gravy, often without onions and garlic.",
+        "hi": "बेबी आलू (आलू) की एक कश्मीरी विशेषता जिसे एक मसालेदार लाल ग्रेवी में धीरे-धीरे पकाया जाता है, अक्सर प्याज और लहसुन के बिना।"
+      },
+      "ingredients": {
+        "en": [
+          "Baby Potatoes (Aloo)",
+          "Kashmiri Chili Powder",
+          "Yogurt/Cream",
+          "Fennel Powder"
+        ],
+        "hi": [
+          "बेबी आलू (आलू)",
+          "कश्मीरी मिर्च पाउडर",
+          "दही/मलाई",
+          "सौंफ पाउडर"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Aloo Jeera",
+        "hi": "आलू जीरा"
+      },
+      "price": 210.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A simple and popular dry dish of potatoes (aloo) sautéed with cumin seeds (jeera) and spices.",
+        "hi": "आलू (आलू) का एक सरल और लोकप्रिय सूखा व्यंजन जिसे जीरा (जीरा) और मसालों के साथ तला जाता है।"
+      },
+      "ingredients": {
+        "en": [
+          "Boiled Potatoes (Aloo)",
+          "Cumin Seeds (Jeera)",
+          "Coriander Leaves",
+          "Turmeric"
+        ],
+        "hi": [
+          "उबले आलू (आलू)",
+          "जीरा",
+          "धनिया पत्ती",
+          "हल्दी"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Subz Meloni",
+        "hi": "सब्ज़ मेलोनी"
+      },
+      "price": 290.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A rich preparation of mixed vegetables (Subz) in a creamy, mild gravy.",
+        "hi": "एक मलाईदार, हल्की ग्रेवी में मिली जुली सब्जियों (सब्ज़) की एक समृद्ध तैयारी।"
+      },
+      "ingredients": {
+        "en": [
+          "Mixed Vegetables",
+          "Spinach/Fenugreek Base",
+          "Cream/Milk",
+          "Aromatics"
+        ],
+        "hi": [
+          "मिली जुली सब्जियाँ",
+          "पालक/मेथी बेस",
+          "मलाई/दूध",
+          "सुगंधित सामग्री"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Dhingri Dolma",
+        "hi": "ढिंगरी डोलमा"
+      },
+      "price": 320.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A rich and exotic preparation often featuring mushrooms (Dhingri) and cottage cheese (Paneer or Dolma-style filling).",
+        "hi": "एक समृद्ध और विदेशी तैयारी जिसमें अक्सर मशरूम (ढिंगरी) और पनीर (या डोलमा-शैली की स्टफिंग) होती है।"
+      },
+      "ingredients": {
+        "en": [
+          "Mushrooms (Dhingri)",
+          "Paneer/Stuffing",
+          "Rich Gravy",
+          "Dry Fruits"
+        ],
+        "hi": [
+          "मशरूम (ढिंगरी)",
+          "पनीर/स्टफिंग",
+          "समृद्ध ग्रेवी",
+          "सूखे मेवे"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Corn Palak",
+        "hi": "कॉर्न पालक"
+      },
+      "price": 310.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "A healthy and flavorful dish combining sweet corn kernels and a creamy spinach (palak) puree.",
+        "hi": "मीठे मकई के दाने और एक मलाईदार पालक (पालक) प्यूरी का संयोजन वाला एक स्वस्थ और स्वादिष्ट व्यंजन।"
+      },
+      "ingredients": {
+        "en": [
+          "Sweet Corn Kernels",
+          "Spinach Puree (Palak)",
+          "Garlic & Ginger",
+          "Cream (Optional)"
+        ],
+        "hi": [
+          "मीठे मकई के दाने",
+          "पालक प्यूरी (पालक)",
+          "लहसुन और अदरक",
+          "मलाई (वैकल्पिक)"
+        ]
+      }
+    },
+    {
+      "type": "BIRBAL KI PASAND",
+      "name": {
+        "en": "Veg Cooks to Order",
+        "hi": "वेज कुक्स टू ऑर्डर"
+      },
+      "price": 320.00,
+      "image": "",
+      "description": "",
+      "about": {
+        "en": "Vegetable dish prepared fresh according to the customer's specific preference or request.",
+        "hi": "ग्राहक की विशिष्ट पसंद या अनुरोध के अनुसार ताज़ा तैयार किया गया सब्जी व्यंजन।"
+      },
+      "ingredients": {
+        "en": [
+          "Fresh Seasonal Vegetables",
+          "Choice of Gravy/Style",
+          "Selected Spices"
+        ],
+        "hi": [
+          "ताज़ी मौसमी सब्जियाँ",
+          "ग्रेवी/शैली का चयन",
+          "चुने हुए मसाले"
         ]
       }
     }
