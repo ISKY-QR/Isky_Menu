@@ -2954,7 +2954,7 @@
         "en": "Palak Paneer",
         "hi": "पालक पनीर"
       },
-      "price": 310,
+      "price": 260,
       "description": "Healthy and vibrant curry made from spinach and cubes of soft paneer.",
       "about": {
         "en": "Soft paneer simmered in a smooth, spiced spinach purée. A nutritious delicacy.",
@@ -3041,7 +3041,7 @@
         "en": "Paneer Sholey",
         "hi": "पनीर शोले"
       },
-      "price": 310,
+      "price": 330,
       "description": "A unique and flavorful paneer preparation, often spicy and with a thick gravy.",
       "about": {
         "en": "A chef's special, intensely flavored paneer dish with a blend of regional spices.",
@@ -3134,7 +3134,7 @@
         "en": "Paneer Chatpata",
         "hi": "पनीर चटपटा"
       },
-      "price": 360,
+      "price": 310,
       "description": "A tangy, spicy, and zesty paneer dish with a flavorful, semi-dry preparation.",
       "about": {
         "en": "Paneer cooked with a mix of tangy and hot spices for a truly 'chatpata' (zesty) flavor.",
@@ -3165,7 +3165,7 @@
         "en": "Paneer Tikka Butter Masala",
         "hi": "पनीर टिक्का बटर मसाला"
       },
-      "price": 380,
+      "price": 360,
       "description": "Char-grilled paneer tikka pieces cooked in a rich, creamy, and mildly spicy tomato-based butter masala gravy.",
       "about": {
         "en": "Smoky marinated paneer tikkas are added to a classic butter masala sauce for an enhanced flavor.",
@@ -3196,7 +3196,7 @@
         "en": "Paneer Apple Spl.",
         "hi": "पनीर एप्पल स्पेशल"
       },
-      "price": 400,
+      "price": 380,
       "description": "A unique, sweet and savory paneer dish with the surprising addition of apple.",
       "about": {
         "en": "A specialty dish featuring paneer in a creamy gravy, subtly flavored with apple for a sweet twist.",
@@ -3227,7 +3227,7 @@
         "en": "Paneer Kaju Curry",
         "hi": "पनीर काजू करी"
       },
-      "price": 480,
+      "price": 400,
       "description": "A very rich and decadent curry with paneer and whole or broken cashews in a creamy gravy.",
       "about": {
         "en": "Paneer and cashew nuts simmered in a luxurious, extra-rich, cashew-based sauce.",
@@ -3258,7 +3258,7 @@
         "en": "Kaju Curry",
         "hi": "काजू करी"
       },
-      "price": 380,
+      "price": 480,
       "description": "A luscious curry featuring whole or broken cashews in a rich, creamy, and mildly spiced gravy.",
       "about": {
         "en": "Whole cashew nuts cooked in a rich, white/yellow Mughlai-style gravy.",
@@ -3287,7 +3287,7 @@
         "en": "Paneer Kali Mirch",
         "hi": "पनीर काली मिर्च"
       },
-      "price": 360,
+      "price": 380,
       "description": "A white/cream-based paneer curry intensely flavored with fresh ground black pepper (kali mirch).",
       "about": {
         "en": "Paneer cooked in a creamy sauce with the prominent spicy kick of black pepper.",
@@ -3316,7 +3316,7 @@
         "en": "Paneer Sultani",
         "hi": "पनीर सुल्तानी"
       },
-      "price": 320,
+      "price": 360,
       "description": "A royal and flavorful paneer curry, often made with a creamy and nut-rich gravy.",
       "about": {
         "en": "A rich, Mughlai-inspired dish with paneer in a luxurious, gently spiced sauce.",
@@ -3465,7 +3465,7 @@
         "en": "Shahi Paneer",
         "hi": "शाही पनीर"
       },
-      "price": 340,
+      "price": 350,
       "description": "A royal, rich, and creamy paneer preparation, mildly sweet and generally white/yellow in color.",
       "about": {
         "en": "Paneer in a thick, cashew-nut, onion, and cream gravy, fit for royalty.",
@@ -3496,7 +3496,7 @@
         "en": "Baby Corn Masala",
         "hi": "बेबी कॉर्न मसाला"
       },
-      "price": 380,
+      "price": 340,
       "description": "Tender baby corn cooked in a thick, spicy, and tangy Indian masala gravy.",
       "about": {
         "en": "Baby corn prepared in a flavorful onion-tomato masala with Indian spices.",
@@ -3525,7 +3525,7 @@
         "en": "Baby Corn Paneer Mushroom Masala",
         "hi": "बेबी कॉर्न पनीर मशरूम मसाला"
       },
-      "price": 320,
+      "price": 380,
       "description": "A mixed vegetable curry with paneer, baby corn, and mushrooms in a spicy Indian masala gravy.",
       "about": {
         "en": "A medley of paneer, baby corn, and mushrooms in a traditional medium-spicy sauce.",
@@ -5428,7 +5428,7 @@
         "en": "Plain Naan",
         "hi": "सादा नान"
       },
-      "price": 60,
+      "price": 50,
       "image": "",
       "description": "A traditional oven-baked flatbread, leavened and made from refined flour.",
       "about": {
